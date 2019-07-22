@@ -9,7 +9,7 @@ describes me as:
 
 Mostly, I make things from software. My day job is working for a London
 Fintech company but I've also made things like
-<a href="https://twitter.com/apollo11at40">Apollo 11 at 5o</a> and
+<a href="https://twitter.com/apollo11at40">Apollo 11 at 50</a> and
 <a href="https://twittelection.co.uk/">TwittElection</a>.
 
 My programming language of choice is Perl and I blog about it at
