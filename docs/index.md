@@ -1,6 +1,6 @@
 # Dave Cross
 
-![Dave Cross][dave.jpeg]
+![Dave Cross](davecross.jpeg)
 
 Hi, I'm [@davorg](https://twitter.com/davorg) on Twitter, where my bio
 describes me as:
