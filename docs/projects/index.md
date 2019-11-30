@@ -24,7 +24,7 @@ throne on any date in the last 180 years.
 ## BBC Radio Streams
 
 Many years ago the [BBC Radio Streams project](https://dave.org.uk/streams)
-scrapped a lot of data from the BBC Radio web site, extracting information
+scraped a lot of data from the BBC Radio web site, extracting information
 about radio streams and presenting them in a way that was more useful for
 many users.
 
