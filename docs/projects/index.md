@@ -15,6 +15,12 @@ whenever there is a general election in the UK. We build a Twitter
 list for every parliamentary constituency which includes the Twitter
 account of every candidate in that constituency.
 
+## Line of Succession
+
+[Line of Succession](https://lineofsuccession.co.uk/) is a site that will
+show you the first thirty names in the line of succession to the British
+throne on any date in the last 180 years.
+
 ## BBC Radio Streams
 
 Many years ago the [BBC Radio Streams project](https://dave.org.uk/streams)
