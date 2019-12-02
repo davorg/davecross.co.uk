@@ -10,7 +10,7 @@ describes me as:
 Mostly, I make things from software. My day job is working for a London
 Fintech company but I've also made things like
 <a href="https://twitter.com/apollo11at40">Apollo 11 at 50</a>, [Line of Succession](https://lineofsuccession.co.uk/) and
-<a href="https://twittelection.co.uk/">TwittElection</a>. If you're interested, you can [read more about those projects])(/projects/).
+<a href="https://twittelection.co.uk/">TwittElection</a>. If you're interested, you can [read more about those projects](/projects/).
 
 My programming language of choice is Perl and I blog about it at
 <a href="https://perlhacks.com/">Perl Hacks</a>. I'm a frequent speaker
