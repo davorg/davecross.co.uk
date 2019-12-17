@@ -25,8 +25,14 @@ throne on any date in the last 180 years.
 
 Many years ago the [BBC Radio Streams project](https://dave.org.uk/streams)
 scraped a lot of data from the BBC Radio web site, extracting information
-about radio streams and presenting them in a way that was more useful for
+about radio streams and presented them in a way that was more useful for
 many users.
 
-This project was closed down many years ago, once the Radio iPlayer made
-accessing the contect far easier for most users.
+This project was closed down once the Radio iPlayer made accessing the
+content far easier for most users.
+
+## Tower Bridge Data
+
+I got annoyed by the fact that information about when Tower Bridge was
+going to lift wasn't easily available in machine-readable format. So
+I [made a site](https://towerbridge.dave.org.uk/) which did just that.
