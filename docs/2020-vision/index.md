@@ -66,5 +66,8 @@ they could periodically audit the site for basic on-page SEO errors. This week
 I took a close look at their most recent report and created a couple of tasks
 to look at next week.
 
+Oh, and I started reading Seth Godin's book
+*[This is Marketing](https://amzn.to/2uRS90H)*.
+
 If you're interested in following what I'm doing more closely, my
 [Trello board](https://trello.com/b/WWetD28I/01-line-of-succession) is public.
