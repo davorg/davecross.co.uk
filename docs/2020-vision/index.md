@@ -50,10 +50,9 @@ contacts with people like this - so I've signed up with
 I used to blog semi-regularly on the Line of Succession site, but that had
 largely fallen away over the last year. I've set myself a task to write a
 new blog post for the site every week in the month. I wrote one this week
-about [the people who are at the end of the line of succession]
-(https://blog.lineofsuccession.co.uk/2020/01/end-of-the-line/). I promoted
-this post on both (Twitter)[https://twitter.com/linesuccession] and
-(Facebook)[https://facebook.com/linesuccession].
+about [the people who are at the end of the line of succession](https://blog.lineofsuccession.co.uk/2020/01/end-of-the-line/).
+I promoted this post on both [Twitter](https://twitter.com/linesuccession)
+and [Facebook](https://facebook.com/linesuccession).
 
 Oh, and talking about social media, the line of succession accounts are
 usually quite quiet, but as I've been working on the site full time I've made
