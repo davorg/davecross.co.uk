@@ -10,7 +10,7 @@ I plan to write about what I'm doing each week. So here's are my weekly reports.
 ## January - Line of Succession
 
 I'm starting by doing some work on a site called [Line of Succession](https://lineofsuccession.co.uk/).
-This is a site that has existed for some time (you may have seen the video of me
+This is a site that has existed for some time - you may have seen the video of me
 [giving a talk about it](https://blog.lineofsuccession.co.uk/talk/) to the London Perl Mongers.
 
 The decision to go with an existing site for the first month was deliberate.
