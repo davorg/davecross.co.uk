@@ -32,7 +32,7 @@ that I wanted to fix and I got through many of those during this week.
 
 Until now, the data on the site went back to 1837 (the start of Queen
 Victoria's reign). I thought it would be a good marketing hook to
-have 200 years of data and, conveniently, George V came to the throne
+have 200 years of data and, conveniently, George IV came to the throne
 in January 1820, so I've ensured that the data is correct back to the
 start of his reign. I was also annoyed by a few bugs in the list of
 positions on the individual person pages - so I spent have a day fixing
