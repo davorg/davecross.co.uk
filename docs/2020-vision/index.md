@@ -7,7 +7,7 @@ trying to take a number of my web site ideas and turn them into viable businesse
 
 I plan to write about what I'm doing each week. So here's are my weekly reports.
 
-![Web feed](/feed.png "Web feed")
+[![Web feed](/feed.png "Web feed")[https://davecross.co.uk/2020-vision/feed.atom]]
 
 ## January - Line of Succession
 
