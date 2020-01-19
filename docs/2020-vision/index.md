@@ -22,7 +22,6 @@ working outside of my comfort zone. In this case, the thing that the
 site really needs is marketing. And I know almost nothing about
 marketing. So what have I been doing?
 
-<a name="Week01" />
 ### Week 1: w/c 2020-01-06
 
 Although this month is mostly supposed to be about marketing, it helps
