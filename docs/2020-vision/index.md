@@ -7,6 +7,8 @@ trying to take a number of my web site ideas and turn them into viable businesse
 
 I plan to write about what I'm doing each week. So here's are my weekly reports.
 
+![Web feed](feed.png "Web feed")
+
 ## January - Line of Succession
 
 I'm starting by doing some work on a site called [Line of Succession](https://lineofsuccession.co.uk/).
