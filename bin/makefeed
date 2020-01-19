@@ -10,7 +10,7 @@ use DateTime::Format::Strptime;
 
 my $src = shift || "$Bin/../docs/2020-vision/index.md";
 
-my $feed_file = 'atom.xml';
+my $feed_file = 'feed.atom';
 
 open my $in_fh, '<', $src or die $!;
 
