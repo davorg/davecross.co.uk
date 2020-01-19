@@ -1,0 +1,71 @@
+#!/usr/bin/perl
+
+use strict;
+use warnings;
+
+use FindBin '$Bin';
+use XML::Feed;
+use Text::Markdown 'markdown';
+use DateTime::Format::Strptime;
+
+my $src = shift || "$Bin/../docs/2020-vision/index.md";
+
+my $feed_file = 'atom.xml';
+
+open my $in_fh, '<', $src or die $!;
+
+my @entries;
+
+my $curr_entry;
+
+while (<$in_fh>) {
+  next unless /^###\s/ .. eof;
+
+  if (/^###\s+(.+)/) {
+    # new entry
+    if ($curr_entry) {
+      $entries[-1]{text} = markdown($curr_entry);
+      $curr_entry = '';
+    }
+    push @entries, { title => $1 };
+  } else {
+    $curr_entry .= $_;
+  }
+}
+
+my $date_parser = DateTime::Format::Strptime->new(
+  pattern => '%Y-%m-%d',
+);
+
+$entries[-1]{text} = markdown($curr_entry);
+
+my $feed = XML::Feed->new('Atom');
+$feed->title(q[Dave's 2020 Vision]);
+$feed->link(q[https://davecross.co.uk/2020-vision/]);
+$feed->self_link($feed->link . $feed_file);
+$feed->id($feed->self_link);
+
+my ($last_date) = $entries[-1]{title} =~ /(\d{4}-\d\d-\d\d)/;
+my $feed_dt  = $date_parser->parse_datetime($last_date);
+$feed->modified($feed_dt);
+
+for (@entries) {
+  my ($date) = $_->{title} =~ /(\d{4}-\d\d-\d\d)/;
+  my $dt_obj = $date_parser->parse_datetime($date);
+  $feed_dt = $dt_obj;
+  my $id = lc $_->{title};
+  $id =~ s|w/c|wc|;
+  $id =~ s|\W+|-|g;
+  my $entry = XML::Feed::Entry->new('Atom');
+  $entry->title($_->{title});
+  $entry->content($_->{text});
+  $entry->author('Dave Cross <dave+feed@davecross.co.uk');
+  $entry->issued($dt_obj);
+  $entry->modified($dt_obj);
+  $entry->id("https://davecross.co.uk/2020-vision/#$id");
+  $feed->add_entry($entry);
+}
+
+open my $out_fh, '>', "$Bin/../docs/2020-vision/$feed_file" or die $!;
+
+print $out_fh $feed->as_xml;

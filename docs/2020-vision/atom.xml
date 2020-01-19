@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Dave's 2020 Vision</title>
+  <link rel="alternate" href="https://davecross.co.uk/2020-vision/" type="text/html"/>
+  <link rel="self" href="https://davecross.co.uk/2020-vision/atom.xml" type="application/atom+xml"/>
+  <id>https://davecross.co.uk/2020-vision/atom.xml</id>
+  <updated>2020-01-06T00:00:00Z</updated>
+  <entry>
+    <title>Week 1: w/c 2020-01-06</title>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml"><p>Although this month is mostly supposed to be about marketing, it helps
+if you have something worth talking about. There were a few little problems
+that I wanted to fix and I got through many of those during this week.</p>
+
+<p>Until now, the data on the site went back to 1837 (the start of Queen
+Victoria's reign). I thought it would be a good marketing hook to
+have 200 years of data and, conveniently, George V came to the throne
+in January 1820, so I've ensured that the data is correct back to the
+start of his reign. I was also annoyed by a few bugs in the list of
+positions on the individual person pages - so I spent have a day fixing
+all of those.</p>
+
+<p>I got off to a fairly slow start on the marketing front. I spent some
+time building a list of people who write about the royal family for
+newspapers and magazines. I then emailed those people, telling them about
+the site in the hope that they might be interested in writing about it.
+So far, that hasn't been successful. I've only had a single reply - and that
+was just to thank me for my email. This convinced me that I needed a
+<abbr title="Customer Relationship Manager">CRM</abbr> system to manage my
+contacts with people like this - so I've signed up with
+<a href="https://capsulecrm.com/">Capsule</a>.</p>
+
+<p>I used to blog semi-regularly on the Line of Succession site, but that had
+largely fallen away over the last year. I've set myself a task to write a
+new blog post for the site every week in the month. I wrote one this week
+about <a href="https://blog.lineofsuccession.co.uk/2020/01/end-of-the-line/">the people who are at the end of the line of succession</a>.
+I promoted this post on both <a href="https://twitter.com/linesuccession">Twitter</a>
+and <a href="https://facebook.com/linesuccession">Facebook</a>.</p>
+
+<p>Oh, and talking about social media, the line of succession accounts are
+usually quite quiet, but as I've been working on the site full time I've made
+several more posts on these accounts. And the news about the Duke and Duchess
+of Sussex gave me more excuses to post.</p>
+
+<p><abbr title="Search Engine Optimisation">SEO</abbr> is an important part of
+marketing. Some months ago, I signed up to <a href="https://semrush.com">SEMrush</a> so
+they could periodically audit the site for basic on-page SEO errors. This week
+I took a close look at their most recent report and created a couple of tasks
+to look at next week.</p>
+
+<p>Oh, and I started reading Seth Godin's book
+<em><a href="https://amzn.to/2uRS90H">This is Marketing</a></em>.</p>
+
+<p>If you're interested in following what I'm doing more closely, my
+<a href="https://trello.com/b/WWetD28I/01-line-of-succession">Trello board</a> is public.</p>
+</div>
+    </content>
+    <author>
+      <name>Dave Cross &lt;dave+feed@davecross.co.uk</name>
+    </author>
+    <published>2020-01-06T00:00:00Z</published>
+    <updated>2020-01-06T00:00:00Z</updated>
+    <id>https://davecross.co.uk/2020-vision/#week-1-wc-2020-01-06</id>
+  </entry>
+</feed>
