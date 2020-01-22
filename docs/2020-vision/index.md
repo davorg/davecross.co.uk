@@ -117,6 +117,6 @@ the future. Slightly macarbrely, the best time to promote a book like
 this might be when the Queen dies.
 
 I see that my first progress report was
-(posted to Reddit)[https://www.reddit.com/r/perl/comments/eqfdpn/2020_vision_of_dave_cross_line_of_succession/]
+[posted to Reddit](https://www.reddit.com/r/perl/comments/eqfdpn/2020_vision_of_dave_cross_line_of_succession/)
 over the weekend. I answered a few questions there and I hope the
 discussion was interesting.
