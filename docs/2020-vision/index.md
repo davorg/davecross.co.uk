@@ -71,3 +71,52 @@ Oh, and I started reading Seth Godin's book
 
 If you're interested in following what I'm doing more closely, my
 [Trello board](https://trello.com/b/WWetD28I/01-line-of-succession) is public.
+
+### Week 2: w/c 2020-01-13
+
+The second week of the project had far less technical stuff in it as I
+concentrated more on marketing. I still found time for a few technical
+fixes though.  I found and fixed a bug where the list of blog posts was
+only appearing on the front page. And I did a couple of technical SEO
+fixes - setting caching headers on CSS files and adding some meta
+descriptions that were missing from blog pages. As I'm only using the
+free tier of [SEMrush](https://semrush.com), I'll have to wait a couple
+of weeks before their next audit reveals how well those fixes has
+worked.
+
+I've been blogging on [the site](https://blog.lineofsuccession.co.uk)
+for a while and this week I added
+[another blog post](https://blog.lineofsuccession.co.uk/2020/01/end-of-the-line-part-2/)
+following up on last week's exploration of people at the end of the
+line of succession. I also set up a
+[Medium Publication](https://medium.com/line-of-succession) where I've
+republished the older blog posts. I don't know how many people search
+Medium for stories about the British Royal Family, but those who do will
+now stand a chance of finding my articles. Oh, and I've signed up
+for the Medium Partner Program so I can be paid if people read my posts
+there.
+
+An important part of marketing is to understand who your target audience.
+I spend some time thinking about this and by monitoring the likes I'm
+getting on my
+[Facebook page](https://www.facebook.com/linesuccession/) I've worked out
+that the people most interested in my site seem to be middle-aged
+American housewives (I was honestly aiming at British historians, but I
+guess you take what you can). Some of the week was spend pondering
+how I could extract money from this audience. Would they buy some kind
+of merchandise? This is a question I'll return to this week.
+
+But I do think that a book could be a good idea. I spend some time
+considering what that might look like. Eventually, I decided it should
+be a coffee-table book with lots of photos. It could contain short
+biographies of all people who have appeared in the top twenty of the
+line of succession over the last two hundred years, together with
+a few essays related to the line of succession. I won't have time to
+write it before the end of the month, but it's a possible project for
+the future. Slightly macarbrely, the best time to promote a book like
+this might be when the Queen dies.
+
+I see that my first progress report was
+(posted to Reddit)[https://www.reddit.com/r/perl/comments/eqfdpn/2020_vision_of_dave_cross_line_of_succession/]
+over the weekend. I answered a few questions there and I hope the
+discussion was interesting.
