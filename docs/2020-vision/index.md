@@ -35,7 +35,7 @@ Victoria's reign). I thought it would be a good marketing hook to
 have 200 years of data and, conveniently, George IV came to the throne
 in January 1820, so I've ensured that the data is correct back to the
 start of his reign. I was also annoyed by a few bugs in the list of
-positions on the individual person pages - so I spent have a day fixing
+positions on the individual person pages - so I spent half a day fixing
 all of those.
 
 I got off to a fairly slow start on the marketing front. I spent some
