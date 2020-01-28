@@ -136,7 +136,7 @@ to hide the information unless a user hovers over the photo.
 
 I'm trying to stop myself reaching for Wordpress whenever I want to set up
 a new site, so this site is just a static site hosted on Github Pages. That's
-all very well, but slightly miss all the stuff that Wordpress gives you for
+all very well, but I slightly miss all the stuff that Wordpress gives you for
 free. For example, there was no web feed for this updates until I hacked one
 together last week. And it still doesn't have the autodiscovery tags in the
 HTML headers. Maybe I'll add them at some point.
