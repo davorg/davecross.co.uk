@@ -4,7 +4,7 @@
   <link rel="alternate" href="https://davecross.co.uk/2020-vision/" type="text/html"/>
   <link rel="self" href="https://davecross.co.uk/2020-vision/feed.atom" type="application/atom+xml"/>
   <id>https://davecross.co.uk/2020-vision/feed.atom</id>
-  <updated>2020-01-28T13:37:52Z</updated>
+  <updated>2020-01-28T13:41:33Z</updated>
   <entry>
     <title>Week 1: w/c 2020-01-06</title>
     <content type="xhtml">
@@ -127,8 +127,8 @@ discussion was interesting.</p>
 concentrated on marketing. But the
 <a href="https://www.reddit.com/r/perl/comments/eqfdpn/2020_vision_of_dave_cross_line_of_succession/">Reddit discussion</a>
 I mentioned last week included the suggestion that I should credit the photos
-that I'm using on the site. That made a lot of sense to me so I spend a
-few hours checking the correct attribution and ensuring they appeared
+that I'm using on the site. That made a lot of sense to me so I spent a
+few hours checking the correct attributions and ensuring they appeared
 correctly under the photos. I glad I did that, but I'm not entirely happy
 with how it looks on the page. If I have some time to spare, I might try
 to hide the information unless a user hovers over the photo.</p>
@@ -136,7 +136,7 @@ to hide the information unless a user hovers over the photo.</p>
 <p>I'm trying to stop myself reaching for Wordpress whenever I want to set up
 a new site, so this site is just a static site hosted on Github Pages. That's
 all very well, but I slightly miss all the stuff that Wordpress gives you for
-free. For example, there was no web feed for this updates until I hacked one
+free. For example, there was no web feed for these updates until I hacked one
 together last week. And it still doesn't have the autodiscovery tags in the
 HTML headers. Maybe I'll add them at some point.</p>
 
@@ -152,14 +152,14 @@ mailing list that I've been ignoring for far too long. But the free level
 allowed you to have as many mailing lists as you wanted as long as your
 total number of subscribers was fewer than (I think) 2,000. And I had set
 up a few more mailing lists for other projects I had dabbled with. Last
-week I revisited that account as I wanted to create a new list for Line
-of Succession. But I found that the account had been locked because the
-pricing plans had changed and the free level could only use a single
-mailing list (or "audience", as they now describe them). So I've subscribed
-to a paid plan. And I've added a sign-up to the web site. Most of the
-marketing material I've read agrees that getting a long list of email
-addresses should be one of your prime targets - so I'm trying to do that
-now.</p>
+week I revisited that account as I wanted to create
+<a href="http://eepurl.com/gQUco5">a new list for Line of Succession</a>. But I found
+that the account had been locked because the pricing plans had changed and
+the free level could now only use a single mailing list (or "audience", as
+they now describe them). So I've subscribed to a paid plan. And I've added
+a sign-up form to the web site. Most of the marketing material I've read
+agrees that getting a long list of email addresses should be one of your
+prime targets - so I'm trying to do that now.</p>
 
 <p>I did one afternoon of heavy promotion. I emailed a genealogy mailing list
 about the site. That got it mentioned in a newsletter and brought about

@@ -128,8 +128,8 @@ Week three was another week with very little technical work, as I
 concentrated on marketing. But the
 [Reddit discussion](https://www.reddit.com/r/perl/comments/eqfdpn/2020_vision_of_dave_cross_line_of_succession/)
 I mentioned last week included the suggestion that I should credit the photos
-that I'm using on the site. That made a lot of sense to me so I spend a
-few hours checking the correct attribution and ensuring they appeared
+that I'm using on the site. That made a lot of sense to me so I spent a
+few hours checking the correct attributions and ensuring they appeared
 correctly under the photos. I glad I did that, but I'm not entirely happy
 with how it looks on the page. If I have some time to spare, I might try
 to hide the information unless a user hovers over the photo.
@@ -137,7 +137,7 @@ to hide the information unless a user hovers over the photo.
 I'm trying to stop myself reaching for Wordpress whenever I want to set up
 a new site, so this site is just a static site hosted on Github Pages. That's
 all very well, but I slightly miss all the stuff that Wordpress gives you for
-free. For example, there was no web feed for this updates until I hacked one
+free. For example, there was no web feed for these updates until I hacked one
 together last week. And it still doesn't have the autodiscovery tags in the
 HTML headers. Maybe I'll add them at some point.
 
@@ -153,14 +153,14 @@ mailing list that I've been ignoring for far too long. But the free level
 allowed you to have as many mailing lists as you wanted as long as your
 total number of subscribers was fewer than (I think) 2,000. And I had set
 up a few more mailing lists for other projects I had dabbled with. Last
-week I revisited that account as I wanted to create a new list for Line
-of Succession. But I found that the account had been locked because the
-pricing plans had changed and the free level could only use a single
-mailing list (or "audience", as they now describe them). So I've subscribed
-to a paid plan. And I've added a sign-up to the web site. Most of the
-marketing material I've read agrees that getting a long list of email
-addresses should be one of your prime targets - so I'm trying to do that
-now.
+week I revisited that account as I wanted to create
+[a new list for Line of Succession](http://eepurl.com/gQUco5). But I found
+that the account had been locked because the pricing plans had changed and
+the free level could now only use a single mailing list (or "audience", as
+they now describe them). So I've subscribed to a paid plan. And I've added
+a sign-up form to the web site. Most of the marketing material I've read
+agrees that getting a long list of email addresses should be one of your
+prime targets - so I'm trying to do that now.
 
 I did one afternoon of heavy promotion. I emailed a genealogy mailing list
 about the site. That got it mentioned in a newsletter and brought about
