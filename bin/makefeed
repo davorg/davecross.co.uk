@@ -7,6 +7,7 @@ use FindBin '$Bin';
 use XML::Feed;
 use Text::Markdown 'markdown';
 use DateTime::Format::Strptime;
+use DateTime;
 
 my $src = shift || "$Bin/../docs/2020-vision/index.md";
 
@@ -45,14 +46,11 @@ $feed->link(q[https://davecross.co.uk/2020-vision/]);
 $feed->self_link($feed->link . $feed_file);
 $feed->id($feed->self_link);
 
-my ($last_date) = $entries[-1]{title} =~ /(\d{4}-\d\d-\d\d)/;
-my $feed_dt  = $date_parser->parse_datetime($last_date);
-$feed->modified($feed_dt);
+$feed->modified(DateTime->now);
 
 for (@entries) {
   my ($date) = $_->{title} =~ /(\d{4}-\d\d-\d\d)/;
-  my $dt_obj = $date_parser->parse_datetime($date);
-  $feed_dt = $dt_obj;
+  my $dt_obj = $date_parser->parse_datetime($date)->add(weeks => 1);
   my $id = lc $_->{title};
   $id =~ s|w/c|wc|;
   $id =~ s|\W+|-|g;

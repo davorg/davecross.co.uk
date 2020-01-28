@@ -4,7 +4,7 @@
   <link rel="alternate" href="https://davecross.co.uk/2020-vision/" type="text/html"/>
   <link rel="self" href="https://davecross.co.uk/2020-vision/feed.atom" type="application/atom+xml"/>
   <id>https://davecross.co.uk/2020-vision/feed.atom</id>
-  <updated>2020-01-13T00:00:00Z</updated>
+  <updated>2020-01-28T10:51:51Z</updated>
   <entry>
     <title>Week 1: w/c 2020-01-06</title>
     <content type="xhtml">
@@ -17,7 +17,7 @@ Victoria's reign). I thought it would be a good marketing hook to
 have 200 years of data and, conveniently, George IV came to the throne
 in January 1820, so I've ensured that the data is correct back to the
 start of his reign. I was also annoyed by a few bugs in the list of
-positions on the individual person pages - so I spent have a day fixing
+positions on the individual person pages - so I spent half a day fixing
 all of those.</p>
 
 <p>I got off to a fairly slow start on the marketing front. I spent some
@@ -58,8 +58,8 @@ to look at next week.</p>
     <author>
       <name>Dave Cross &lt;dave+feed@davecross.co.uk</name>
     </author>
-    <published>2020-01-06T00:00:00Z</published>
-    <updated>2020-01-06T00:00:00Z</updated>
+    <published>2020-01-13T00:00:00Z</published>
+    <updated>2020-01-13T00:00:00Z</updated>
     <id>https://davecross.co.uk/2020-vision/#week-1-wc-2020-01-06</id>
   </entry>
   <entry>
@@ -116,8 +116,76 @@ discussion was interesting.</p>
     <author>
       <name>Dave Cross &lt;dave+feed@davecross.co.uk</name>
     </author>
-    <published>2020-01-13T00:00:00Z</published>
-    <updated>2020-01-13T00:00:00Z</updated>
+    <published>2020-01-20T00:00:00Z</published>
+    <updated>2020-01-20T00:00:00Z</updated>
     <id>https://davecross.co.uk/2020-vision/#week-2-wc-2020-01-13</id>
+  </entry>
+  <entry>
+    <title>Week 3: w/c 2020-01-20</title>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml"><p>Week three was another week with very little technical work, as I
+concentrated on marketing. But the
+<a href="https://www.reddit.com/r/perl/comments/eqfdpn/2020_vision_of_dave_cross_line_of_succession/">Reddit discussion</a>
+I mentioned last week included the suggestion that I should credit the photos
+that I'm using on the site. That made a lot of sense to me so I spend a
+few hours checking the correct attribution and ensuring they appeared
+correctly under the photos. I glad I did that, but I'm not entirely happy
+with how it looks on the page. If I have some time to spare, I might try
+to hide the information unless a user hovers over the photo.</p>
+
+<p>I'm trying to stop myself reaching for Wordpress whenever I want to set up
+a new site, so this site is just a static site hosted on Github Pages. That's
+all very well, but slightly miss all the stuff that Wordpress gives you for
+free. For example, there was no web feed for this updates until I hacked one
+together last week. And it still doesn't have the autodiscovery tags in the
+HTML headers. Maybe I'll add them at some point.</p>
+
+<p>The biggest piece of marketing I did was to create
+<a href="https://www.youtube.com/watch?v=J51hKn74eyA&amp;t=">a video</a>
+that talks people through all of the various things that you can do on the
+site. But I havent done a very good job of promoting it. A week later, it's
+had twenty-three views.</p>
+
+<p>A few years ago I set up a Mailchimp account. I registered for the free
+level and I mostly used it for the <a href="https://perlhacks.com/">Perl Hacks</a>
+mailing list that I've been ignoring for far too long. But the free level
+allowed you to have as many mailing lists as you wanted as long as your
+total number of subscribers was fewer than (I think) 2,000. And I had set
+up a few more mailing lists for other projects I had dabbled with. Last
+week I revisited that account as I wanted to create a new list for Line
+of Succession. But I found that the account had been locked because the
+pricing plans had changed and the free level could only use a single
+mailing list (or "audience", as they now describe them). So I've subscribed
+to a paid plan. And I've added a sign-up to the web site. Most of the
+marketing material I've read agrees that getting a long list of email
+addresses should be one of your prime targets - so I'm trying to do that
+now.</p>
+
+<p>I did one afternoon of heavy promotion. I emailed a genealogy mailing list
+about the site. That got it mentioned in a newsletter and brought about
+five hundred visitors to the site. I tweeted to a number of well-known
+TV historians - but got no response at all. And I emailed the owners of
+a large number of royalty-focussed blogs asking them if they would be
+interested in mentioning the site to their readers. I've had no response
+from any of them either. I guess I need to send a follow-up email this
+week. One thing I'm learning is that marketing means you need to be a lot
+more persistent than I'm naturally comfortable with.</p>
+
+<p>Oh, and one other little technical thing. I ran a
+<a href="https://developers.google.com/web/tools/lighthouse">Google Lighthouse</a>
+report on the site and it told me that I was using an older version of
+jQuery that had a couple of vulnerabilities (version 3.2.1, if you're
+interested). I've now upgraded to the most recent version - 3.4.1.</p>
+
+<p>This week is, in theory, all about merchandise. I think the best way to
+actually make some money from the site is to sell stuff to people.</p>
+</div>
+    </content>
+    <author>
+      <name>Dave Cross &lt;dave+feed@davecross.co.uk</name>
+    </author>
+    <published>2020-01-27T00:00:00Z</published>
+    <updated>2020-01-27T00:00:00Z</updated>
+    <id>https://davecross.co.uk/2020-vision/#week-3-wc-2020-01-20</id>
   </entry>
 </feed>

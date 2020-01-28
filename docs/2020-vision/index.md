@@ -120,3 +120,63 @@ I see that my first progress report was
 [posted to Reddit](https://www.reddit.com/r/perl/comments/eqfdpn/2020_vision_of_dave_cross_line_of_succession/)
 over the weekend. I answered a few questions there and I hope the
 discussion was interesting.
+
+
+### Week 3: w/c 2020-01-20
+
+Week three was another week with very little technical work, as I
+concentrated on marketing. But the
+[Reddit discussion](https://www.reddit.com/r/perl/comments/eqfdpn/2020_vision_of_dave_cross_line_of_succession/)
+I mentioned last week included the suggestion that I should credit the photos
+that I'm using on the site. That made a lot of sense to me so I spend a
+few hours checking the correct attribution and ensuring they appeared
+correctly under the photos. I glad I did that, but I'm not entirely happy
+with how it looks on the page. If I have some time to spare, I might try
+to hide the information unless a user hovers over the photo.
+
+I'm trying to stop myself reaching for Wordpress whenever I want to set up
+a new site, so this site is just a static site hosted on Github Pages. That's
+all very well, but slightly miss all the stuff that Wordpress gives you for
+free. For example, there was no web feed for this updates until I hacked one
+together last week. And it still doesn't have the autodiscovery tags in the
+HTML headers. Maybe I'll add them at some point.
+
+The biggest piece of marketing I did was to create
+[a video](https://www.youtube.com/watch?v=J51hKn74eyA&t=)
+that talks people through all of the various things that you can do on the
+site. But I havent done a very good job of promoting it. A week later, it's
+had twenty-three views.
+
+A few years ago I set up a Mailchimp account. I registered for the free
+level and I mostly used it for the [Perl Hacks](https://perlhacks.com/)
+mailing list that I've been ignoring for far too long. But the free level
+allowed you to have as many mailing lists as you wanted as long as your
+total number of subscribers was fewer than (I think) 2,000. And I had set
+up a few more mailing lists for other projects I had dabbled with. Last
+week I revisited that account as I wanted to create a new list for Line
+of Succession. But I found that the account had been locked because the
+pricing plans had changed and the free level could only use a single
+mailing list (or "audience", as they now describe them). So I've subscribed
+to a paid plan. And I've added a sign-up to the web site. Most of the
+marketing material I've read agrees that getting a long list of email
+addresses should be one of your prime targets - so I'm trying to do that
+now.
+
+I did one afternoon of heavy promotion. I emailed a genealogy mailing list
+about the site. That got it mentioned in a newsletter and brought about
+five hundred visitors to the site. I tweeted to a number of well-known
+TV historians - but got no response at all. And I emailed the owners of
+a large number of royalty-focussed blogs asking them if they would be
+interested in mentioning the site to their readers. I've had no response
+from any of them either. I guess I need to send a follow-up email this
+week. One thing I'm learning is that marketing means you need to be a lot
+more persistent than I'm naturally comfortable with.
+
+Oh, and one other little technical thing. I ran a
+[Google Lighthouse](https://developers.google.com/web/tools/lighthouse)
+report on the site and it told me that I was using an older version of
+jQuery that had a couple of vulnerabilities (version 3.2.1, if you're
+interested). I've now upgraded to the most recent version - 3.4.1.
+
+This week is, in theory, all about merchandise. I think the best way to
+actually make some money from the site is to sell stuff to people.
