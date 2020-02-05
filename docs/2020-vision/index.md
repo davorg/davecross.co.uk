@@ -9,6 +9,13 @@ I plan to write about what I'm doing each week. So here's are my weekly reports.
 
 [![Web feed](/feed.png "Web feed")](https://davecross.co.uk/2020-vision/feed.atom)
 
+* [January - Line of Succession](#january---line-of-succession)
+    * [Week 1: w/c 2020-01-06](#week-1-wc-2020-01-06)
+    * [Week 2: w/c 2020-01-13](#week-2-wc-2020-01-13)
+    * [Week 3: w/c 2020-01-20](#week-3-wc-2020-01-20)
+    * [Week 4: w/c 2020-01-27](#week-4-wc-2020-01-27)
+    * [January Retrospective](#january-retrospective)
+
 ## January - Line of Succession
 
 I'm starting by doing some work on a site called [Line of Succession](https://lineofsuccession.co.uk/).
@@ -121,7 +128,6 @@ I see that my first progress report was
 over the weekend. I answered a few questions there and I hope the
 discussion was interesting.
 
-
 ### Week 3: w/c 2020-01-20
 
 Week three was another week with very little technical work, as I
@@ -180,3 +186,126 @@ interested). I've now upgraded to the most recent version - 3.4.1.
 
 This week is, in theory, all about merchandise. I think the best way to
 actually make some money from the site is to sell stuff to people.
+
+### Week 4: w/c 2020-01-27
+
+The final week on this project was slightly strange. To be honest, I felt
+a bit down. I'm not really sure what I wanted to get out of this month (and
+see  the retrospective below for more about that) but I had this vague
+disappointment because I hadn't set the world on fire. But, of course, you
+can't expect to do that in a month. This mild despondency made it very
+tempting to retreat back into my comfortable world of coding and just spend
+the week writing improvements to the site, but I forced myself not to do
+that and to carry on promoting the site.
+
+I mentioned that in the previous week, I had emailed some people who wrote
+blogs about the royal family. I got no response from any of those people so
+I sent a follow-up email offering to write a guest blog post for them. This
+was way outside of my comfort zone as I couldn't help thinking about the
+spammers who email me, offering me various services and then following up
+a week later with "did you get my message?" I really didn't want to come
+across like that, so I spend considerable time working on the best way to
+phrase the email. I still got no responses.
+
+I also found a few history forums and posted about my site on those. The only
+response I got there was a rather snippy reply saying that they didn't
+approve of self-promotion. Their site, their rules, I guess.
+
+Early in the week, I posted a few items to the
+[Facebook page](https://www.facebook.com/linesuccession/) for the site and
+then decided it would be worth spending a bit of money on a Facebook ad. I've
+done this a few times before and I'd expect to get a couple of hundred clicks
+and maybe thirty new likes on the page. But something was different this time.
+Over the five days the ad was running, I got hundreds of clicks and the page
+likes went from 126 to over 550. I'm not sure why this ad was so successful
+(and there's another item for the retrospective) but I hope to be able to
+repeat this success in the future.
+
+But at the end of my last report, I said that the week was supposed to be all
+about merchandise. What's the point of getting people to the page if there's
+no way to extract money from them? I did spend some time thinking seriously
+about this question. I was trying to work out what kind of merchandise my
+users would buy. Would they want the line of succession printed on a t-shirt
+(does anyone want that?) Or, perhaps, on a mug? I've previously mentioned the
+idea of a book. But I didn't have enough time to write a book.
+
+Then on Thursday I had an idea. The line of succession would look nice on
+a poster. I found a company who make print-on-demand posters on various
+sizes, on different types of paper and in various kinds of frame. And they
+have an API that you can use to place an order. If I had more time (and I
+might revisit this idea later on) then I would offer the chance to buy a poster
+of the line of succession on any date. I'd then generate an image of that list
+and use the API to get it made and sent to the customer.
+
+In the end, I did put a [shop page](https://linesuccession.co.uk/shop) on
+the site, but it was only a "coming soon page" with a mocked-up book cover
+along with an invitation to sign up to the mailing list.
+
+I did make one tiny tweak to the site's code. Over the weekend a friend on
+LinkedIn suggested that it would be nice if instead of giving a baby's age as
+"0", I could give the age in months. And that turned out to be really easy
+to do.
+
+### January Retrospective
+
+So what have I learned from my month working on this project? What went well?
+What went less well?
+
+I guess the biggest lesson is this. **Marketing is hard.** Or maybe it's
+"I'm not particularly good at marketing".
+
+Actually, that's a bit glib. Really, the biggest takeaway I have from the
+month is the importance of having a plan. I spent a lot of the month either
+improving the site or trying to drive people to the site when that rather
+ignored the important question which is - how am I going to make money from
+the site. I managed to (slightly) increase the amount of traffic to the site,
+but I didn't make a single penny from all of those visitors because I didn't
+have any way to take money from visitors (well, I had Google Ads, but they
+generate approximately zero income).
+
+So you need to have a plan. And the plan needs to look like this:
+
+* Decide how you're going to make money from the site
+* Do that
+
+Just having a vague plan to "grow the audience" won't cut it. You need to
+know exactly how you are going to make money and then everything you do needs
+to be focussed on making that happen.
+
+If I had had a better plan at the start of the month then I would have
+realised the importance of merchandise on a site like this. I spend a lot of
+the month thinking "oh, I should probably sell some merchandise" but putting
+off actually doing that because... well, probably because it felt too hard.
+
+And that's another theme from the month. A lot of this stuff is hard. It's
+going to push me outside of my comfort zone. And you can't cherry-pick the
+easy (i.e. programming tasks) and leave the uncomfortable stuff for later.
+You need a plan and that plan needs to be executed in a sensible order.
+
+So, moving forward, all of these mini-projects will need a plan. And the plan
+needs to answer questions like this:
+
+* How are you going to make money out of this project?
+* Who is going to use this project?
+* What are they happy to spend money on?
+* How are you going to get people like your target audience to visit the site?
+* How will you get them to spend money?
+
+Then the answers to these questions need to be used to set concrete goals for
+the month. Goals that meet the
+[SMART](https://en.wikipedia.org/wiki/SMART_criteria) criteria. Goals that
+are Specific, Measurable, Achievable, Realistic and Time-related. It's only
+when you know what you're trying to achieve that it makes sense to start
+working on it. So from now on, the introductions to my monthly projects will
+include the goals for the month (which, I guess, means that the introduction
+to February's project will need to wait for a few hours!)
+
+Oh, and one other thing. Remember I said I had no idea why the last week's
+Facebook ad worked so much better than earlier ones. That's a terrible
+situation to be in. I need to be better at measuring this stuff. I need to be
+able to answer questions like that. Among other things, I need to get into
+A/B testing to find out what works best.
+
+To summarise, I'm happy that I managed to raise the profile of the Line of
+Succession site. I'm not happy that I made no money out of it. And I've
+learned valuable lessons that will feed into the rest of the experiment.

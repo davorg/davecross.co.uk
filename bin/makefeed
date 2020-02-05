@@ -20,9 +20,9 @@ my @entries;
 my $curr_entry;
 
 while (<$in_fh>) {
-  next unless /^###\s/ .. eof;
+  next unless /^###?\s/ .. eof;
 
-  if (/^###\s+(.+)/) {
+  if (/^###?\s+(.+)/) {
     # new entry
     if ($curr_entry) {
       $entries[-1]{text} = markdown($curr_entry);
@@ -34,8 +34,11 @@ while (<$in_fh>) {
   }
 }
 
-my $date_parser = DateTime::Format::Strptime->new(
+my $iso_parser = DateTime::Format::Strptime->new(
   pattern => '%Y-%m-%d',
+);
+my $mon_parser = DateTime::Format::Strptime->new(
+  pattern => '%B %Y',
 );
 
 $entries[-1]{text} = markdown($curr_entry);
@@ -50,7 +53,20 @@ $feed->modified(DateTime->now);
 
 for (@entries) {
   my ($date) = $_->{title} =~ /(\d{4}-\d\d-\d\d)/;
-  my $dt_obj = $date_parser->parse_datetime($date)->add(weeks => 1);
+
+  my $dt_obj;
+  if ($date) {
+    $dt_obj = $iso_parser->parse_datetime($date)->add(weeks => 1);
+  } else {
+    my ($month) = $_->{title} =~ /^(\w+)/;
+    $dt_obj = $mon_parser->parse_datetime("$month 2020");
+
+    # Retrospectives are dated as the start of the next month
+    if ($_->{title} =~ /\bRetrospective\b/) {
+      $dt_obj->add(months => 1);
+    }
+  }
+
   my $id = lc $_->{title};
   $id =~ s|w/c|wc|;
   $id =~ s|\W+|-|g;
