@@ -344,7 +344,7 @@ approach:
 
 And what are my specific goals for the month?
 
-1. Get the MVP live. Where the MVP looks like this:
+1. The MVP is live. Where the MVP looks like this:
     * Users can sign up, log in and create lists
     * Social login is supported (Facebook, Google and Twitter)
     * Users can edit and delete lists
@@ -352,9 +352,8 @@ And what are my specific goals for the month?
     * List items are enhanced with data from TMDB
     * The site is fully functional on smartphones (mobile apps will follow)
 2. The service has an active Facebook page and [Twitter account](https://twitter.com/lystyng)
-3. The service has active users
-4. The service has paying users
-5. Someone, somewhere on the internet has written about the service
+3. I have promoted the service to a dozen student film societies
+4. I have promoted the service to half a dozen film magazines
 
 And for the first week, I want to:
 
