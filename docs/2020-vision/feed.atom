@@ -4,7 +4,7 @@
   <link rel="alternate" href="https://davecross.co.uk/2020-vision/" type="text/html"/>
   <link rel="self" href="https://davecross.co.uk/2020-vision/feed.atom" type="application/atom+xml"/>
   <id>https://davecross.co.uk/2020-vision/feed.atom</id>
-  <updated>2020-02-05T11:39:23Z</updated>
+  <updated>2020-02-05T14:59:08Z</updated>
   <entry>
     <title>January - Line of Succession</title>
     <content type="xhtml">
@@ -356,5 +356,72 @@ learned valuable lessons that will feed into the rest of the experiment.</p>
     <published>2020-02-01T00:00:00Z</published>
     <updated>2020-02-01T00:00:00Z</updated>
     <id>https://davecross.co.uk/2020-vision/#january-retrospective</id>
+  </entry>
+  <entry>
+    <title>February - Lystyng</title>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml"><p>In February, I'm going to be working on a project which is currently called
+<a href="https//lystyng.com/">Lystyng</a> (but that name might not last the month).
+Like Line of Succession, this is an idea that I've had knocking around for a
+while and there's even some code that basically does what I what (but it's
+currently in pieces as I hacked at it rather a lot last summer and didn't
+put it back together when I was finished).</p>
+
+<p>It's a pretty simple concept - it's a social media site for creating and
+sharing lists.</p>
+
+<p>You'll be able to create lists, mark them as public or private and then
+share them (the public ones, of course) on other social media services.</p>
+
+<p>I originally had a general-purpose list-sharing site in mind. But I've
+decided to start by restricting it to a particular use case. I want to aim the
+service at people who want to share lists of their favourite films. I think
+that with a bit of magic borrowed from
+<a href="https://www.themoviedb.org/">The Movie DB</a>'s API I can make the site look
+pretty good by splashing film posters and stuff like that all over the page.</p>
+
+<p>I have a few more ideas, but they'll appear (or not) during the month.</p>
+
+<p>In my January retrospective I said I needed a clear idea of how to monetise
+this projects before starting them. In this case, I do. It's a two-pronged
+approach:</p>
+
+<ul>
+<li>Users pay for premium services (like lists with more than ten items)</li>
+<li>Amazon affiliate links</li>
+</ul>
+
+<p>And what are my specific goals for the month?</p>
+
+<ol>
+<li>Get the MVP live. Where the MVP looks like this:
+<ul>
+<li>Users can sign up, log in and create lists</li>
+<li>Social login is supported (Facebook, Google and Twitter)</li>
+<li>Users can edit and delete lists</li>
+<li>Users can share lists</li>
+<li>List items are enhanced with data from TMDB</li>
+<li>The site is fully functional on smartphones (mobile apps will follow)</li>
+</ul></li>
+<li>The service has an active Facebook page and <a href="https://twitter.com/lystyng">Twitter account</a></li>
+<li>The service has active users</li>
+<li>The service has paying users</li>
+<li>Someone, somewhere on the internet has written about the service</li>
+</ol>
+
+<p>And for the first week, I want to:</p>
+
+<ol>
+<li>Get the Facebook page and Twitter account up</li>
+<li>Get the code back working again (without social login or TMDB cleverness)</li>
+</ol>
+</div>
+    </content>
+    <author>
+      <name>Dave Cross &lt;dave+feed@davecross.co.uk</name>
+    </author>
+    <published>2020-02-01T00:00:00Z</published>
+    <updated>2020-02-01T00:00:00Z</updated>
+    <id>https://davecross.co.uk/2020-vision/#february-lystyng</id>
   </entry>
 </feed>

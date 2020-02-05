@@ -15,6 +15,7 @@ I plan to write about what I'm doing each week. So here's are my weekly reports.
     * [Week 3: w/c 2020-01-20](#week-3-wc-2020-01-20)
     * [Week 4: w/c 2020-01-27](#week-4-wc-2020-01-27)
     * [January Retrospective](#january-retrospective)
+* [February - Lystyng](#february---lystyng)
 
 ## January - Line of Succession
 
@@ -309,3 +310,53 @@ A/B testing to find out what works best.
 To summarise, I'm happy that I managed to raise the profile of the Line of
 Succession site. I'm not happy that I made no money out of it. And I've
 learned valuable lessons that will feed into the rest of the experiment.
+
+## February - Lystyng
+
+In February, I'm going to be working on a project which is currently called
+[Lystyng](https//lystyng.com/) (but that name might not last the month).
+Like Line of Succession, this is an idea that I've had knocking around for a
+while and there's even some code that basically does what I what (but it's
+currently in pieces as I hacked at it rather a lot last summer and didn't
+put it back together when I was finished).
+
+It's a pretty simple concept - it's a social media site for creating and
+sharing lists.
+
+You'll be able to create lists, mark them as public or private and then
+share them (the public ones, of course) on other social media services.
+
+I originally had a general-purpose list-sharing site in mind. But I've
+decided to start by restricting it to a particular use case. I want to aim the
+service at people who want to share lists of their favourite films. I think
+that with a bit of magic borrowed from
+[The Movie DB](https://www.themoviedb.org/)'s API I can make the site look
+pretty good by splashing film posters and stuff like that all over the page.
+
+I have a few more ideas, but they'll appear (or not) during the month.
+
+In my January retrospective I said I needed a clear idea of how to monetise
+this projects before starting them. In this case, I do. It's a two-pronged
+approach:
+
+* Users pay for premium services (like lists with more than ten items)
+* Amazon affiliate links
+
+And what are my specific goals for the month?
+
+1. Get the MVP live. Where the MVP looks like this:
+    * Users can sign up, log in and create lists
+    * Social login is supported (Facebook, Google and Twitter)
+    * Users can edit and delete lists
+    * Users can share lists
+    * List items are enhanced with data from TMDB
+    * The site is fully functional on smartphones (mobile apps will follow)
+2. The service has an active Facebook page and [Twitter account](https://twitter.com/lystyng)
+3. The service has active users
+4. The service has paying users
+5. Someone, somewhere on the internet has written about the service
+
+And for the first week, I want to:
+
+1. Get the Facebook page and Twitter account up
+2. Get the code back working again (without social login or TMDB cleverness)
