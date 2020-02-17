@@ -16,6 +16,7 @@ I plan to write about what I'm doing each week. So here's are my weekly reports.
     * [Week 4: w/c 2020-01-27](#week-4-wc-2020-01-27)
     * [January Retrospective](#january-retrospective)
 * [February - Lystyng](#february---lystyng)
+    * [Week 1: w/c 2020-02-03](#week-1-wc-2020-02-03)
 
 ## January - Line of Succession
 
