@@ -4,7 +4,7 @@
   <link rel="alternate" href="https://davecross.co.uk/2020-vision/" type="text/html"/>
   <link rel="self" href="https://davecross.co.uk/2020-vision/feed.atom" type="application/atom+xml"/>
   <id>https://davecross.co.uk/2020-vision/feed.atom</id>
-  <updated>2020-02-05T15:31:24Z</updated>
+  <updated>2020-02-17T09:52:48Z</updated>
   <entry>
     <title>January - Line of Succession</title>
     <content type="xhtml">
@@ -422,5 +422,55 @@ approach:</p>
     <published>2020-02-01T00:00:00Z</published>
     <updated>2020-02-01T00:00:00Z</updated>
     <id>https://davecross.co.uk/2020-vision/#february-lystyng</id>
+  </entry>
+  <entry>
+    <title>Week 1: w/c 2020-02-03</title>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml"><p>Slightly later than expected, here's my report for the first week of February.</p>
+
+<p>I thought that the beginning of February would be easy. I knew which project
+I was working on and there was quite a lot of programming needed in order to
+get it into a usable state. I predicted that a week of coding would get me to
+where I wanted to be. I was wrong.</p>
+
+<p>The code for <a href="https://lystyng.com/">Lystyng</a> goes back to 2014. Originally,
+it was a preyy basic <a href="http://perldancer.org/">Dancer</a> application with a
+database backend accessed through Perl's <em>de facto</em> standard ORM,
+<a href="https://www.perl.org/about/whitepapers/perl-database-orm.html">DBIx::Class</a>.
+It stayed that way for a few years and I dabbled on the codebase on
+occasional free weekends.</p>
+
+<p>I first decided that I wanted to do something more serious with the code when
+I was in Riga for 2019's European Perl Conference. During downtime at the
+conference I made a lot of changes to the code, effectively rewriting it so
+that it was just an API. The plan was to write the front-end as Javascript
+which made calls to this API.</p>
+
+<p>So task one in the Trello board was "see what state the code is in". And it
+was in a rather different state than I remembered. So I spent a lot of the
+first week trying to remember why I'd made various (undocumented) design
+decisions and identifying what else needed to be done.  Eventually, I had a
+list of things to do and I made a start on working down that list.</p>
+
+<p>The site now consists of two Dancer applications. There's still one application
+which drives the API, but there's now another application that drives the
+web version of the application (there's only a web version currently, but I'm
+hoping that having the API will make it easier to create a mobile app in the
+future). By the end of the week, new users could register for the site and
+log in and out.</p>
+
+<p>I also did a small amount of marketing work. I already had
+<a href="https://twitter.com/lystyng">a Twitter account</a> for the project, but now it
+has a <a href="https://www.facebook.com/lystyng/">Facebook page</a> too. Oh, and there's
+a Mailchimp mailing list for keeping up with news about the site. You can
+sign up to that from the projects <a href="https://lystyng.com/">holding page</a>.</p>
+</div>
+    </content>
+    <author>
+      <name>Dave Cross &lt;dave+feed@davecross.co.uk</name>
+    </author>
+    <published>2020-02-10T00:00:00Z</published>
+    <updated>2020-02-10T00:00:00Z</updated>
+    <id>https://davecross.co.uk/2020-vision/#week-1-wc-2020-02-03</id>
   </entry>
 </feed>

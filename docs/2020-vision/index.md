@@ -359,3 +359,44 @@ And for the first week, I want to:
 
 1. Get the Facebook page and Twitter account up
 2. Get the code back working again (without social login or TMDB cleverness)
+
+### Week 1: w/c 2020-02-03
+
+Slightly later than expected, here's my report for the first week of February.
+
+I thought that the beginning of February would be easy. I knew which project
+I was working on and there was quite a lot of programming needed in order to
+get it into a usable state. I predicted that a week of coding would get me to
+where I wanted to be. I was wrong.
+
+The code for [Lystyng](https://lystyng.com/) goes back to 2014. Originally,
+it was a preyy basic [Dancer](http://perldancer.org/) application with a
+database backend accessed through Perl's *de facto* standard ORM,
+[DBIx::Class](https://www.perl.org/about/whitepapers/perl-database-orm.html).
+It stayed that way for a few years and I dabbled on the codebase on
+occasional free weekends.
+
+I first decided that I wanted to do something more serious with the code when
+I was in Riga for 2019's European Perl Conference. During downtime at the
+conference I made a lot of changes to the code, effectively rewriting it so
+that it was just an API. The plan was to write the front-end as Javascript
+which made calls to this API.
+
+So task one in the Trello board was "see what state the code is in". And it
+was in a rather different state than I remembered. So I spent a lot of the
+first week trying to remember why I'd made various (undocumented) design
+decisions and identifying what else needed to be done.  Eventually, I had a
+list of things to do and I made a start on working down that list.
+
+The site now consists of two Dancer applications. There's still one application
+which drives the API, but there's now another application that drives the
+web version of the application (there's only a web version currently, but I'm
+hoping that having the API will make it easier to create a mobile app in the
+future). By the end of the week, new users could register for the site and
+log in and out.
+
+I also did a small amount of marketing work. I already had
+[a Twitter account](https://twitter.com/lystyng) for the project, but now it
+has a [Facebook page](https://www.facebook.com/lystyng/) too. Oh, and there's
+a Mailchimp mailing list for keeping up with news about the site. You can
+sign up to that from the projects [holding page](https://lystyng.com/).
