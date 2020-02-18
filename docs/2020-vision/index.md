@@ -315,7 +315,7 @@ learned valuable lessons that will feed into the rest of the experiment.
 ## February - Lystyng
 
 In February, I'm going to be working on a project which is currently called
-[Lystyng](https//lystyng.com/) (but that name might not last the month).
+[Lystyng](https://lystyng.com/) (but that name might not last the month).
 Like Line of Succession, this is an idea that I've had knocking around for a
 while and there's even some code that basically does what I what (but it's
 currently in pieces as I hacked at it rather a lot last summer and didn't
