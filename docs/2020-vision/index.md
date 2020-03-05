@@ -17,6 +17,8 @@ I plan to write about what I'm doing each week. So here's are my weekly reports.
     * [January Retrospective](#january-retrospective)
 * [February - Lystyng](#february---lystyng)
     * [Week 1: w/c 2020-02-03](#week-1-wc-2020-02-03)
+    * [February Retrospective](#february-retrospective)
+* [March - More Than Code](#march---more-than-code)
 
 ## January - Line of Succession
 
@@ -401,3 +403,112 @@ I also did a small amount of marketing work. I already had
 has a [Facebook page](https://www.facebook.com/lystyng/) too. Oh, and there's
 a Mailchimp mailing list for keeping up with news about the site. You can
 sign up to that from the projects [holding page](https://lystyng.com/).
+
+### February Retrospective
+
+I've been quiet here for a few weeks. And that's because February's project
+really didn't go how I hoped it would. I last wrote a report in the middle
+of week 2 - about what I had done in week 1. And I was still very positive
+about it at that point. I was happily disentangling the two applications that
+I had wrongly wrapped together in one.
+
+As the second week progressed, it became more and more obvious that this
+disentanglement was a far bigger job than I had previously thought. I was
+making progress but it really wasn't very fast. I started to doubt that I
+could get anything up and running in the time that I had given myself.
+
+The original plan was to spend a week or maybe two finishing the coding on the
+project and then the next two weeks marketing the site. That's not what
+happened. I spent all of the time working on the code and did almost no
+marketing. To be honest, it didn't really seem like there was much point in
+marketing the project if there was a good chance that it wasn't going to be
+ready.
+
+And that's a problem with the way that I've structured these six months. The
+idea is that I spend a month on each of the projects. But what if a month isn't
+long enough? Without the artificial end of month deadline, it would have been
+worth doing some marketing - to try and get a bit of a buzz going about the
+site which would have gone live at some point (if later than planned). Knowing,
+as I did, that the project might not get finished, I was loathe to spend time
+promoting a project that was probably never going to live.
+
+Then I started to wonder if that was a fundamental flaw in the way I'm
+approaching this six months. I've had conversations with some people where I've
+talked about what I was planning for my March project. But that was just an
+idea. It had no existing code whatsoever. Line of Succession was largely
+complete at the start of its month. Lystyng was (I thought) close to being
+ready to launch. But project three would have needed even more development.
+
+So it looked like I needed to reconsider this whole 2020 vision thing. A month
+just isn't long enough to take on a whole development project and do the
+marketing for it too. Maybe I needed to take a different approach. Or
+concentrate on smaller projects. Over the course of a walk in Finsbury Park
+with my business mentor and two beagles, we came up with a plan that entailed
+me rather changing tack for March. More detail on that in the next post.
+
+But February still wasn't finished. I had a week to go and a project that
+wasn't complete. That's when I noticed something else that had gone wrong. I
+had completely abandoned the Trello board for the project. That's because
+it had a single task - "fix code" - which had been in progress for most of
+the month. That task is obviously far too big to be useful (and I should know
+that - I've been doing this for over thirty years; I know how to plan a
+project!) I spent an hour breaking it down into smaller tasks and then the
+final week of the project was actually pretty productive. I didn't get the
+site working, but I got it a lot closer than I thought I would at the end of
+the previous week.
+
+One other problem was taking time off. I allow myself a day off in each month
+to go and do something cultural in London. But in February, I also took a long
+weekend in Amsterdam. And then my flight home was cancelled because of Storm
+Denis and I spent a day longer in Amsterdam than I planned to. Which was lovely,
+but gave me a day less working on the project. I need to be more aware of
+planned holidays when I'm planning how much I'm going to get done in a month.
+
+So, all in all, February wasn't as successful as January. At points I felt
+quote down about the whole thing. But things picked up again in the last week,
+and I'm feeling very excited about March's project.
+
+# March - More Than Code
+
+In August 2018, I spoke at the European Perl Conference in Glasgow. And the
+organisers asked me if I would like to run a day of workshops before the
+conference started. I've often done this before but I fancied doing something
+a bit different. Instead of a day's workshop on some part of Perl, I offered
+them two half-day workshops on completely different topics. One was about
+simple ways to make your web site more SEO-friendly and the other was called
+*The Professional Programmer*. It was discussion about the bits of a
+programmer's day-to-day work that don't include actually sitting at a computer
+writing code. I ran it as a conversation between me and the dozen or so
+attendees and we talked about the kinds of non-programming knowledge that a
+successful programmer should have. During the rest of the conference, a few of
+the attendees came up to me and told me how useful it was for them and a
+couple suggested that it would make a good book. That idea stuck with me and
+has been perculating in my head for eighteen months or so. And now I think the
+time is right to do something about it.
+
+So that's my project for March. I'm writing a book called "More Than Code".
+It's a bit of tall order to write a book in a month. It's always taken me
+closer to a year in the past. But that was when I was doing a full-time job
+as well. Perhaps it's possible to consistently write 2-3,000 words a day if
+it's your job. We'll see.
+
+I'll need to do some marketing for it as well, of course. I'll need a web site,
+a Twitter account, a Facebook page and a Mailchimp mailing list. And if the
+book is to be released at the end of the month, I'll also need to get people
+to proofread it and do publisher things like designing a cover.
+
+Honestly, I think that if I can make a living through writing and speaking
+(oh, I'm happy to run workshops on the subject at your company - drop me an
+email) then that would make me far happier than running a company that
+provides a web service.
+
+The slides for the original workshop are online -
+[The Professional Programmer](https://www.slideshare.net/davorg/the-professional-programmer-115012386).
+
+I need to set goals for the month. Here they are:
+
+* 40,000 words of a book written
+* Marketing channels for the book all set up
+* Get a book cover designed
+* Get the text professionally proof-read
+* Investigate the possibility of self-publishing a dead-tree version
