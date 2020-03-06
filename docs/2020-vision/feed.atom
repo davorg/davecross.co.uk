@@ -4,7 +4,7 @@
   <link rel="alternate" href="https://davecross.co.uk/2020-vision/" type="text/html"/>
   <link rel="self" href="https://davecross.co.uk/2020-vision/feed.atom" type="application/atom+xml"/>
   <id>https://davecross.co.uk/2020-vision/feed.atom</id>
-  <updated>2020-03-05T16:15:46Z</updated>
+  <updated>2020-03-06T09:36:12Z</updated>
   <entry>
     <title>January - Line of Succession</title>
     <content type="xhtml">
@@ -361,7 +361,7 @@ learned valuable lessons that will feed into the rest of the experiment.</p>
     <title>February - Lystyng</title>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml"><p>In February, I'm going to be working on a project which is currently called
-<a href="https//lystyng.com/">Lystyng</a> (but that name might not last the month).
+<a href="https://lystyng.com/">Lystyng</a> (but that name might not last the month).
 Like Line of Succession, this is an idea that I've had knocking around for a
 while and there's even some code that basically does what I what (but it's
 currently in pieces as I hacked at it rather a lot last summer and didn't
@@ -537,10 +537,19 @@ planned holidays when I'm planning how much I'm going to get done in a month.</p
 <p>So, all in all, February wasn't as successful as January. At points I felt
 quote down about the whole thing. But things picked up again in the last week,
 and I'm feeling very excited about March's project.</p>
-
-<h1>March - More Than Code</h1>
-
-<p>In August 2018, I spoke at the European Perl Conference in Glasgow. And the
+</div>
+    </content>
+    <author>
+      <name>Dave Cross &lt;dave+feed@davecross.co.uk</name>
+    </author>
+    <published>2020-03-01T00:00:00Z</published>
+    <updated>2020-03-01T00:00:00Z</updated>
+    <id>https://davecross.co.uk/2020-vision/#february-retrospective</id>
+  </entry>
+  <entry>
+    <title>March - More Than Code</title>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml"><p>In August 2018, I spoke at the European Perl Conference in Glasgow. And the
 organisers asked me if I would like to run a day of workshops before the
 conference started. I've often done this before but I fancied doing something
 a bit different. Instead of a day's workshop on some part of Perl, I offered
@@ -591,6 +600,6 @@ provides a web service.</p>
     </author>
     <published>2020-03-01T00:00:00Z</published>
     <updated>2020-03-01T00:00:00Z</updated>
-    <id>https://davecross.co.uk/2020-vision/#february-retrospective</id>
+    <id>https://davecross.co.uk/2020-vision/#march-more-than-code</id>
   </entry>
 </feed>
