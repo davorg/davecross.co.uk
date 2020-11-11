@@ -2,6 +2,15 @@
 
 This page has a list of projects that I've written that you may of heard of.
 
+## CPAN Dashboard
+
+[CPAN](https://metacpan.org/) is site where Perl programmers can download
+thousands of extension libraries to add into their projects. My
+[CPAN Dashboard](https://cpandashboard.com/) allows the authors of those
+extensions to monitor the various Continuous Integration services that
+they use. For example, here's
+[my dashboard](https://cpandashboard.com/DAVECROSS/).
+
 ## Apollo 11 at 50
 
 [@apollo11at50](https://twitter.com/apollo11at50) is a Twitterbot which
