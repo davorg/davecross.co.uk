@@ -4,7 +4,7 @@ This page has a list of projects that I've written that you may of heard of.
 
 ## CPAN Dashboard
 
-[CPAN](https://metacpan.org/) is site where Perl programmers can download
+[CPAN](https://metacpan.org/) is a site where Perl programmers can download
 thousands of extension libraries to add into their projects. My
 [CPAN Dashboard](https://cpandashboard.com/) allows the authors of those
 extensions to monitor the various Continuous Integration services that
