@@ -9,9 +9,20 @@ use Text::Markdown 'markdown';
 use DateTime::Format::Strptime;
 use DateTime;
 
-my $src = shift || "$Bin/../docs/2020-vision/index.md";
+my %types = (
+  rss =>  [ 'RSS', version => '2.0' ],
+  atom => [ 'Atom' ],
+);
 
-my $feed_file = 'feed.atom';
+my $src = shift || "$Bin/../docs/2020-vision/index.md";
+my $type = lc (shift || 'atom');
+
+my $feed_file = "feed.$type";
+
+die "$type is not a recognised feed type\n"
+  unless exists $types{$type};
+
+$type = $types{$type};
 
 open my $in_fh, '<', $src or die $!;
 
@@ -43,7 +54,7 @@ my $mon_parser = DateTime::Format::Strptime->new(
 
 $entries[-1]{text} = markdown($curr_entry);
 
-my $feed = XML::Feed->new('Atom');
+my $feed = XML::Feed->new(@$type);
 $feed->title(q[Dave's 2020 Vision]);
 $feed->link(q[https://davecross.co.uk/2020-vision/]);
 $feed->self_link($feed->link . $feed_file);
@@ -73,7 +84,7 @@ for (@entries) {
   my $entry = XML::Feed::Entry->new('Atom');
   $entry->title($_->{title});
   $entry->content($_->{text});
-  $entry->author('Dave Cross <dave+feed@davecross.co.uk');
+  $entry->author('dave+feed@davecross.co.uk (Dave Cross)');
   $entry->issued($dt_obj);
   $entry->modified($dt_obj);
   $entry->id("https://davecross.co.uk/2020-vision/#$id");

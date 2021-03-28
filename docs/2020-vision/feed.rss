@@ -1,0 +1,576 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rss version="2.0"
+ xmlns:atom="http://www.w3.org/2005/Atom"
+ xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+
+<channel>
+<title>Dave&#x27;s 2020 Vision</title>
+<link>https://davecross.co.uk/2020-vision/</link>
+<description></description>
+<pubDate>Sun, 28 Mar 2021 15:26:25 +0000</pubDate>
+<atom:link href="https://davecross.co.uk/2020-vision/feed.rss" rel="self" type="application/rss+xml"/>
+
+<item>
+<title>January - Line of Succession</title>
+<author>dave+feed@davecross.co.uk (Dave Cross)</author>
+<guid isPermaLink="false">https://davecross.co.uk/2020-vision/#january-line-of-succession</guid>
+<pubDate>Wed,  1 Jan 2020 00:00:00 +0000</pubDate>
+<content:encoded>&#x3C;p&#x3E;I&#x27;m starting by doing some work on a site called &#x3C;a href=&#x22;https://lineofsuccession.co.uk/&#x22;&#x3E;Line of Succession&#x3C;/a&#x3E;.
+This is a site that has existed for some time - you may have seen the video of me
+&#x3C;a href=&#x22;https://blog.lineofsuccession.co.uk/talk/&#x22;&#x3E;giving a talk about it&#x3C;/a&#x3E; to the London Perl Mongers.&#x3C;/p&#x3E;
+
+&#x3C;p&#x3E;The decision to go with an existing site for the first month was deliberate.
+One of the ideas behind this whole project is that I get to learn new skills
+and by choosing Line of Succession for the first month, I don&#x27;t have an
+excuse to spend the whole month working on technical stuff and ignoring
+the other parts of the project. I&#x27;m forced to spend most of my time
+working outside of my comfort zone. In this case, the thing that the
+site really needs is marketing. And I know almost nothing about
+marketing. So what have I been doing?&#x3C;/p&#x3E;
+</content:encoded>
+<dcterms:modified>2020-01-01T00:00:00Z</dcterms:modified>
+</item>
+<item>
+<title>Week 1: w/c 2020-01-06</title>
+<author>dave+feed@davecross.co.uk (Dave Cross)</author>
+<guid isPermaLink="false">https://davecross.co.uk/2020-vision/#week-1-wc-2020-01-06</guid>
+<pubDate>Mon, 13 Jan 2020 00:00:00 +0000</pubDate>
+<content:encoded>&#x3C;p&#x3E;Although this month is mostly supposed to be about marketing, it helps
+if you have something worth talking about. There were a few little problems
+that I wanted to fix and I got through many of those during this week.&#x3C;/p&#x3E;
+
+&#x3C;p&#x3E;Until now, the data on the site went back to 1837 (the start of Queen
+Victoria&#x27;s reign). I thought it would be a good marketing hook to
+have 200 years of data and, conveniently, George IV came to the throne
+in January 1820, so I&#x27;ve ensured that the data is correct back to the
+start of his reign. I was also annoyed by a few bugs in the list of
+positions on the individual person pages - so I spent half a day fixing
+all of those.&#x3C;/p&#x3E;
+
+&#x3C;p&#x3E;I got off to a fairly slow start on the marketing front. I spent some
+time building a list of people who write about the royal family for
+newspapers and magazines. I then emailed those people, telling them about
+the site in the hope that they might be interested in writing about it.
+So far, that hasn&#x27;t been successful. I&#x27;ve only had a single reply - and that
+was just to thank me for my email. This convinced me that I needed a
+&#x3C;abbr title=&#x22;Customer Relationship Manager&#x22;&#x3E;CRM&#x3C;/abbr&#x3E; system to manage my
+contacts with people like this - so I&#x27;ve signed up with
+&#x3C;a href=&#x22;https://capsulecrm.com/&#x22;&#x3E;Capsule&#x3C;/a&#x3E;.&#x3C;/p&#x3E;
+
+&#x3C;p&#x3E;I used to blog semi-regularly on the Line of Succession site, but that had
+largely fallen away over the last year. I&#x27;ve set myself a task to write a
+new blog post for the site every week in the month. I wrote one this week
+about &#x3C;a href=&#x22;https://blog.lineofsuccession.co.uk/2020/01/end-of-the-line/&#x22;&#x3E;the people who are at the end of the line of succession&#x3C;/a&#x3E;.
+I promoted this post on both &#x3C;a href=&#x22;https://twitter.com/linesuccession&#x22;&#x3E;Twitter&#x3C;/a&#x3E;
+and &#x3C;a href=&#x22;https://facebook.com/linesuccession&#x22;&#x3E;Facebook&#x3C;/a&#x3E;.&#x3C;/p&#x3E;
+
+&#x3C;p&#x3E;Oh, and talking about social media, the line of succession accounts are
+usually quite quiet, but as I&#x27;ve been working on the site full time I&#x27;ve made
+several more posts on these accounts. And the news about the Duke and Duchess
+of Sussex gave me more excuses to post.&#x3C;/p&#x3E;
+
+&#x3C;p&#x3E;&#x3C;abbr title=&#x22;Search Engine Optimisation&#x22;&#x3E;SEO&#x3C;/abbr&#x3E; is an important part of
+marketing. Some months ago, I signed up to &#x3C;a href=&#x22;https://semrush.com&#x22;&#x3E;SEMrush&#x3C;/a&#x3E; so
+they could periodically audit the site for basic on-page SEO errors. This week
+I took a close look at their most recent report and created a couple of tasks
+to look at next week.&#x3C;/p&#x3E;
+
+&#x3C;p&#x3E;Oh, and I started reading Seth Godin&#x27;s book
+&#x3C;em&#x3E;&#x3C;a href=&#x22;https://amzn.to/2uRS90H&#x22;&#x3E;This is Marketing&#x3C;/a&#x3E;&#x3C;/em&#x3E;.&#x3C;/p&#x3E;
+
+&#x3C;p&#x3E;If you&#x27;re interested in following what I&#x27;m doing more closely, my
+&#x3C;a href=&#x22;https://trello.com/b/WWetD28I/01-line-of-succession&#x22;&#x3E;Trello board&#x3C;/a&#x3E; is public.&#x3C;/p&#x3E;
+</content:encoded>
+<dcterms:modified>2020-01-13T00:00:00Z</dcterms:modified>
+</item>
+<item>
+<title>Week 2: w/c 2020-01-13</title>
+<author>dave+feed@davecross.co.uk (Dave Cross)</author>
+<guid isPermaLink="false">https://davecross.co.uk/2020-vision/#week-2-wc-2020-01-13</guid>
+<pubDate>Mon, 20 Jan 2020 00:00:00 +0000</pubDate>
+<content:encoded>&#x3C;p&#x3E;The second week of the project had far less technical stuff in it as I
+concentrated more on marketing. I still found time for a few technical
+fixes though.  I found and fixed a bug where the list of blog posts was
+only appearing on the front page. And I did a couple of technical SEO
+fixes - setting caching headers on CSS files and adding some meta
+descriptions that were missing from blog pages. As I&#x27;m only using the
+free tier of &#x3C;a href=&#x22;https://semrush.com&#x22;&#x3E;SEMrush&#x3C;/a&#x3E;, I&#x27;ll have to wait a couple
+of weeks before their next audit reveals how well those fixes has
+worked.&#x3C;/p&#x3E;
+
+&#x3C;p&#x3E;I&#x27;ve been blogging on &#x3C;a href=&#x22;https://blog.lineofsuccession.co.uk&#x22;&#x3E;the site&#x3C;/a&#x3E;
+for a while and this week I added
+&#x3C;a href=&#x22;https://blog.lineofsuccession.co.uk/2020/01/end-of-the-line-part-2/&#x22;&#x3E;another blog post&#x3C;/a&#x3E;
+following up on last week&#x27;s exploration of people at the end of the
+line of succession. I also set up a
+&#x3C;a href=&#x22;https://medium.com/line-of-succession&#x22;&#x3E;Medium Publication&#x3C;/a&#x3E; where I&#x27;ve
+republished the older blog posts. I don&#x27;t know how many people search
+Medium for stories about the British Royal Family, but those who do will
+now stand a chance of finding my articles. Oh, and I&#x27;ve signed up
+for the Medium Partner Program so I can be paid if people read my posts
+there.&#x3C;/p&#x3E;
+
+&#x3C;p&#x3E;An important part of marketing is to understand who your target audience.
+I spend some time thinking about this and by monitoring the likes I&#x27;m
+getting on my
+&#x3C;a href=&#x22;https://www.facebook.com/linesuccession/&#x22;&#x3E;Facebook page&#x3C;/a&#x3E; I&#x27;ve worked out
+that the people most interested in my site seem to be middle-aged
+American housewives (I was honestly aiming at British historians, but I
+guess you take what you can). Some of the week was spend pondering
+how I could extract money from this audience. Would they buy some kind
+of merchandise? This is a question I&#x27;ll return to this week.&#x3C;/p&#x3E;
+
+&#x3C;p&#x3E;But I do think that a book could be a good idea. I spend some time
+considering what that might look like. Eventually, I decided it should
+be a coffee-table book with lots of photos. It could contain short
+biographies of all people who have appeared in the top twenty of the
+line of succession over the last two hundred years, together with
+a few essays related to the line of succession. I won&#x27;t have time to
+write it before the end of the month, but it&#x27;s a possible project for
+the future. Slightly macarbrely, the best time to promote a book like
+this might be when the Queen dies.&#x3C;/p&#x3E;
+
+&#x3C;p&#x3E;I see that my first progress report was
+&#x3C;a href=&#x22;https://www.reddit.com/r/perl/comments/eqfdpn/2020_vision_of_dave_cross_line_of_succession/&#x22;&#x3E;posted to Reddit&#x3C;/a&#x3E;
+over the weekend. I answered a few questions there and I hope the
+discussion was interesting.&#x3C;/p&#x3E;
+</content:encoded>
+<dcterms:modified>2020-01-20T00:00:00Z</dcterms:modified>
+</item>
+<item>
+<title>Week 3: w/c 2020-01-20</title>
+<author>dave+feed@davecross.co.uk (Dave Cross)</author>
+<guid isPermaLink="false">https://davecross.co.uk/2020-vision/#week-3-wc-2020-01-20</guid>
+<pubDate>Mon, 27 Jan 2020 00:00:00 +0000</pubDate>
+<content:encoded>&#x3C;p&#x3E;Week three was another week with very little technical work, as I
+concentrated on marketing. But the
+&#x3C;a href=&#x22;https://www.reddit.com/r/perl/comments/eqfdpn/2020_vision_of_dave_cross_line_of_succession/&#x22;&#x3E;Reddit discussion&#x3C;/a&#x3E;
+I mentioned last week included the suggestion that I should credit the photos
+that I&#x27;m using on the site. That made a lot of sense to me so I spent a
+few hours checking the correct attributions and ensuring they appeared
+correctly under the photos. I glad I did that, but I&#x27;m not entirely happy
+with how it looks on the page. If I have some time to spare, I might try
+to hide the information unless a user hovers over the photo.&#x3C;/p&#x3E;
+
+&#x3C;p&#x3E;I&#x27;m trying to stop myself reaching for Wordpress whenever I want to set up
+a new site, so this site is just a static site hosted on Github Pages. That&#x27;s
+all very well, but I slightly miss all the stuff that Wordpress gives you for
+free. For example, there was no web feed for these updates until I hacked one
+together last week. And it still doesn&#x27;t have the autodiscovery tags in the
+HTML headers. Maybe I&#x27;ll add them at some point.&#x3C;/p&#x3E;
+
+&#x3C;p&#x3E;The biggest piece of marketing I did was to create
+&#x3C;a href=&#x22;https://www.youtube.com/watch?v=J51hKn74eyA&#x26;amp;t=&#x22;&#x3E;a video&#x3C;/a&#x3E;
+that talks people through all of the various things that you can do on the
+site. But I havent done a very good job of promoting it. A week later, it&#x27;s
+had twenty-three views.&#x3C;/p&#x3E;
+
+&#x3C;p&#x3E;A few years ago I set up a Mailchimp account. I registered for the free
+level and I mostly used it for the &#x3C;a href=&#x22;https://perlhacks.com/&#x22;&#x3E;Perl Hacks&#x3C;/a&#x3E;
+mailing list that I&#x27;ve been ignoring for far too long. But the free level
+allowed you to have as many mailing lists as you wanted as long as your
+total number of subscribers was fewer than (I think) 2,000. And I had set
+up a few more mailing lists for other projects I had dabbled with. Last
+week I revisited that account as I wanted to create
+&#x3C;a href=&#x22;http://eepurl.com/gQUco5&#x22;&#x3E;a new list for Line of Succession&#x3C;/a&#x3E;. But I found
+that the account had been locked because the pricing plans had changed and
+the free level could now only use a single mailing list (or &#x22;audience&#x22;, as
+they now describe them). So I&#x27;ve subscribed to a paid plan. And I&#x27;ve added
+a sign-up form to the web site. Most of the marketing material I&#x27;ve read
+agrees that getting a long list of email addresses should be one of your
+prime targets - so I&#x27;m trying to do that now.&#x3C;/p&#x3E;
+
+&#x3C;p&#x3E;I did one afternoon of heavy promotion. I emailed a genealogy mailing list
+about the site. That got it mentioned in a newsletter and brought about
+five hundred visitors to the site. I tweeted to a number of well-known
+TV historians - but got no response at all. And I emailed the owners of
+a large number of royalty-focussed blogs asking them if they would be
+interested in mentioning the site to their readers. I&#x27;ve had no response
+from any of them either. I guess I need to send a follow-up email this
+week. One thing I&#x27;m learning is that marketing means you need to be a lot
+more persistent than I&#x27;m naturally comfortable with.&#x3C;/p&#x3E;
+
+&#x3C;p&#x3E;Oh, and one other little technical thing. I ran a
+&#x3C;a href=&#x22;https://developers.google.com/web/tools/lighthouse&#x22;&#x3E;Google Lighthouse&#x3C;/a&#x3E;
+report on the site and it told me that I was using an older version of
+jQuery that had a couple of vulnerabilities (version 3.2.1, if you&#x27;re
+interested). I&#x27;ve now upgraded to the most recent version - 3.4.1.&#x3C;/p&#x3E;
+
+&#x3C;p&#x3E;This week is, in theory, all about merchandise. I think the best way to
+actually make some money from the site is to sell stuff to people.&#x3C;/p&#x3E;
+</content:encoded>
+<dcterms:modified>2020-01-27T00:00:00Z</dcterms:modified>
+</item>
+<item>
+<title>Week 4: w/c 2020-01-27</title>
+<author>dave+feed@davecross.co.uk (Dave Cross)</author>
+<guid isPermaLink="false">https://davecross.co.uk/2020-vision/#week-4-wc-2020-01-27</guid>
+<pubDate>Mon,  3 Feb 2020 00:00:00 +0000</pubDate>
+<content:encoded>&#x3C;p&#x3E;The final week on this project was slightly strange. To be honest, I felt
+a bit down. I&#x27;m not really sure what I wanted to get out of this month (and
+see  the retrospective below for more about that) but I had this vague
+disappointment because I hadn&#x27;t set the world on fire. But, of course, you
+can&#x27;t expect to do that in a month. This mild despondency made it very
+tempting to retreat back into my comfortable world of coding and just spend
+the week writing improvements to the site, but I forced myself not to do
+that and to carry on promoting the site.&#x3C;/p&#x3E;
+
+&#x3C;p&#x3E;I mentioned that in the previous week, I had emailed some people who wrote
+blogs about the royal family. I got no response from any of those people so
+I sent a follow-up email offering to write a guest blog post for them. This
+was way outside of my comfort zone as I couldn&#x27;t help thinking about the
+spammers who email me, offering me various services and then following up
+a week later with &#x22;did you get my message?&#x22; I really didn&#x27;t want to come
+across like that, so I spend considerable time working on the best way to
+phrase the email. I still got no responses.&#x3C;/p&#x3E;
+
+&#x3C;p&#x3E;I also found a few history forums and posted about my site on those. The only
+response I got there was a rather snippy reply saying that they didn&#x27;t
+approve of self-promotion. Their site, their rules, I guess.&#x3C;/p&#x3E;
+
+&#x3C;p&#x3E;Early in the week, I posted a few items to the
+&#x3C;a href=&#x22;https://www.facebook.com/linesuccession/&#x22;&#x3E;Facebook page&#x3C;/a&#x3E; for the site and
+then decided it would be worth spending a bit of money on a Facebook ad. I&#x27;ve
+done this a few times before and I&#x27;d expect to get a couple of hundred clicks
+and maybe thirty new likes on the page. But something was different this time.
+Over the five days the ad was running, I got hundreds of clicks and the page
+likes went from 126 to over 550. I&#x27;m not sure why this ad was so successful
+(and there&#x27;s another item for the retrospective) but I hope to be able to
+repeat this success in the future.&#x3C;/p&#x3E;
+
+&#x3C;p&#x3E;But at the end of my last report, I said that the week was supposed to be all
+about merchandise. What&#x27;s the point of getting people to the page if there&#x27;s
+no way to extract money from them? I did spend some time thinking seriously
+about this question. I was trying to work out what kind of merchandise my
+users would buy. Would they want the line of succession printed on a t-shirt
+(does anyone want that?) Or, perhaps, on a mug? I&#x27;ve previously mentioned the
+idea of a book. But I didn&#x27;t have enough time to write a book.&#x3C;/p&#x3E;
+
+&#x3C;p&#x3E;Then on Thursday I had an idea. The line of succession would look nice on
+a poster. I found a company who make print-on-demand posters on various
+sizes, on different types of paper and in various kinds of frame. And they
+have an API that you can use to place an order. If I had more time (and I
+might revisit this idea later on) then I would offer the chance to buy a poster
+of the line of succession on any date. I&#x27;d then generate an image of that list
+and use the API to get it made and sent to the customer.&#x3C;/p&#x3E;
+
+&#x3C;p&#x3E;In the end, I did put a &#x3C;a href=&#x22;https://linesuccession.co.uk/shop&#x22;&#x3E;shop page&#x3C;/a&#x3E; on
+the site, but it was only a &#x22;coming soon page&#x22; with a mocked-up book cover
+along with an invitation to sign up to the mailing list.&#x3C;/p&#x3E;
+
+&#x3C;p&#x3E;I did make one tiny tweak to the site&#x27;s code. Over the weekend a friend on
+LinkedIn suggested that it would be nice if instead of giving a baby&#x27;s age as
+&#x22;0&#x22;, I could give the age in months. And that turned out to be really easy
+to do.&#x3C;/p&#x3E;
+</content:encoded>
+<dcterms:modified>2020-02-03T00:00:00Z</dcterms:modified>
+</item>
+<item>
+<title>January Retrospective</title>
+<author>dave+feed@davecross.co.uk (Dave Cross)</author>
+<guid isPermaLink="false">https://davecross.co.uk/2020-vision/#january-retrospective</guid>
+<pubDate>Sat,  1 Feb 2020 00:00:00 +0000</pubDate>
+<content:encoded>&#x3C;p&#x3E;So what have I learned from my month working on this project? What went well?
+What went less well?&#x3C;/p&#x3E;
+
+&#x3C;p&#x3E;I guess the biggest lesson is this. &#x3C;strong&#x3E;Marketing is hard.&#x3C;/strong&#x3E; Or maybe it&#x27;s
+&#x22;I&#x27;m not particularly good at marketing&#x22;.&#x3C;/p&#x3E;
+
+&#x3C;p&#x3E;Actually, that&#x27;s a bit glib. Really, the biggest takeaway I have from the
+month is the importance of having a plan. I spent a lot of the month either
+improving the site or trying to drive people to the site when that rather
+ignored the important question which is - how am I going to make money from
+the site. I managed to (slightly) increase the amount of traffic to the site,
+but I didn&#x27;t make a single penny from all of those visitors because I didn&#x27;t
+have any way to take money from visitors (well, I had Google Ads, but they
+generate approximately zero income).&#x3C;/p&#x3E;
+
+&#x3C;p&#x3E;So you need to have a plan. And the plan needs to look like this:&#x3C;/p&#x3E;
+
+&#x3C;ul&#x3E;
+&#x3C;li&#x3E;Decide how you&#x27;re going to make money from the site&#x3C;/li&#x3E;
+&#x3C;li&#x3E;Do that&#x3C;/li&#x3E;
+&#x3C;/ul&#x3E;
+
+&#x3C;p&#x3E;Just having a vague plan to &#x22;grow the audience&#x22; won&#x27;t cut it. You need to
+know exactly how you are going to make money and then everything you do needs
+to be focussed on making that happen.&#x3C;/p&#x3E;
+
+&#x3C;p&#x3E;If I had had a better plan at the start of the month then I would have
+realised the importance of merchandise on a site like this. I spend a lot of
+the month thinking &#x22;oh, I should probably sell some merchandise&#x22; but putting
+off actually doing that because... well, probably because it felt too hard.&#x3C;/p&#x3E;
+
+&#x3C;p&#x3E;And that&#x27;s another theme from the month. A lot of this stuff is hard. It&#x27;s
+going to push me outside of my comfort zone. And you can&#x27;t cherry-pick the
+easy (i.e. programming tasks) and leave the uncomfortable stuff for later.
+You need a plan and that plan needs to be executed in a sensible order.&#x3C;/p&#x3E;
+
+&#x3C;p&#x3E;So, moving forward, all of these mini-projects will need a plan. And the plan
+needs to answer questions like this:&#x3C;/p&#x3E;
+
+&#x3C;ul&#x3E;
+&#x3C;li&#x3E;How are you going to make money out of this project?&#x3C;/li&#x3E;
+&#x3C;li&#x3E;Who is going to use this project?&#x3C;/li&#x3E;
+&#x3C;li&#x3E;What are they happy to spend money on?&#x3C;/li&#x3E;
+&#x3C;li&#x3E;How are you going to get people like your target audience to visit the site?&#x3C;/li&#x3E;
+&#x3C;li&#x3E;How will you get them to spend money?&#x3C;/li&#x3E;
+&#x3C;/ul&#x3E;
+
+&#x3C;p&#x3E;Then the answers to these questions need to be used to set concrete goals for
+the month. Goals that meet the
+&#x3C;a href=&#x22;https://en.wikipedia.org/wiki/SMART_criteria&#x22;&#x3E;SMART&#x3C;/a&#x3E; criteria. Goals that
+are Specific, Measurable, Achievable, Realistic and Time-related. It&#x27;s only
+when you know what you&#x27;re trying to achieve that it makes sense to start
+working on it. So from now on, the introductions to my monthly projects will
+include the goals for the month (which, I guess, means that the introduction
+to February&#x27;s project will need to wait for a few hours!)&#x3C;/p&#x3E;
+
+&#x3C;p&#x3E;Oh, and one other thing. Remember I said I had no idea why the last week&#x27;s
+Facebook ad worked so much better than earlier ones. That&#x27;s a terrible
+situation to be in. I need to be better at measuring this stuff. I need to be
+able to answer questions like that. Among other things, I need to get into
+A/B testing to find out what works best.&#x3C;/p&#x3E;
+
+&#x3C;p&#x3E;To summarise, I&#x27;m happy that I managed to raise the profile of the Line of
+Succession site. I&#x27;m not happy that I made no money out of it. And I&#x27;ve
+learned valuable lessons that will feed into the rest of the experiment.&#x3C;/p&#x3E;
+</content:encoded>
+<dcterms:modified>2020-02-01T00:00:00Z</dcterms:modified>
+</item>
+<item>
+<title>February - Lystyng</title>
+<author>dave+feed@davecross.co.uk (Dave Cross)</author>
+<guid isPermaLink="false">https://davecross.co.uk/2020-vision/#february-lystyng</guid>
+<pubDate>Sat,  1 Feb 2020 00:00:00 +0000</pubDate>
+<content:encoded>&#x3C;p&#x3E;In February, I&#x27;m going to be working on a project which is currently called
+&#x3C;a href=&#x22;https://lystyng.com/&#x22;&#x3E;Lystyng&#x3C;/a&#x3E; (but that name might not last the month).
+Like Line of Succession, this is an idea that I&#x27;ve had knocking around for a
+while and there&#x27;s even some code that basically does what I what (but it&#x27;s
+currently in pieces as I hacked at it rather a lot last summer and didn&#x27;t
+put it back together when I was finished).&#x3C;/p&#x3E;
+
+&#x3C;p&#x3E;It&#x27;s a pretty simple concept - it&#x27;s a social media site for creating and
+sharing lists.&#x3C;/p&#x3E;
+
+&#x3C;p&#x3E;You&#x27;ll be able to create lists, mark them as public or private and then
+share them (the public ones, of course) on other social media services.&#x3C;/p&#x3E;
+
+&#x3C;p&#x3E;I originally had a general-purpose list-sharing site in mind. But I&#x27;ve
+decided to start by restricting it to a particular use case. I want to aim the
+service at people who want to share lists of their favourite films. I think
+that with a bit of magic borrowed from
+&#x3C;a href=&#x22;https://www.themoviedb.org/&#x22;&#x3E;The Movie DB&#x3C;/a&#x3E;&#x27;s API I can make the site look
+pretty good by splashing film posters and stuff like that all over the page.&#x3C;/p&#x3E;
+
+&#x3C;p&#x3E;I have a few more ideas, but they&#x27;ll appear (or not) during the month.&#x3C;/p&#x3E;
+
+&#x3C;p&#x3E;In my January retrospective I said I needed a clear idea of how to monetise
+this projects before starting them. In this case, I do. It&#x27;s a two-pronged
+approach:&#x3C;/p&#x3E;
+
+&#x3C;ul&#x3E;
+&#x3C;li&#x3E;Users pay for premium services (like lists with more than ten items)&#x3C;/li&#x3E;
+&#x3C;li&#x3E;Amazon affiliate links&#x3C;/li&#x3E;
+&#x3C;/ul&#x3E;
+
+&#x3C;p&#x3E;And what are my specific goals for the month?&#x3C;/p&#x3E;
+
+&#x3C;ol&#x3E;
+&#x3C;li&#x3E;The MVP is live. Where the MVP looks like this:
+&#x3C;ul&#x3E;
+&#x3C;li&#x3E;Users can sign up, log in and create lists&#x3C;/li&#x3E;
+&#x3C;li&#x3E;Social login is supported (Facebook, Google and Twitter)&#x3C;/li&#x3E;
+&#x3C;li&#x3E;Users can edit and delete lists&#x3C;/li&#x3E;
+&#x3C;li&#x3E;Users can share lists&#x3C;/li&#x3E;
+&#x3C;li&#x3E;List items are enhanced with data from TMDB&#x3C;/li&#x3E;
+&#x3C;li&#x3E;The site is fully functional on smartphones (mobile apps will follow)&#x3C;/li&#x3E;
+&#x3C;/ul&#x3E;&#x3C;/li&#x3E;
+&#x3C;li&#x3E;The service has an active Facebook page and &#x3C;a href=&#x22;https://twitter.com/lystyng&#x22;&#x3E;Twitter account&#x3C;/a&#x3E;&#x3C;/li&#x3E;
+&#x3C;li&#x3E;I have promoted the service to a dozen student film societies&#x3C;/li&#x3E;
+&#x3C;li&#x3E;I have promoted the service to half a dozen film magazines&#x3C;/li&#x3E;
+&#x3C;/ol&#x3E;
+
+&#x3C;p&#x3E;And for the first week, I want to:&#x3C;/p&#x3E;
+
+&#x3C;ol&#x3E;
+&#x3C;li&#x3E;Get the Facebook page and Twitter account up&#x3C;/li&#x3E;
+&#x3C;li&#x3E;Get the code back working again (without social login or TMDB cleverness)&#x3C;/li&#x3E;
+&#x3C;/ol&#x3E;
+</content:encoded>
+<dcterms:modified>2020-02-01T00:00:00Z</dcterms:modified>
+</item>
+<item>
+<title>Week 1: w/c 2020-02-03</title>
+<author>dave+feed@davecross.co.uk (Dave Cross)</author>
+<guid isPermaLink="false">https://davecross.co.uk/2020-vision/#week-1-wc-2020-02-03</guid>
+<pubDate>Mon, 10 Feb 2020 00:00:00 +0000</pubDate>
+<content:encoded>&#x3C;p&#x3E;Slightly later than expected, here&#x27;s my report for the first week of February.&#x3C;/p&#x3E;
+
+&#x3C;p&#x3E;I thought that the beginning of February would be easy. I knew which project
+I was working on and there was quite a lot of programming needed in order to
+get it into a usable state. I predicted that a week of coding would get me to
+where I wanted to be. I was wrong.&#x3C;/p&#x3E;
+
+&#x3C;p&#x3E;The code for &#x3C;a href=&#x22;https://lystyng.com/&#x22;&#x3E;Lystyng&#x3C;/a&#x3E; goes back to 2014. Originally,
+it was a preyy basic &#x3C;a href=&#x22;http://perldancer.org/&#x22;&#x3E;Dancer&#x3C;/a&#x3E; application with a
+database backend accessed through Perl&#x27;s &#x3C;em&#x3E;de facto&#x3C;/em&#x3E; standard ORM,
+&#x3C;a href=&#x22;https://www.perl.org/about/whitepapers/perl-database-orm.html&#x22;&#x3E;DBIx::Class&#x3C;/a&#x3E;.
+It stayed that way for a few years and I dabbled on the codebase on
+occasional free weekends.&#x3C;/p&#x3E;
+
+&#x3C;p&#x3E;I first decided that I wanted to do something more serious with the code when
+I was in Riga for 2019&#x27;s European Perl Conference. During downtime at the
+conference I made a lot of changes to the code, effectively rewriting it so
+that it was just an API. The plan was to write the front-end as Javascript
+which made calls to this API.&#x3C;/p&#x3E;
+
+&#x3C;p&#x3E;So task one in the Trello board was &#x22;see what state the code is in&#x22;. And it
+was in a rather different state than I remembered. So I spent a lot of the
+first week trying to remember why I&#x27;d made various (undocumented) design
+decisions and identifying what else needed to be done.  Eventually, I had a
+list of things to do and I made a start on working down that list.&#x3C;/p&#x3E;
+
+&#x3C;p&#x3E;The site now consists of two Dancer applications. There&#x27;s still one application
+which drives the API, but there&#x27;s now another application that drives the
+web version of the application (there&#x27;s only a web version currently, but I&#x27;m
+hoping that having the API will make it easier to create a mobile app in the
+future). By the end of the week, new users could register for the site and
+log in and out.&#x3C;/p&#x3E;
+
+&#x3C;p&#x3E;I also did a small amount of marketing work. I already had
+&#x3C;a href=&#x22;https://twitter.com/lystyng&#x22;&#x3E;a Twitter account&#x3C;/a&#x3E; for the project, but now it
+has a &#x3C;a href=&#x22;https://www.facebook.com/lystyng/&#x22;&#x3E;Facebook page&#x3C;/a&#x3E; too. Oh, and there&#x27;s
+a Mailchimp mailing list for keeping up with news about the site. You can
+sign up to that from the projects &#x3C;a href=&#x22;https://lystyng.com/&#x22;&#x3E;holding page&#x3C;/a&#x3E;.&#x3C;/p&#x3E;
+</content:encoded>
+<dcterms:modified>2020-02-10T00:00:00Z</dcterms:modified>
+</item>
+<item>
+<title>February Retrospective</title>
+<author>dave+feed@davecross.co.uk (Dave Cross)</author>
+<guid isPermaLink="false">https://davecross.co.uk/2020-vision/#february-retrospective</guid>
+<pubDate>Sun,  1 Mar 2020 00:00:00 +0000</pubDate>
+<content:encoded>&#x3C;p&#x3E;I&#x27;ve been quiet here for a few weeks. And that&#x27;s because February&#x27;s project
+really didn&#x27;t go how I hoped it would. I last wrote a report in the middle
+of week 2 - about what I had done in week 1. And I was still very positive
+about it at that point. I was happily disentangling the two applications that
+I had wrongly wrapped together in one.&#x3C;/p&#x3E;
+
+&#x3C;p&#x3E;As the second week progressed, it became more and more obvious that this
+disentanglement was a far bigger job than I had previously thought. I was
+making progress but it really wasn&#x27;t very fast. I started to doubt that I
+could get anything up and running in the time that I had given myself.&#x3C;/p&#x3E;
+
+&#x3C;p&#x3E;The original plan was to spend a week or maybe two finishing the coding on the
+project and then the next two weeks marketing the site. That&#x27;s not what
+happened. I spent all of the time working on the code and did almost no
+marketing. To be honest, it didn&#x27;t really seem like there was much point in
+marketing the project if there was a good chance that it wasn&#x27;t going to be
+ready.&#x3C;/p&#x3E;
+
+&#x3C;p&#x3E;And that&#x27;s a problem with the way that I&#x27;ve structured these six months. The
+idea is that I spend a month on each of the projects. But what if a month isn&#x27;t
+long enough? Without the artificial end of month deadline, it would have been
+worth doing some marketing - to try and get a bit of a buzz going about the
+site which would have gone live at some point (if later than planned). Knowing,
+as I did, that the project might not get finished, I was loathe to spend time
+promoting a project that was probably never going to live.&#x3C;/p&#x3E;
+
+&#x3C;p&#x3E;Then I started to wonder if that was a fundamental flaw in the way I&#x27;m
+approaching this six months. I&#x27;ve had conversations with some people where I&#x27;ve
+talked about what I was planning for my March project. But that was just an
+idea. It had no existing code whatsoever. Line of Succession was largely
+complete at the start of its month. Lystyng was (I thought) close to being
+ready to launch. But project three would have needed even more development.&#x3C;/p&#x3E;
+
+&#x3C;p&#x3E;So it looked like I needed to reconsider this whole 2020 vision thing. A month
+just isn&#x27;t long enough to take on a whole development project and do the
+marketing for it too. Maybe I needed to take a different approach. Or
+concentrate on smaller projects. Over the course of a walk in Finsbury Park
+with my business mentor and two beagles, we came up with a plan that entailed
+me rather changing tack for March. More detail on that in the next post.&#x3C;/p&#x3E;
+
+&#x3C;p&#x3E;But February still wasn&#x27;t finished. I had a week to go and a project that
+wasn&#x27;t complete. That&#x27;s when I noticed something else that had gone wrong. I
+had completely abandoned the Trello board for the project. That&#x27;s because
+it had a single task - &#x22;fix code&#x22; - which had been in progress for most of
+the month. That task is obviously far too big to be useful (and I should know
+that - I&#x27;ve been doing this for over thirty years; I know how to plan a
+project!) I spent an hour breaking it down into smaller tasks and then the
+final week of the project was actually pretty productive. I didn&#x27;t get the
+site working, but I got it a lot closer than I thought I would at the end of
+the previous week.&#x3C;/p&#x3E;
+
+&#x3C;p&#x3E;One other problem was taking time off. I allow myself a day off in each month
+to go and do something cultural in London. But in February, I also took a long
+weekend in Amsterdam. And then my flight home was cancelled because of Storm
+Denis and I spent a day longer in Amsterdam than I planned to. Which was lovely,
+but gave me a day less working on the project. I need to be more aware of
+planned holidays when I&#x27;m planning how much I&#x27;m going to get done in a month.&#x3C;/p&#x3E;
+
+&#x3C;p&#x3E;So, all in all, February wasn&#x27;t as successful as January. At points I felt
+quote down about the whole thing. But things picked up again in the last week,
+and I&#x27;m feeling very excited about March&#x27;s project.&#x3C;/p&#x3E;
+</content:encoded>
+<dcterms:modified>2020-03-01T00:00:00Z</dcterms:modified>
+</item>
+<item>
+<title>March - More Than Code</title>
+<author>dave+feed@davecross.co.uk (Dave Cross)</author>
+<guid isPermaLink="false">https://davecross.co.uk/2020-vision/#march-more-than-code</guid>
+<pubDate>Sun,  1 Mar 2020 00:00:00 +0000</pubDate>
+<content:encoded>&#x3C;p&#x3E;In August 2018, I spoke at the European Perl Conference in Glasgow. And the
+organisers asked me if I would like to run a day of workshops before the
+conference started. I&#x27;ve often done this before but I fancied doing something
+a bit different. Instead of a day&#x27;s workshop on some part of Perl, I offered
+them two half-day workshops on completely different topics. One was about
+simple ways to make your web site more SEO-friendly and the other was called
+&#x3C;em&#x3E;The Professional Programmer&#x3C;/em&#x3E;. It was discussion about the bits of a
+programmer&#x27;s day-to-day work that don&#x27;t include actually sitting at a computer
+writing code. I ran it as a conversation between me and the dozen or so
+attendees and we talked about the kinds of non-programming knowledge that a
+successful programmer should have. During the rest of the conference, a few of
+the attendees came up to me and told me how useful it was for them and a
+couple suggested that it would make a good book. That idea stuck with me and
+has been perculating in my head for eighteen months or so. And now I think the
+time is right to do something about it.&#x3C;/p&#x3E;
+
+&#x3C;p&#x3E;So that&#x27;s my project for March. I&#x27;m writing a book called &#x22;More Than Code&#x22;.
+It&#x27;s a bit of tall order to write a book in a month. It&#x27;s always taken me
+closer to a year in the past. But that was when I was doing a full-time job
+as well. Perhaps it&#x27;s possible to consistently write 2-3,000 words a day if
+it&#x27;s your job. We&#x27;ll see.&#x3C;/p&#x3E;
+
+&#x3C;p&#x3E;I&#x27;ll need to do some marketing for it as well, of course. I&#x27;ll need a web site,
+a Twitter account, a Facebook page and a Mailchimp mailing list. And if the
+book is to be released at the end of the month, I&#x27;ll also need to get people
+to proofread it and do publisher things like designing a cover.&#x3C;/p&#x3E;
+
+&#x3C;p&#x3E;Honestly, I think that if I can make a living through writing and speaking
+(oh, I&#x27;m happy to run workshops on the subject at your company - drop me an
+email) then that would make me far happier than running a company that
+provides a web service.&#x3C;/p&#x3E;
+
+&#x3C;p&#x3E;The slides for the original workshop are online -
+&#x3C;a href=&#x22;https://www.slideshare.net/davorg/the-professional-programmer-115012386&#x22;&#x3E;The Professional Programmer&#x3C;/a&#x3E;.&#x3C;/p&#x3E;
+
+&#x3C;p&#x3E;I need to set goals for the month. Here they are:&#x3C;/p&#x3E;
+
+&#x3C;ul&#x3E;
+&#x3C;li&#x3E;40,000 words of a book written&#x3C;/li&#x3E;
+&#x3C;li&#x3E;Marketing channels for the book all set up&#x3C;/li&#x3E;
+&#x3C;li&#x3E;Get a book cover designed&#x3C;/li&#x3E;
+&#x3C;li&#x3E;Get the text professionally proof-read&#x3C;/li&#x3E;
+&#x3C;li&#x3E;Investigate the possibility of self-publishing a dead-tree version&#x3C;/li&#x3E;
+&#x3C;/ul&#x3E;
+</content:encoded>
+<dcterms:modified>2020-03-01T00:00:00Z</dcterms:modified>
+</item>
+</channel>
+</rss>
