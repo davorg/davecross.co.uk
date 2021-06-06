@@ -9,8 +9,10 @@ describes me as:
 
 ... which probably about covers it.
 
-Mostly, I make things from software. My day job is currently working for an
-email marketing company but I've also made things like
+Mostly, I make things from software. I've been a freelancer developer since 1995, but I recently gave that up
+to concentrate on my own projects.
+
+I've made things like
 <a href="https://twitter.com/apollo11at40">Apollo 11 at 50</a>, [Line of Succession](https://lineofsuccession.co.uk/) and
 <a href="https://twittelection.co.uk/">TwittElection</a>. If you're interested, you can [read more about those projects](/projects/).
 

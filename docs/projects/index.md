@@ -30,6 +30,12 @@ account of every candidate in that constituency.
 show you the first thirty names in the line of succession to the British
 throne on any date in the last 180 years.
 
+## Perl School
+
+[Perl School](https://perlschool.com/) is a publishing company that helps
+Perl developers write and publish ebooks about Perl. I have plans to
+expand that to other technologies.
+
 ## BBC Radio Streams
 
 Many years ago the [BBC Radio Streams project](https://dave.org.uk/streams)
