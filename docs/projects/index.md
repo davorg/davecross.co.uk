@@ -32,7 +32,7 @@ started the trend). I also run
 [The Planetarium](https://theplanetarium.org/) which showcases some of the
 planets that I've built (and didn't my life get easier when I worked out
 [how to use GitHub Actions](https://dev.to/davorg/github-actions-for-semi-static-web-sites-597g)
-to automate building those sites on a schedule.
+to automate building those sites on a schedule).
 
 ## Tower Bridge Data
 
