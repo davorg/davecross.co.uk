@@ -62,5 +62,6 @@ scraped a lot of data from the BBC Radio web site, extracting information
 about radio streams and presented them in a way that was more useful for
 many users.
 
-This project was closed down once the Radio iPlayer made accessing the
+This project was closed down once the Radio iPlayer (and now the
+[BBC Sounds app](https://www.bbc.co.uk/sounds) made accessing the
 content far easier for most users.
