@@ -30,11 +30,12 @@ account of every candidate in that constituency.
 show you the first thirty names in the line of succession to the British
 throne on any date in the last 180 years.
 
-## Perl School
+## Perl School / Clapham Technical Press
 
 [Perl School](https://perlschool.com/) is a publishing company that helps
-Perl developers write and publish ebooks about Perl. I have plans to
-expand that to other technologies.
+Perl developers write and publish ebooks about Perl. I'm just in the
+process of expanding those ideas to cover other technologies at
+[Clapham Technical Press](https://claphamtechpress.com/).
 
 ## BBC Radio Streams
 
