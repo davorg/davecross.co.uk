@@ -63,5 +63,5 @@ about radio streams and presented them in a way that was more useful for
 many users.
 
 This project was closed down once the Radio iPlayer (and now the
-[BBC Sounds app](https://www.bbc.co.uk/sounds) made accessing the
+[BBC Sounds app](https://www.bbc.co.uk/sounds)) made accessing the
 content far easier for most users.
