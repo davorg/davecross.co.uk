@@ -88,6 +88,7 @@ for (@entries) {
   $entry->issued($dt_obj);
   $entry->modified($dt_obj);
   $entry->id("https://davecross.co.uk/2020-vision/#$id");
+  $entry->link("https://davecross.co.uk/2020-vision/#$id");
   $feed->add_entry($entry);
 }
 
