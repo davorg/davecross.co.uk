@@ -20,6 +20,8 @@ My programming language of choice is Perl and I blog about it at
 <a href="https://perlhacks.com/">Perl Hacks</a>. I'm a frequent speaker
 at conferences about Perl or other open source technologies.
 
+I've written [a few books](/books/).
+
 Outside of work (and if I'm not working on one of my personal projects), I'll
 be <a href="https://songkick.com/users/davorg/">at a gig</a>, watching a
 film or researching my family tree.
