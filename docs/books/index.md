@@ -20,7 +20,7 @@ It's out of print now, but you can download a PDF from
 
 ## Perl Template Toolkit
 
-![Perl Template Toolkit](/img/ptt.jpg)
+<img src="/img/ptt.jpg" class="cover" alt="Perl Template Toolkit">
 
 I was one of three authors on the only book about Perl's defacto standard
 templating engine. It's almost twenty years old, but still holds up pretty
@@ -31,7 +31,7 @@ well.
 
 ## Eighteen Classic Albums
 
-![Eighhteen Classic Albums](/img/eca.jpg)
+<img src="/img/eca.jpg" class="cover" alt="Eighteen Classic Albums">
 
 Something a bit different. Many years ago, I was in a music club (like a
 reading group - but listening to music). We listened to a number of
@@ -42,7 +42,7 @@ thoughts and shared them in an eBook.
 
 ## Perl Taster
 
-![Perl Taster](/img/pt.jpg)
+<img src="/img/pt.jpg" class="cover" alt="Perl Taster">
 
 A very basic introduction to programming in Perl. The subtitle is "Your
 First Two Hours With Perl" - and that pretty much sums it up.
@@ -52,7 +52,7 @@ First Two Hours With Perl" - and that pretty much sums it up.
 
 ## The Best of Perl Hacks
 
-![The Best of Perl Hacks](/img/bph.jpg)
+<img src="/img/bph.jpg" class="cover" alt="The Best of Perl Hacks">
 
 I've been writing a blog about Perl programming over at
 [Perl Hacks](https://perlhacks.com/) for years. During the Covid lockdown,
@@ -63,7 +63,7 @@ I collected my favourite posts into an eBook.
 
 ## George and the Smart Home
 
-![George and the Smart Home](/img/gsh.jpg)
+<img src="/img/gsh.jpg" class="cover" alt="George and the Smart Home">
 
 And now for something completely different. I wrote a children's book.
 George lives in a smart home, but nothing works for him. The book traces
