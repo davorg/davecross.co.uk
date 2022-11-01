@@ -14,6 +14,8 @@ It's out of print now, but you can download a PDF from
 
 ## Perl Template Toolkit
 
+![Perl Template Toolkit](/img/ptt.jpg)
+
 I was one of three authors on the only book about Perl's defacto standard
 templating engine. It's almost twenty years old, but still holds up pretty
 well.
@@ -22,6 +24,8 @@ well.
 * Amazon: [AU](https://amazon.com.au/dp/0596004761) / [BR](https://amazon.com.br/dp/0596004761) / [CA](https://amazon.ca/dp/0596004761) / [DE](https://amazon.de/dp/0596004761) / [ES](https://amazon.es/dp/0596004761) / [FR](https://amazon.fr/dp/0596004761) / [IN](https://amazon.in/dp/0596004761) / [IT](https://amazon.it/dp/0596004761) / [JP](https://amazon.co.jp/dp/0596004761) / [MX](https://amazon.com.mx/dp/0596004761) / [NL](https://amazon.nl/dp/0596004761) / [UK](https://amazon.co.uk/dp/0596004761) / [US](https://amazon.com/dp/0596004761)
 
 ## Eighteen Classic Albums
+
+![Eighhteen Classic Albums](/img/eca.jpg)
 
 Something a bit different. Many years ago, I was in a music club (like a
 reading group - but listening to music). We listened to a number of
@@ -32,6 +36,8 @@ thoughts and shared them in an eBook.
 
 ## Perl Taster
 
+![Perl Taster](/img/pt.jpg)
+
 A very basic introduction to programming in Perl. The subtitle is "Your
 First Two Hours With Perl" - and that pretty much sums it up.
 
@@ -39,6 +45,8 @@ First Two Hours With Perl" - and that pretty much sums it up.
 * [LeanPub](https://leanpub.com/perl-taster/)
 
 ## The Best of Perl Hacks
+
+![The Best of Perl Hacks](/img/bph.jpg)
 
 I've been writing a blog about Perl programming over at
 [Perl Hacks](https://perlhacks.com/) for years. During the Covid lockdown,
@@ -48,6 +56,8 @@ I collected my favourite posts into an eBook.
 * [LeanPub](https://leanpub.com/thebestofperlhacks/)
 
 ## George and the Smart Home
+
+![George and the Smart Home](/img/gsh.jpg)
 
 And now for something completely different. I wrote a children's book.
 George lives in a smart home, but nothing works for him. The book traces
