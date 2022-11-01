@@ -1,6 +1,7 @@
 <style>
 .cover {
   height: 150px;
+  float: right;
 }
 </style>
 
