@@ -1,3 +1,9 @@
+<style>
+.cover {
+  height: 150px;
+}
+</style>
+
 # Books
 
 I've written a few books over the last few years.
