@@ -2,6 +2,7 @@
 .cover {
   height: 150px;
   float: right;
+  padding-left: 5px;
 }
 </style>
 
