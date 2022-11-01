@@ -4,7 +4,7 @@ I've written a few books over the last few years.
 
 ## Data Munging With Perl
 
-![Data Munging with Perl](/img/dmp.jpg height=200px)
+![Data Munging with Perl](/img/dmp.jpg | height=200px)
 
 An ancient book about data manipulation with Perl. Possibly the first technical
 book with "munging" in the title.
