@@ -8,7 +8,7 @@
 
 # Books
 
-I've written a few books over the last few years.
+I've written a few books over the last few <del>years</del><ins>decades</ins>.
 
 <img src="/img/dmp.jpg" class="cover" alt="Data Munging with Perl">
 
