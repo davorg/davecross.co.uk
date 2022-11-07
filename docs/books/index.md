@@ -14,26 +14,31 @@ I've written a few books over the last few <del>years</del><ins>decades</ins>.
 
 ## Data Munging With Perl
 
+[[Manning](https://www.manning.com/books/data-munging-with-perl), Jan 2001]
+
 An ancient book about data manipulation with Perl. Possibly the first technical
 book with "munging" in the title.
 
 It's out of print now, but you can download a PDF from
-[datamungingwithperl.com](https://datamunginfwithperl.com/).
+[datamungingwithperl.com](https://datamungingwithperl.com/).
 
 <img src="/img/ptt.jpg" class="cover" alt="Perl Template Toolkit">
 
 ## Perl Template Toolkit
 
+[[O'Reilly](https://www.oreilly.com/library/view/perl-template-toolkit/0596004761/), Dec 2003]
+
 I was one of three authors on the only book about Perl's defacto standard
 templating engine. It's almost twenty years old, but still holds up pretty
 well.
 
-* [Publisher page](https://www.oreilly.com/library/view/perl-template-toolkit/0596004761/)
 * Amazon: [AU](https://amazon.com.au/dp/0596004761) / [BR](https://amazon.com.br/dp/0596004761) / [CA](https://amazon.ca/dp/0596004761) / [DE](https://amazon.de/dp/0596004761) / [ES](https://amazon.es/dp/0596004761) / [FR](https://amazon.fr/dp/0596004761) / [IN](https://amazon.in/dp/0596004761) / [IT](https://amazon.it/dp/0596004761) / [JP](https://amazon.co.jp/dp/0596004761) / [MX](https://amazon.com.mx/dp/0596004761) / [NL](https://amazon.nl/dp/0596004761) / [UK](https://amazon.co.uk/dp/0596004761) / [US](https://amazon.com/dp/0596004761)
 
 <img src="/img/eca.jpg" class="cover" alt="Eighteen Classic Albums">
 
 ## Eighteen Classic Albums
+
+[Self-published, Nov 2015]
 
 Something a bit different. Many years ago, I was in a music club (like a
 reading group - but listening to music). We listened to a number of
@@ -46,6 +51,8 @@ thoughts and shared them in an eBook.
 
 ## Perl Taster
 
+[[Perl School](https://perlschool.com/books/perl-taster/), Nov 2017]
+
 A very basic introduction to programming in Perl. The subtitle is "Your
 First Two Hours With Perl" - and that pretty much sums it up.
 
@@ -55,6 +62,8 @@ First Two Hours With Perl" - and that pretty much sums it up.
 <img src="/img/bph.jpg" class="cover" alt="The Best of Perl Hacks">
 
 ## The Best of Perl Hacks
+
+[[Perl School](https://perlschool.com/books/the-best-of-perl-hacks/), Apr 2020]
 
 I've been writing a blog about Perl programming over at
 [Perl Hacks](https://perlhacks.com/) for years. During the Covid lockdown,
@@ -66,6 +75,8 @@ I collected my favourite posts into an eBook.
 <img src="/img/gsh.jpg" class="cover" alt="George and the Smart Home">
 
 ## George and the Smart Home
+
+[Self-published, Mar 2022]
 
 And now for something completely different. I wrote a children's book.
 George lives in a smart home, but nothing works for him. The book traces
