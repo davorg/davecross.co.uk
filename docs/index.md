@@ -25,3 +25,24 @@ I've written [a few books](/books/).
 Outside of work (and if I'm not working on one of my personal projects), I'll
 be <a href="https://songkick.com/users/davorg/">at a gig</a>, watching a
 film or researching my family tree.
+
+## Some recent writing
+
+<div id="feed-here" />
+
+<script src="https://code.jquery.com/jquery-3.6.3.min.js"
+        integrity="sha256-pvPw+upLPUjgMXY0G+8O0xUf+/Im1MZjXxxgOcBQBXU="
+        crossorigin="anonymous"></script>
+<script src="https://cdn.davecross.co.uk/js/atom_widget.js"></script>
+<script>
+const FEEDS = [ {
+  url: `https://davorg.theplanetarium.org/long.xml`,
+  desc: 'Recent writing'
+} ];
+
+$(document).ready(function() {
+
+  make_feed_widget(FEEDS, 'feed_here');
+});
+</script>
+
