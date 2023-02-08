@@ -36,8 +36,17 @@ film or researching my family tree.
 <script src="https://cdn.davecross.co.uk/js/feed_widget.js"></script>
 <script>
 const FEEDS = [ {
-  url: `https://davorg.theplanetarium.org/long.xml`,
-  desc: 'Recent writing'
+  url: `https://feeds.dave.org.uk/blog`,
+  desc: 'Blog'
+}, {
+  url: `https://feeds.dave.org.uk/dev`,
+  desc: 'dev.to'
+}, {
+  url: `https://feeds.dave.org.uk/medium`,
+  desc: 'Medium'
+}, {
+  url: `https://feeds.dave.org.uk/perl`,
+  desc: 'Perl Hacks'
 } ];
 
 $(document).ready(function() {
