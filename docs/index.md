@@ -28,7 +28,7 @@ film or researching my family tree.
 
 ## Some recent writing
 
-<div id="feed-here" />
+<div id="feed_here" />
 
 <script src="https://code.jquery.com/jquery-3.6.3.min.js"
         integrity="sha256-pvPw+upLPUjgMXY0G+8O0xUf+/Im1MZjXxxgOcBQBXU="
