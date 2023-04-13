@@ -85,6 +85,19 @@ home.
 
 * Amazon: [AU](https://amazon.com.au/dp/B09WHFGGTV) / [BR](https://amazon.com.br/dp/B09WHFGGTV) / [CA](https://amazon.ca/dp/B09WHFGGTV) / [DE](https://amazon.de/dp/B09WHFGGTV) / [ES](https://amazon.es/dp/B09WHFGGTV) / [FR](https://amazon.fr/dp/B09WHFGGTV) / [IN](https://amazon.in/dp/B09WHFGGTV) / [IT](https://amazon.it/dp/B09WHFGGTV) / [JP](https://amazon.co.jp/dp/B09WHFGGTV) / [MX](https://amazon.com.mx/dp/B09WHFGGTV) / [NL](https://amazon.nl/dp/B09WHFGGTV) / [UK](https://amazon.co.uk/dp/B09WHFGGTV) / [US](https://amazon.com/dp/B09WHFGGTV)
 
+<img src="/img/gae.jpg" class="cover" alt="GitHub Actions Essentials">
+
+## GitHub Actions Essentials
+
+[[Clapham Technical Press](https://actions.davecross.co.uk/), Apr 2023]
+
+Moving away from Perl, I've become fascinated by what you can do with
+GitHub Actions. And this book is a brain-dump of everything I've learned
+in this area over the last few years.
+
+* Amazon: [AU](https://amazon.com.au/dp/B0C2D875YG) / [BR](https://amazon.com.br/dp/B0C2D875YG) / [CA](https://amazon.ca/dp/B0C2D875YG) / [DE](https://amazon.de/dp/B0C2D875YG) / [ES](https://amazon.es/dp/B0C2D875YG) / [FR](https://amazon.fr/dp/B0C2D875YG) / [IN](https://amazon.in/dp/B0C2D875YG) / [IT](https://amazon.it/dp/B0C2D875YG) / [JP](https://amazon.co.jp/dp/B0C2D875YG) / [MX](https://amazon.com.mx/dp/B0C2D875YG) / [NL](https://amazon.nl/dp/B0C2D875YG) / [UK](https://amazon.co.uk/dp/B0C2D875YG) / [US](https://amazon.com/dp/B0C2D875YG)
+* [LeanPub](https://leanpub.com/githubactionsessentials/)
+
 # Publishing
 
 I'm the publisher at [Perl School](https://perlschool.com/) a boutique
