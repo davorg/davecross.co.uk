@@ -47,6 +47,9 @@ const FEEDS = [ {
 }, {
   url: `https://feeds.dave.org.uk/perl`,
   desc: 'Perl Hacks'
+}, {
+  url: `https://feeds.dave.org.uk/substack`,
+  desc: 'Substack'
 } ];
 
 $(document).ready(function() {
