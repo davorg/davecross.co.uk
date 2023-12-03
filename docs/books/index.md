@@ -76,7 +76,7 @@ I collected my favourite posts into an eBook.
 
 ## George and the Smart Home
 
-[Self-published, Mar 2022]
+[[Self-published](https://george.davecross.co.uk/), Mar 2022]
 
 And now for something completely different. I wrote a children's book.
 George lives in a smart home, but nothing works for him. The book traces
