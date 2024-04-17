@@ -1,0 +1,9 @@
+main:
+  - title: Home
+    url: /
+  - title: Books
+    url: /books/
+  - projects:
+    url: /projects/
+  - title: Services
+    url: /services/
