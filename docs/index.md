@@ -1,6 +1,6 @@
 # Dave Cross
 
-**You might be here to read about my [2020 Vision projects](/2020-vision/).**
+**You might be interested in the [services I provides](/services/).**
 
 Hi, I'm [@davorg](https://twitter.com/davorg) on Twitter, where my bio
 describes me as:
