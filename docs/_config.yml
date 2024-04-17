@@ -3,3 +3,11 @@ plugins:
 - jekyll-remote-theme
 google_analytics: G-4E7LRJH94L
 logo: img/dave-new-sq.jpg
+
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+
