@@ -1,6 +1,6 @@
 # Dave Cross
 
-**You might be interested in the [services I provides](/services/).**
+**You might be interested in the [services I provide](/services/).**
 
 Hi, I'm [@davorg](https://twitter.com/davorg) on Twitter, where my bio
 describes me as:
