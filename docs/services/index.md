@@ -21,7 +21,7 @@ And, let's be honest, is your lack of test coverage preventing you from
 updating your software? Let me design and implement a plan to get you back
 up to date.
 
-* **Source code control:** You should be ing GitHub (or something similar).
+* **Source code control:** You should be using GitHub (or something similar).
 I realise that you're too busy improving your product to spend time moving
 your code to a new code repository. Let me manage that project for you.
 And, if necessary, I'll also train your team in the new system.
