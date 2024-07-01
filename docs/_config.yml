@@ -5,10 +5,7 @@ plugins:
 - jekyll-remote-theme
 logo: img/dave-new-sq.jpg
 
-analytics:
-  provider: "google-gtag"
-  google:
-    tracking_id: "G-4E7LRJH94L"
+google_analytics: "G-4E7LRJH94L"
 
 defaults:
   - scope:
