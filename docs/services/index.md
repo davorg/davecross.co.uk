@@ -41,6 +41,13 @@ me help streamline and automate your processes.
 can help make your site as attractive as possible to Google by fixing your
 canonical links, adding JSON-LD or other low-level technical fixes.
 
+* **E-Books:** I've published several e-books over the last few years and
+would love to help you get yours published too.
+
+* **Mentoring:** I've been doing this for a very long time (my first
+job as a developer was in 1988). I'd love to share my experience with you
+and your team.
+
 ## Retainer
 
 All of the above services, but on a retainer basis. Purchase a small number
