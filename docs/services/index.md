@@ -8,10 +8,10 @@ buy toys.
 
 Three days, two weeks, maybe even a month or so. I'd be happy to work
 on your project for a while. Maybe you just need an external perspective
-to get things moving. Or perhaps you can use a brief injection of
+to kickstart your project. Or perhaps you can use a brief injection of
 experience and deep knowledge.
 
-Areas that I might be able to help include:
+Areas where I can add value include:
 
 * **Perl:** There are still quite a lot of Perl codebases out there. And,
 in my experience, many of them haven't really kept up to date with modern
@@ -21,7 +21,7 @@ And, let's be honest, is your lack of test coverage preventing you from
 updating your software? Let me design and implement a plan to get you back
 up to date.
 
-* **Source code control:** You should be on GitHub (or something similar).
+* **Source code control:** You should be ing GitHub (or something similar).
 I realise that you're too busy improving your product to spend time moving
 your code to a new code repository. Let me manage that project for you.
 And, if necessary, I'll also train your team in the new system.
@@ -32,14 +32,15 @@ done, we'll just pretend you've been in the cloud for the last five years.
 
 * **Continous integration/Continous deployment:** I understand. That's just
 one more improvement that you just haven't had the time to get around to.
-How sure are you that each commit to your codebase hasn't broken anything?
-Is your release procedure a wiki page listing twenty-five steps? Do your
-team understand the difference between a deployment and a release? Let
-me help.
+How sure are you that each commit to your codebase hasn't broken something?
+Is your release procedure a wiki page listing twenty-five manual steps? Do
+your team understand the difference between a deployment and a release? Let
+me help streamline and automate your processes.
 
 ## Retainer
 
-All of the above, but buy a small number of days each month.
+All of the above services, but on a retainer basis. Purchase a small number
+of days each month for ongoing support.
 
 ## Training
 
