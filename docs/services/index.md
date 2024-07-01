@@ -37,6 +37,10 @@ Is your release procedure a wiki page listing twenty-five manual steps? Do
 your team understand the difference between a deployment and a release? Let
 me help streamline and automate your processes.
 
+* **Technical SEO:** Google is the most important visitor to your site. I
+can help make your site as attractive as possible to Google by fixing your
+canonical links, adding JSON-LD or other low-level technical fixes.
+
 ## Retainer
 
 All of the above services, but on a retainer basis. Purchase a small number
