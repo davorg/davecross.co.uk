@@ -14,7 +14,7 @@ I've written a few books over the last few <del>years</del><ins>decades</ins>.
 
 ## Digital Woodland ABCs
 
-Clapham Technical Press, Jun 2024
+[Clapham Technical Press, Jun 2024]
 
 My second children's book. A children's rhyming ABC where forest animals
 take your child through some digital terminology.
