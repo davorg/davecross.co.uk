@@ -10,7 +10,7 @@
 
 I've written a few books over the last few <del>years</del><ins>decades</ins>.
 
-<img src="/img/abc.jpg" class="cover" alt="Digital Woodlane ABCs">
+<img src="/img/abc.jpg" class="cover" alt="Digital Woodland ABCs">
 
 ## Digital Woodland ABCs
 
