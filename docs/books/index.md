@@ -10,6 +10,17 @@
 
 I've written a few books over the last few <del>years</del><ins>decades</ins>.
 
+<img src="/img/abc.jpg" class="cover" alt="Digital Woodlane ABCs">
+
+## Digital Woodland ABCs
+
+Clapham Technical Press, Jun 2024
+
+My second children's book. A children's rhyming ABC where forest animals
+take your child through some digital terminology.
+
+* Amazon: [AU](https://amazon.com.au/dp/B0D8G6NPN5) / [BR](https://amazon.com.br/dp/B0D8G6NPN5) / [CA](https://amazon.ca/dp/B0D8G6NPN5) / [DE](https://amazon.de/dp/B0D8G6NPN5) / [ES](https://amazon.es/dp/B0D8G6NPN5) / [FR](https://amazon.fr/dp/B0D8G6NPN5) / [IN](https://amazon.in/dp/B0D8G6NPN5) / [IT](https://amazon.it/dp/B0D8G6NPN5) / [JP](https://amazon.co.jp/dp/B0D8G6NPN5) / [MX](https://amazon.com.mx/dp/B0D8G6NPN5) / [NL](https://amazon.nl/dp/B0D8G6NPN5) / [UK](https://amazon.co.uk/dp/B0D8G6NPN5) / [US](https://amazon.com/dp/B0D8G6NPN5)
+
 <img src="/img/gae.jpg" class="cover" alt="GitHub Actions Essentials">
 
 ## GitHub Actions Essentials
