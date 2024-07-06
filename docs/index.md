@@ -1,3 +1,6 @@
+---
+layout: single
+---
 # Dave Cross
 
 **You might be interested in the [services I provide](/services/).**
