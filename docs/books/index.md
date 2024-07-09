@@ -12,7 +12,7 @@ I've written a few books over the last few <del>years</del><ins>decades</ins>.
 
 <img src="/img/abc.jpg" class="cover" alt="Digital Woodland ABCs">
 
-## Digital Woodland ABCs
+## Digital Woodland ABCs {#abcs}
 
 [Clapham Technical Press, Jun 2024]
 
@@ -23,7 +23,7 @@ take your child through some digital terminology.
 
 <img src="/img/gae.jpg" class="cover" alt="GitHub Actions Essentials">
 
-## GitHub Actions Essentials
+## GitHub Actions Essentials {#actions}
 
 [[Clapham Technical Press](https://actions.davecross.co.uk/), Apr 2023]
 
@@ -36,7 +36,7 @@ in this area over the last few years.
 
 <img src="/img/gsh.jpg" class="cover" alt="George and the Smart Home">
 
-## George and the Smart Home
+## George and the Smart Home {#george}
 
 [[Self-published](https://george.davecross.co.uk/), Mar 2022]
 
@@ -49,7 +49,7 @@ home.
 
 <img src="/img/bph.jpg" class="cover" alt="The Best of Perl Hacks">
 
-## The Best of Perl Hacks
+## The Best of Perl Hacks {#perlhacks}
 
 [[Perl School](https://perlschool.com/books/the-best-of-perl-hacks/), Apr 2020]
 
@@ -62,7 +62,7 @@ I collected my favourite posts into an eBook.
 
 <img src="/img/pt.jpg" class="cover" alt="Perl Taster">
 
-## Perl Taster
+## Perl Taster {#taster}
 
 [[Perl School](https://perlschool.com/books/perl-taster/), Nov 2017]
 
@@ -74,7 +74,7 @@ First Two Hours With Perl" - and that pretty much sums it up.
 
 <img src="/img/eca.jpg" class="cover" alt="Eighteen Classic Albums">
 
-## Eighteen Classic Albums
+## Eighteen Classic Albums {#albums}
 
 [Self-published, Nov 2015]
 
@@ -87,7 +87,7 @@ thoughts and shared them in an eBook.
 
 <img src="/img/ptt.jpg" class="cover" alt="Perl Template Toolkit">
 
-## Perl Template Toolkit
+## Perl Template Toolkit {#badger}
 
 [[O'Reilly](https://www.oreilly.com/library/view/perl-template-toolkit/0596004761/), Dec 2003]
 
@@ -99,7 +99,7 @@ well.
 
 <img src="/img/dmp.jpg" class="cover" alt="Data Munging with Perl">
 
-## Data Munging With Perl
+## Data Munging With Perl {#dmp}
 
 [[Manning](https://www.manning.com/books/data-munging-with-perl), Jan 2001]
 
