@@ -7,7 +7,7 @@ You can download the CV in:
 
 * [HTML](david-cross.html)
 * [PDF](david-cross.pdf)
-* [LibreOffice document](david-cross.pdt)
+* [LibreOffice document](david-cross.odt)
 * Word document – both [.doc](david-cross.doc) and
 [.docx](david-cross.docx) (if you must)
 
