@@ -92,7 +92,7 @@ thoughts and shared them in an eBook.
 [[O'Reilly](https://www.oreilly.com/library/view/perl-template-toolkit/0596004761/), Dec 2003]
 
 I was one of three authors on the only book about Perl's defacto standard
-templating engine. It's almost twenty years old, but still holds up pretty
+templating engine. It's over twenty years old, but still holds up pretty
 well.
 
 * Amazon: [AU](https://amazon.com.au/dp/0596004761) / [BR](https://amazon.com.br/dp/0596004761) / [CA](https://amazon.ca/dp/0596004761) / [DE](https://amazon.de/dp/0596004761) / [ES](https://amazon.es/dp/0596004761) / [FR](https://amazon.fr/dp/0596004761) / [IN](https://amazon.in/dp/0596004761) / [IT](https://amazon.it/dp/0596004761) / [JP](https://amazon.co.jp/dp/0596004761) / [MX](https://amazon.com.mx/dp/0596004761) / [NL](https://amazon.nl/dp/0596004761) / [UK](https://amazon.co.uk/dp/0596004761) / [US](https://amazon.com/dp/0596004761)
