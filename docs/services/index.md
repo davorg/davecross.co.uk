@@ -1,10 +1,10 @@
-# Services
+## Services
 
 If you like what you see, there are a few ways that I can provide services
 to you in exchange for money that I can then use to pay my mortgage and
 buy toys.
 
-## Short-term consultancy
+### Short-term consultancy
 
 Three days, two weeks, maybe even a month or so. I'd be happy to work
 on your project for a while. Maybe you just need an external perspective
@@ -48,17 +48,17 @@ would love to help you get yours published too.
 job as a developer was in 1988). I'd love to share my experience with you
 and your team.
 
-## Retainer
+### Retainer
 
 All of the above services, but on a retainer basis. Purchase a small number
 of days each month for ongoing support.
 
-## Training
+### Training
 
 All of the above, but let me train your team in these skills so you don't
 need me anymore.
 
-# Other alternatives
+## Other alternatives
 
 Maybe we don't need an ongoing commercial relationship. Maybe I can help in
 other ways.

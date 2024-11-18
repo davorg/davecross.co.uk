@@ -1,6 +1,6 @@
 ---
 ---
-# Dave Cross
+## Dave Cross
 
 **You might be interested in the [services I provide](/services/).**
 
@@ -28,7 +28,7 @@ Outside of work (and if I'm not working on one of my personal projects), I'll
 be <a href="https://songkick.com/users/davorg/">at a gig</a>, watching a
 film or researching my family tree.
 
-## Some recent writing
+### Some recent writing
 
 <div id="feed_here" />
 
