@@ -1,0 +1,86 @@
+[
+  {
+    "title": "Digital Woodland ABCs",
+    "author": "Dave Cross",
+    "publisher": "Clapham Technical Press",
+    "publication_date": "June 2024",
+    "description": "A children's rhyming ABC where forest animals introduce digital terminology.",
+    "asin": "B0C4Q9J5F7",
+    "image_url": "https://davecross.co.uk/img/abc.jpg",
+    "tags": [ "children", "tech" ]
+  },
+  {
+    "title": "GitHub Actions Essentials",
+    "author": "Dave Cross",
+    "publisher": "Clapham Technical Press",
+    "publication_date": "April 2023",
+    "description": "A comprehensive guide to setting up and customizing GitHub Actions workflows.",
+    "asin": "B0B1L5Q9F7",
+    "leanpub_slug": "github-actions-essentials",
+    "image_url": "https://davecross.co.uk/img/gae.jpg",
+    "tags": [ "tech", "github" ]
+  },
+  {
+    "title": "George and the Smart Home",
+    "author": "Dave Cross",
+    "publisher": "Self-published",
+    "publication_date": "March 2022",
+    "description": "A children's book about George's adventures in a malfunctioning smart home.",
+    "asin": "B09V3Q9F7",
+    "image_url": "https://davecross.co.uk/img/gsh.jpg",
+    "tags": [ "children", "tech" ]
+  },
+  {
+    "title": "The Best of Perl Hacks",
+    "author": "Dave Cross",
+    "publisher": "Perl School",
+    "publication_date": "April 2020",
+    "description": "A collection of favorite posts from the Perl Hacks blog.",
+    "asin": "B0863Q9F7",
+    "leanpub_slug": "the-best-of-perl-hacks",
+    "image_url": "https://davecross.co.uk/img/bph.jpg",
+    "tags": [ "tech", "perl" ]
+  },
+  {
+    "title": "Perl Taster",
+    "author": "Dave Cross",
+    "publisher": "Perl School",
+    "publication_date": "November 2017",
+    "description": "A basic introduction to programming in Perl, subtitled 'Your First Two Hours With Perl'.",
+    "asin": "B0773Q9F7",
+    "leanpub_slug": "perl-taster",
+    "image_url": "https://davecross.co.uk/img/pt.jpg",
+    "tags": [ "tech", "perl" ]
+  },
+  {
+    "title": "Eighteen Classic Albums",
+    "author": "Dave Cross",
+    "publisher": "Self-published",
+    "publication_date": "November 2015",
+    "description": "A collection of thoughts and reviews from a music club discussing classic albums.",
+    "asin": "B0183Q9F7",
+    "image_url": "https://davecross.co.uk/img/eca.jpg",
+    "tags": [ "music" ]
+  },
+  {
+    "title": "Perl Template Toolkit",
+    "author": "Dave Cross",
+    "publisher": "O’Reilly",
+    "publication_date": "December 2003",
+    "description": "A comprehensive guide to Perl's de facto standard templating engine.",
+    "asin": "B0033Q9F7",
+    "image_url": "https://davecross.co.uk/img/ptt.jpg",
+    "tags": [ "tech", "perl" ]
+  },
+  {
+    "title": "Data Munging With Perl",
+    "author": "Dave Cross",
+    "publisher": "Manning",
+    "publication_date": "January 2001",
+    "description": "A book about data manipulation with Perl, possibly the first technical book with 'munging' in the title.",
+    "asin": "B0013Q9F7",
+    "image_url": "https://davecross.co.uk/img/dmp.jpg",
+    "tags": [ "tech", "perl" ]
+  }
+]
+
