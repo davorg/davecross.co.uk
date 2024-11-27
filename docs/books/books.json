@@ -1,5 +1,6 @@
 [
   {
+    "id": "abcs",
     "title": "Digital Woodland ABCs",
     "author": "Dave Cross",
     "publisher": "Clapham Technical Press",
@@ -10,6 +11,7 @@
     "tags": [ "children", "tech" ]
   },
   {
+    "id": "actions",
     "title": "GitHub Actions Essentials",
     "author": "Dave Cross",
     "publisher": "Clapham Technical Press",
@@ -21,6 +23,7 @@
     "tags": [ "tech", "github" ]
   },
   {
+    "id": "george",
     "title": "George and the Smart Home",
     "author": "Dave Cross",
     "publisher": "Self-published",
@@ -31,6 +34,7 @@
     "tags": [ "children", "tech" ]
   },
   {
+    "id": "perlhacks",
     "title": "The Best of Perl Hacks",
     "author": "Dave Cross",
     "publisher": "Perl School",
@@ -42,6 +46,7 @@
     "tags": [ "tech", "perl" ]
   },
   {
+    "id": "taster",
     "title": "Perl Taster",
     "author": "Dave Cross",
     "publisher": "Perl School",
@@ -53,6 +58,7 @@
     "tags": [ "tech", "perl" ]
   },
   {
+    "id": "albums",
     "title": "Eighteen Classic Albums",
     "author": "Dave Cross",
     "publisher": "Self-published",
@@ -63,6 +69,7 @@
     "tags": [ "music" ]
   },
   {
+    "id": "badger",
     "title": "Perl Template Toolkit",
     "author": "Dave Cross",
     "publisher": "O’Reilly",
@@ -73,6 +80,7 @@
     "tags": [ "tech", "perl" ]
   },
   {
+    "id": "dmp",
     "title": "Data Munging With Perl",
     "author": "Dave Cross",
     "publisher": "Manning",
