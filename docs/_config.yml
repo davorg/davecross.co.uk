@@ -13,6 +13,7 @@ google_analytics: "G-4E7LRJH94L"
 defaults:
   - scope:
       path: ""
+      type: posts
     values:
       layout: single
       image: /img/dave-new-sq.jpg
