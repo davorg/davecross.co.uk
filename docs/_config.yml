@@ -6,8 +6,7 @@ plugins:
 - jekyll-seo-tag
 
 logo: img/dave-new-sq.jpg
-seo_tag:
-  image: https://davecross.co.uk/img/dave-new-sq.jpg
+image: /img/dave-new-sq.jpg
 
 google_analytics: "G-4E7LRJH94L"
 
