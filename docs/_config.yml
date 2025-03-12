@@ -18,3 +18,5 @@ defaults:
       layout: single
       image: /img/dave-new-sq.jpg
 
+include:
+  - assets/css/custom.css
