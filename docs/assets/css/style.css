@@ -1,0 +1,5 @@
+.service-icon {
+    float: left; /* Makes text wrap around the icon */
+    margin-right: 15px; /* Adds space between the icon and text */
+    font-size: 2em; /* Doubles the icon size */
+}
