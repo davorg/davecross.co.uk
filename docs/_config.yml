@@ -1,19 +1,22 @@
 title: Dave Cross
 description: Web Development and CI/CD Engineer · Author / Publisher · Digital Mentor
-remote_theme: pages-themes/minimal@v0.2.0
+remote_theme: mmistakes/minimal-mistakes
 plugins:
-- jekyll-remote-theme
-- jekyll-seo-tag
+  - jekyll-include-cache
+  - jekyll-remote-theme
+  - jekyll-seo-tag
 
 logo: img/dc-cartoon-sq.png
 image: /img/dc-cartoon-sq.png
 
-google_analytics: "G-4E7LRJH94L"
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "G-4E7LRJH94L"
 
 defaults:
   - scope:
       path: ""
-      type: posts
     values:
       layout: single
       image: /img/dc-cartoon-sq.png
