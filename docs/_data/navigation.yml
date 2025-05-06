@@ -3,7 +3,7 @@ main:
     url: /
   - title: Books
     url: /books/
-  - title: projects
+  - title: Projects
     url: /projects/
   - title: Services
     url: /services/
