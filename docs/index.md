@@ -5,9 +5,9 @@ title: "Welcome"
 ---
 ## Dave Cross
 
-**You might be interested in the [services I provide](/services/).**
+![Dave Cross](/img/dc-cartoon.png)
 
-Hi, I'm [@davorg](https://twitter.com/davorg) on Twitter, where my bio
+Hi, I'm [@davorg](https://links.davecross.co.uk/) on most social media, where my bio
 describes me as:
 
 > Geek, Fintech, SEO, Lefty. Feminist, Atheist. Skeptic. Rationalist. Secularist. Humanist. Republican (UK Meaning!). Londoner. Music lover. Writer. Genealogist.
