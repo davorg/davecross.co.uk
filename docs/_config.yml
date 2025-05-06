@@ -5,8 +5,8 @@ plugins:
 - jekyll-remote-theme
 - jekyll-seo-tag
 
-logo: img/dave-new-sq.jpg
-image: /img/dave-new-sq.jpg
+logo: img/dc-cartoon-sq.png
+image: /img/dc-cartoon-sq.png
 
 google_analytics: "G-4E7LRJH94L"
 
@@ -16,7 +16,7 @@ defaults:
       type: posts
     values:
       layout: single
-      image: /img/dave-new-sq.jpg
+      image: /img/dc-cartoon-sq.png
 
 include:
   - assets/css/custom.css
