@@ -63,8 +63,7 @@ const FEEDS = [ {
   desc: 'Substack'
 } ];
 
-$(document).ready(function() {
-
+document.addEventListener('DOMContentLoaded', function () {
   make_feed_widget(FEEDS, 'feed_here');
 });
 </script>
