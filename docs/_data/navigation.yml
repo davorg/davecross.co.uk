@@ -7,5 +7,7 @@ main:
     url: /projects/
   - title: Services
     url: /services/
+  - title: Talks
+    url: https://talks.davecross.co.uk/
   - title: Links
     url: https://links.davecross.co.uk/

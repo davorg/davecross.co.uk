@@ -1,9 +1,8 @@
 ---
 layout: home
 author_profile: true
-title: "Welcome"
+title: "Dave Cross"
 ---
-## Dave Cross
 
 ![Dave Cross](/img/dc-cartoon.png)
 
