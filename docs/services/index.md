@@ -15,7 +15,7 @@ experience and deep knowledge.
 
 Areas where I can add value include:
 
-<i class="service-icon fa-solid fa-code"></i> **Perl:** There are still quite a lot of Perl codebases out there. And,
+<i class="service-icon fa-solid fa-dollar-sign"></i> **Perl:** There are still quite a lot of Perl codebases out there. And,
 in my experience, many of them haven't really kept up to date with modern
 software engineering practices. Which version of Perl are you using? When
 did you last update your technical stack? How good is your test coverage?
