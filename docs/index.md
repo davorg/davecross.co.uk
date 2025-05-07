@@ -47,19 +47,19 @@ be [at a gig](https://songkick.com/users/davorg),
 <script src="https://cdn.davecross.co.uk/js/feed_widget.js"></script>
 <script>
 const FEEDS = [ {
-  url: `https://feeds.dave.org.uk/blog`,
+  url: `https://feeds.davecross.co.uk/blog`,
   desc: 'Blog'
 }, {
-  url: `https://feeds.dave.org.uk/dev`,
+  url: `https://feeds.davecross.co.uk/dev`,
   desc: 'dev.to'
 }, {
-  url: `https://feeds.dave.org.uk/medium`,
+  url: `https://feeds.davecross.co.uk/medium`,
   desc: 'Medium'
 }, {
-  url: `https://feeds.dave.org.uk/perl`,
+  url: `https://feeds.davecross.co.uk/perl`,
   desc: 'Perl Hacks'
 }, {
-  url: `https://feeds.dave.org.uk/substack`,
+  url: `https://feeds.davecross.co.uk/substack`,
   desc: 'Substack'
 } ];
 
