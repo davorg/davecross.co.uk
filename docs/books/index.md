@@ -1,4 +1,5 @@
 ---
+title: Books
 ---
 <style>
 .cover {
@@ -7,8 +8,6 @@
   padding-left: 5px;
 }
 </style>
-
-## Books
 
 I've written a few books over the last few <del>years</del><ins>decades</ins>.
 
