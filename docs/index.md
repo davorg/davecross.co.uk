@@ -18,7 +18,7 @@ Mostly, I make things from software. I've been a freelancer developer since 1995
 to concentrate on my own projects.
 
 I've made things like
-[Apollo 11 at 50](https://twitter.com/apollo11at40">Apollo 11 at 50)
+[Apollo 11 at 50](https://twitter.com/apollo11at50)
 (which tweeted the Apollo 11 mission status in real time, fifty years after
 the mission),
  [Line of Succession](https://lineofsuccession.co.uk/)
