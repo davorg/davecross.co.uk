@@ -25,11 +25,17 @@ My programming language of choice is Perl and I blog about it at
 <a href="https://perlhacks.com/">Perl Hacks</a>. I'm a frequent speaker
 at conferences about Perl or other open source technologies.
 
+Recently, I wrote
+[a guide to getting a website that's useful for your business](https://websiteguide.davecross.co.uk/).
+It's aimed at small business owners and shows them the kinds of questions
+they should be asking website companies in order to avoid paying too much
+for a website that doesn't work for them.
+
 I've written [a few books](/books/).
 
 Outside of work (and if I'm not working on one of my personal projects), I'll
-be <a href="https://songkick.com/users/davorg/">at a gig</a>, watching a
-film or researching my family tree.
+be [at a gig](https://songkick.com/users/davorg), 
+[watching a film](https://letterboxd.com/realdavorg) or researching my family tree.
 
 ### Some recent writing
 
