@@ -18,12 +18,23 @@ Mostly, I make things from software. I've been a freelancer developer since 1995
 to concentrate on my own projects.
 
 I've made things like
-<a href="https://twitter.com/apollo11at40">Apollo 11 at 50</a>, [Line of Succession](https://lineofsuccession.co.uk/) and
-<a href="https://twittelection.co.uk/">TwittElection</a>. If you're interested, you can [read more about those projects](/projects/).
+[Apollo 11 at 50](https://twitter.com/apollo11at40">Apollo 11 at 50)
+(which tweeted the Apollo 11 mission status in real time, fifty years after
+the mission),
+ [Line of Succession](https://lineofsuccession.co.uk/)
+(which shows a snapshot of the line of succession to the British throne on
+any date since 1820)
+and
+[TwittElection](https://twittelection.co.uk/)
+(which automatically constructed Twitter lists for the candidates in
+each constituency in UK general elections - until Elon Musk's changes
+to the Twitter API made it too expensive to run). If you're interested,
+you can [read more about those projects](/projects/) and others.
 
 My programming language of choice is Perl and I blog about it at
-<a href="https://perlhacks.com/">Perl Hacks</a>. I'm a frequent speaker
-at conferences about Perl or other open source technologies.
+[Perl Hacks](https://perlhacks.com/). I'm
+[a frequent speaker](https://talks.davecross.co.uk/)
+at conferences about Perl and other open source technologies.
 
 Recently, I wrote
 [a guide to getting a website that's useful for your business](https://websiteguide.davecross.co.uk/).
