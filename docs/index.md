@@ -41,9 +41,9 @@ be [at a gig](https://songkick.com/users/davorg),
 
 <div id="feed_here" />
 
-<script src="https://code.jquery.com/jquery-3.6.3.min.js"
+<!--script src="https://code.jquery.com/jquery-3.6.3.min.js"
         integrity="sha256-pvPw+upLPUjgMXY0G+8O0xUf+/Im1MZjXxxgOcBQBXU="
-        crossorigin="anonymous"></script>
+        crossorigin="anonymous"></script -->
 <script src="https://cdn.davecross.co.uk/js/feed_widget.js"></script>
 <script>
 const FEEDS = [ {
