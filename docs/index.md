@@ -49,32 +49,66 @@ be [at a gig](https://songkick.com/users/davorg),
 
 ### Some recent writing
 
-<div id="feed_here" />
+<div id="feed_here"></div>
 
-<!--script src="https://code.jquery.com/jquery-3.6.3.min.js"
-        integrity="sha256-pvPw+upLPUjgMXY0G+8O0xUf+/Im1MZjXxxgOcBQBXU="
-        crossorigin="anonymous"></script -->
-<script src="https://cdn.davecross.co.uk/js/feed_widget.js"></script>
 <script>
-const FEEDS = [ {
-  url: `https://feeds.davecross.co.uk/blog`,
-  desc: 'Blog'
-}, {
-  url: `https://feeds.davecross.co.uk/dev`,
-  desc: 'dev.to'
-}, {
-  url: `https://feeds.davecross.co.uk/medium`,
-  desc: 'Medium'
-}, {
-  url: `https://feeds.davecross.co.uk/perl`,
-  desc: 'Perl Hacks'
-}, {
-  url: `https://feeds.davecross.co.uk/substack`,
-  desc: 'Substack'
-} ];
+  document.addEventListener("DOMContentLoaded", async () => {
+    const feedContainer = document.getElementById("feed_here");
 
-document.addEventListener('DOMContentLoaded', function () {
-  make_feed_widget(FEEDS, 'feed_here');
+    try {
+      const response = await fetch("https://davorg.theplanetarium.org/feeds.json");
+      const data = await response.json();
+
+      const ul = document.createElement("ul");
+      ul.classList.add("list-unstyled"); // Bootstrap class for unstyled lists
+
+      data.forEach(item => {
+        const li = document.createElement("li");
+        li.classList.add("mb-3"); // Add margin between list items
+
+        // Create the main link
+        const mainLink = document.createElement("a");
+        mainLink.href = item.link;
+        mainLink.textContent = item.title;
+        mainLink.classList.add("d-block", "fw-bold", "mb-1"); // Bootstrap classes for styling
+        li.appendChild(mainLink);
+
+// Add a line break between the title and the button
+li.appendChild(document.createElement("br"));
+
+// Create the small button with a link
+const button = document.createElement("a");
+button.href = item.source_url;
+button.textContent = item.source_name;
+button.style.display = "inline-block"; // Make it look like a button
+button.style.padding = "0.1em 0.25em"; // Smaller padding for a smaller button
+button.style.marginLeft = "0em"; // Add space between the title and the button
+button.style.border = "1px solid #007acc"; // Example color
+button.style.borderRadius = "4px";
+button.style.fontSize = "0.6em"; // Smaller font size
+button.style.color = "#007acc";
+button.style.textDecoration = "none";
+button.style.backgroundColor = "transparent";
+button.style.cursor = "pointer";
+button.addEventListener("mouseover", () => {
+  button.style.backgroundColor = "#007acc";
+  button.style.color = "#fff";
 });
+button.addEventListener("mouseout", () => {
+  button.style.backgroundColor = "transparent";
+  button.style.color = "#007acc";
+});
+li.appendChild(button);
+ul.appendChild(li);
+      });
+
+      feedContainer.appendChild(ul);
+    } catch (error) {
+      console.error("Error fetching or parsing the feed data:", error);
+      feedContainer.textContent = "Failed to load recent writing.";
+    }
+  });
 </script>
+
+
 
