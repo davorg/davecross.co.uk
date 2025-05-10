@@ -11,6 +11,21 @@ title: Books
 
 I've written a few books over the last few <del>years</del><ins>decades</ins>.
 
+<img src="https://cdn.davecross.co.uk/imgs/wsg.jpg" class="cover" alt="What to Ask Your Website Company">
+
+### What to Ask Your Website Company {#wsg}
+
+[Clapham Technical Press, May 2025]
+
+I've been in this industry for a long time. And, in that time, I've seen a
+lot of small business owners spend a lot of money on websites that turn
+out to be completely unhelpful to their business.
+
+In this book, I've written down everything a small business owner needs to
+know in order to avoid making those mistakes.
+
+* Amazon: [AU](https://amazon.com.au/dp/B0F84G4X6X) / [BR](https://amazon.com.br/dp/B0F84G4X6X) / [CA](https://amazon.ca/dp/B0F84G4X6X) / [DE](https://amazon.de/dp/B0F84G4X6X) / [ES](https://amazon.es/dp/B0F84G4X6X) / [FR](https://amazon.fr/dp/B0F84G4X6X) / [IN](https://amazon.in/dp/B0F84G4X6X) / [IT](https://amazon.it/dp/B0F84G4X6X) / [JP](https://amazon.co.jp/dp/B0F84G4X6X) / [MX](https://amazon.com.mx/dp/B0F84G4X6X) / [NL](https://amazon.nl/dp/B0F84G4X6X) / [UK](https://amazon.co.uk/dp/B0F84G4X6X) / [US](https://amazon.com/dp/B0F84G4X6X)
+
 <img src="https://cdn.davecross.co.uk/imgs/abc.jpg" class="cover" alt="Digital Woodland ABCs">
 
 ### Digital Woodland ABCs {#abcs}

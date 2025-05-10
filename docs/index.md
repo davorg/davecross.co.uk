@@ -70,36 +70,38 @@ be [at a gig](https://songkick.com/users/davorg),
         const mainLink = document.createElement("a");
         mainLink.href = item.link;
         mainLink.textContent = item.title;
-        mainLink.classList.add("d-block", "fw-bold", "mb-1"); // Bootstrap classes for styling
+        mainLink.style.display = "block"; // Equivalent to "d-block"
+        mainLink.style.fontWeight = "bold"; // Equivalent to "fw-bold"
+        mainLink.style.marginBottom = "0.5em"; // Equivalent to "mb-1"
         li.appendChild(mainLink);
 
-// Add a line break between the title and the button
-li.appendChild(document.createElement("br"));
+        // Add a line break between the title and the button
+        li.appendChild(document.createElement("br"));
 
-// Create the small button with a link
-const button = document.createElement("a");
-button.href = item.source_url;
-button.textContent = item.source_name;
-button.style.display = "inline-block"; // Make it look like a button
-button.style.padding = "0.1em 0.25em"; // Smaller padding for a smaller button
-button.style.marginLeft = "0em"; // Add space between the title and the button
-button.style.border = "1px solid #007acc"; // Example color
-button.style.borderRadius = "4px";
-button.style.fontSize = "0.6em"; // Smaller font size
-button.style.color = "#007acc";
-button.style.textDecoration = "none";
-button.style.backgroundColor = "transparent";
-button.style.cursor = "pointer";
-button.addEventListener("mouseover", () => {
-  button.style.backgroundColor = "#007acc";
-  button.style.color = "#fff";
-});
-button.addEventListener("mouseout", () => {
-  button.style.backgroundColor = "transparent";
-  button.style.color = "#007acc";
-});
-li.appendChild(button);
-ul.appendChild(li);
+        // Create the small button with a link
+        const button = document.createElement("a");
+        button.href = item.source_url;
+        button.textContent = item.source_name;
+        button.style.display = "inline-block"; // Make it look like a button
+        button.style.padding = "0.1em 0.25em"; // Smaller padding for a smaller button
+        button.style.marginLeft = "0em"; // Add space between the title and the button
+        button.style.border = "1px solid #007acc"; // Example color
+        button.style.borderRadius = "4px";
+        button.style.fontSize = "0.6em"; // Smaller font size
+        button.style.color = "#007acc";
+        button.style.textDecoration = "none";
+        button.style.backgroundColor = "transparent";
+        button.style.cursor = "pointer";
+        button.addEventListener("mouseover", () => {
+          button.style.backgroundColor = "#007acc";
+          button.style.color = "#fff";
+        });
+        button.addEventListener("mouseout", () => {
+          button.style.backgroundColor = "transparent";
+          button.style.color = "#007acc";
+        });
+        li.appendChild(button);
+        ul.appendChild(li);
       });
 
       feedContainer.appendChild(ul);
