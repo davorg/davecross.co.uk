@@ -52,64 +52,70 @@ be [at a gig](https://songkick.com/users/davorg),
 <div id="feed_here"></div>
 
 <script>
-  document.addEventListener("DOMContentLoaded", async () => {
-    const feedContainer = document.getElementById("feed_here");
 
-    try {
-      const response = await fetch("https://davorg.theplanetarium.org/feeds.json");
-      const data = await response.json();
+document.addEventListener("DOMContentLoaded", async () => {
+  const feedContainer = document.getElementById("feed_here");
 
-      const ul = document.createElement("ul");
-      ul.classList.add("list-unstyled"); // Bootstrap class for unstyled lists
+  // Define your brand colour once here
+  const brandColour = "#2F7D95";
 
-      data.forEach(item => {
-        const li = document.createElement("li");
-        li.classList.add("mb-3"); // Add margin between list items
+  try {
+    const response = await fetch("https://davorg.theplanetarium.org/feeds.json");
+    const data = await response.json();
 
-        // Create the main link
-        const mainLink = document.createElement("a");
-        mainLink.href = item.link;
-        mainLink.textContent = item.title;
-        mainLink.style.display = "block"; // Equivalent to "d-block"
-        mainLink.style.fontWeight = "bold"; // Equivalent to "fw-bold"
-        mainLink.style.marginBottom = "0.5em"; // Equivalent to "mb-1"
-        li.appendChild(mainLink);
+    const ul = document.createElement("ul");
 
-        // Add a line break between the title and the button
-        li.appendChild(document.createElement("br"));
+    data.forEach(item => {
+      const li = document.createElement("li");
 
-        // Create the small button with a link
-        const button = document.createElement("a");
-        button.href = item.source_url;
-        button.textContent = item.source_name;
-        button.style.display = "inline-block"; // Make it look like a button
-        button.style.padding = "0.1em 0.25em"; // Smaller padding for a smaller button
-        button.style.marginLeft = "0em"; // Add space between the title and the button
-        button.style.border = "1px solid #007acc"; // Example color
-        button.style.borderRadius = "4px";
-        button.style.fontSize = "0.6em"; // Smaller font size
-        button.style.color = "#007acc";
-        button.style.textDecoration = "none";
-        button.style.backgroundColor = "transparent";
-        button.style.cursor = "pointer";
-        button.addEventListener("mouseover", () => {
-          button.style.backgroundColor = "#007acc";
-          button.style.color = "#fff";
-        });
-        button.addEventListener("mouseout", () => {
-          button.style.backgroundColor = "transparent";
-          button.style.color = "#007acc";
-        });
-        li.appendChild(button);
-        ul.appendChild(li);
+      // Create the main link
+      const mainLink = document.createElement("a");
+      mainLink.href = item.link;
+      mainLink.textContent = item.title;
+      mainLink.style.display = "block";
+      mainLink.style.fontWeight = "bold";
+      mainLink.style.marginBottom = "0.1em";
+      li.appendChild(mainLink);
+
+      // Wrap the button in a div with tighter spacing
+      const buttonWrapper = document.createElement("div");
+      buttonWrapper.style.marginTop = "0.2em";
+
+      const button = document.createElement("a");
+      button.href = item.source_url;
+      button.textContent = item.source_name;
+      button.style.display = "inline-block";
+      button.style.padding = "0.1em 0.25em";
+      button.style.border = `1px solid ${brandColour}`;
+      button.style.borderRadius = "4px";
+      button.style.fontSize = "0.6em";
+      button.style.color = brandColour;
+      button.style.textDecoration = "none";
+      button.style.backgroundColor = "transparent";
+      button.style.cursor = "pointer";
+
+      button.addEventListener("mouseover", () => {
+        button.style.backgroundColor = brandColour;
+        button.style.color = "#fff";
       });
 
-      feedContainer.appendChild(ul);
-    } catch (error) {
-      console.error("Error fetching or parsing the feed data:", error);
-      feedContainer.textContent = "Failed to load recent writing.";
-    }
-  });
+      button.addEventListener("mouseout", () => {
+        button.style.backgroundColor = "transparent";
+        button.style.color = brandColour;
+      });
+
+      buttonWrapper.appendChild(button);
+      li.appendChild(buttonWrapper);
+      ul.appendChild(li);
+    });
+
+    feedContainer.appendChild(ul);
+  } catch (error) {
+    console.error("Error fetching or parsing the feed data:", error);
+    feedContainer.textContent = "Failed to load recent writing.";
+  }
+});
+
 </script>
 
 
