@@ -14,6 +14,15 @@ analytics:
   google:
     tracking_id: "G-4E7LRJH94L"
 
+atom_feed:
+  hide: true
+
+footer:
+  links:
+    - label: "Feed"
+      url: "https://davorg.theplanetarium.org/atom.xml"
+      icon: "fa-solid fa-rss"
+
 defaults:
   - scope:
       path: ""
