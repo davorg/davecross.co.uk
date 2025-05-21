@@ -8,7 +8,7 @@ plugins:
   - jekyll-seo-tag
 
 logo: img/dc-cartoon-sq.png
-image: /img/dc-cartoon-sq.png
+og_image: /img/dc-cartoon.png
 
 analytics:
   provider: "google-gtag"
