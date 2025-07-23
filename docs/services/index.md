@@ -4,7 +4,7 @@ title: Services
 
 <style>
 .fa-solid {
-  color: #DDA0DD;
+  color: #800080;
 }
 </style>
 
