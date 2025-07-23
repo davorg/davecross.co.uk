@@ -2,6 +2,12 @@
 title: Services
 ---
 
+<style>
+.fa-solid {
+  color: #DDA0DD;
+}
+</style>
+
 If you like what you see, there are a few ways that I can provide services
 to you in exchange for money that I can then use to pay my mortgage and
 buy toys.
