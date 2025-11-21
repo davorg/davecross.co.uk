@@ -2,42 +2,40 @@
 title: Dave Cross - Employment Enquiries
 ---
 
-From January 2020 I am working on my own projects and therefore won’t be
-looking for any more contracts for the foreseeable future. The information
-below is left there purely for historical reasons.
+I'm semi-retired and only take on occasional work if I'm offered something
+particularly interesting.
 
 ----
 
 The skills I am particularly interested in using are:
 
 * Perl (including Moose/Moo, DBIx::Class. PSGI and various web frameworks)
-* Relational databases (especially MySQL, PostgreSQL, Oracle and Sybase)
+* Relational databases (especially PostgreSQL, SQLite and MariaDB)
+* Git and GitHub (including GitHub Pages and GitHub Actions)
 * Unix/Linux
-* Apache
 * Training
-* Javascript (a bit of jQuery – would love to do more)
+* Javascript
 * HTML/CSS (but I’m really not a web designer)
-* XML/XPath
 
 Skills that I don’t have that, for some reason, agents often think that I do
 have:
 
 * Java
 * C++
-* PowerBuilder
+* PowerBuilder (honestly, I can't even remember what that was)
 * SAP
 
-The SAP example is particularly interesting. On my CV it says “Perl scripts
-communicated with SAP using an XML interface”. That’s from a one-month
-contract in March 2002. I should probably remove it, but it’s a useful
-filter. Any agent who uses that as a basis for contacting me about SAP roles
-is clearly incapable of reading a CV and can safely be ignored.
+The SAP example is particularly interesting. On my CV it used to say
+“Perl scripts communicated with SAP using an XML interface”. That’s from
+a one-month contract in March 2002. I've removed it now, but while it was
+there it was a useful filter. Any agent who uses that as a basis for 
+ontacting me about SAP roles is clearly incapable of reading a CV and can
+safely be ignored.
 
-I’m only interested in roles that are based in London. That’s roles that I
-can travel to from Clapham using public transport in less than an hour.
-
-I’m only interested in contract roles. Please don’t contact me about permanent
-jobs.
+* I’m only interested in fully-remote roles
+* I’m only interested in contract roles. Please don’t contact me about permanent
+jobs
+* I would prefer to work on a part-time basis. No more than three days a week
 
 ## CV
 
