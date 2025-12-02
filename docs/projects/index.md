@@ -11,11 +11,17 @@ whenever there is a general election in the UK. We build a Twitter
 list for every parliamentary constituency which includes the Twitter
 account of every candidate in that constituency.
 
+It doesn't work anymore. Elon Musk's changes to the pricing of the
+Twitter API made it ridiculously expensive to run.
+
 ### Line of Succession
 
 [Line of Succession](https://lineofsuccession.co.uk/) is a site that will
 show you the first thirty names in the line of succession to the British
-throne on any date in the last 180 years.
+throne on any date in the last 200 years.
+
+I'm rather pleased with a sub-site there which shows you the
+[relationship between any two British monarchs](https://rels.lineofsuccession.co.uk/).
 
 ### Perl School / Clapham Technical Press
 
