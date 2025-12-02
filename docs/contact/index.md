@@ -25,7 +25,7 @@ If you’d like to get in touch about consulting, training, or
 
   <!-- Spam honeypot: humans leave this blank -->
   <input type="text" name="_gotcha" style="display:none">
-
+  <input type="hidden" name="_redirect" value="https://davorg.dev/contact/thanks/">
   <button type="submit">Send message</button>
 </form>
 
