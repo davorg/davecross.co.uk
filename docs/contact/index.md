@@ -3,7 +3,7 @@ title: Contact me
 ---
 
 If you’d like to get in touch about consulting, training, or
-[/services/](anything else), use the form below or email me at
+[anything else](/services/), use the form below or email me at
 [hello@davecross.co.uk](mailto:hello@davecross.co.uk).
 
 <form
