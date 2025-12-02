@@ -2,17 +2,44 @@
 title: Elsewhere on the web
 ---
 
-I spend a fair amount of time building things on the web. This site is the hub, but there are a few other places where you can find my talks, guides, and side projects.
+I spend a fair amount of time building things on the web. This site is the main
+hub, but there are a few other places where you can find my talks, guides, and
+side projects.
 
 ## Speaking and conferences
 
 - **[Talks](https://talks.davecross.co.uk/)**  
-  Slides, code and notes from conference talks, user group sessions, and workshops. If you’ve seen me speak and want to revisit a talk (or share it with a colleague), this is the place to start.
+  Slides, code and notes from conference talks, user group sessions, and  
+  workshops. If you’ve seen me speak and want to revisit a talk (or share it  
+  with a colleague), this is the place to start.
 
 ## Guides and long-form resources
 
 - **[What to Ask Your Website Company](https://websiteguide.davecross.co.uk/)**  
-  The full web version of my book *What to Ask Your Website Company*. It’s aimed at small business owners who need a website but don’t want to be bamboozled by jargon or upsold into something they don’t need. It walks through the questions you should ask, the red flags to look out for, and the basics you need to understand so you don’t get ripped off by cowboy web developers.
+  The full web version of my book *What to Ask Your Website Company*. It’s  
+  aimed at small business owners who need a website but don’t want to be  
+  bamboozled by jargon or upsold into something they don’t need. It walks   
+  through the questions you should ask, the red flags to look out for, and   
+  the basics you need to understand so you don’t get ripped off by cowboy    
+  web developers.
+
+## Curated Book & Music Hubs
+
+Over the years I’ve built a few niche sites that go deep on books and music
+and compilations I care about. They aim to be helpful first – with proper
+information, context and links – and, where it makes sense, they include
+Amazon links that use my Associates ID. If you happen to buy via those links,
+Amazon shares a small commission with me, but the price you pay is exactly
+the same.
+
+- **[ReadABooker](https://readabooker.com/)**   
+  Lists of short-listed and prize-winning Booker Prize books.
+
+- **[Mercurial Albums](https://mercurialalbums.com/)**   
+  The albums that have been shortlisted and won the Mercury Prize.
+
+- **[Cooking Vinyl Compilations](https://cookingvinyl.dave.org.uk/)**   
+  A list of compilation albums produced by Cooking Vinyl Records.
 
 ## Ongoing projects
 
