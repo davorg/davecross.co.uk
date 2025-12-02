@@ -4,15 +4,18 @@ title: "Dave Cross"
 
 ![Dave Cross](/img/dc-cartoon.png)
 
-Hi, I'm [@davorg](https://links.davecross.co.uk/) on most social media, where my bio
-describes me as:
+Hi, I'm [@davorg](https://links.davecross.co.uk/) on most social media, where
+my bio describes me as:
 
-> Geek, Fintech, SEO, Lefty. Feminist, Atheist. Skeptic. Rationalist. Secularist. Humanist. Republican (UK Meaning!). Londoner. Music lover. Writer. Genealogist.
+> Geek, Fintech, SEO, Lefty. Feminist, Atheist. Skeptic. Rationalist.
+Secularist. Humanist. Republican (UK Meaning!). Londoner. Music lover. Writer.
+Genealogist.
 
 ... which probably about covers it.
 
-Mostly, I make things from software. I've been a freelancer developer since 1995, but I recently gave that up
-to concentrate on my own projects.
+Mostly, I make things from software. I've been a freelancer developer since
+1995. These days, I mostly work on my own projects, but I'll still take on
+the occasional bit of freelance work.
 
 I've made things like
 [Apollo 11 at 50](https://twitter.com/apollo11at50)
@@ -39,11 +42,12 @@ It's aimed at small business owners and shows them the kinds of questions
 they should be asking website companies in order to avoid paying too much
 for a website that doesn't work for them.
 
-I've written [a few books](/books/).
+I've written [a few other books](/books/).
 
 Outside of work (and if I'm not working on one of my personal projects), I'll
 be [at a gig](https://songkick.com/users/davorg), 
-[watching a film](https://letterboxd.com/realdavorg) or researching my family tree.
+[watching a film](https://letterboxd.com/realdavorg) or researching my
+family tree.
 
 ### Some recent writing
 
