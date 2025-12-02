@@ -90,4 +90,4 @@ of work.
 
 If there's any way you think I could be useful to you (or if you just want
 to talk about how me might be able to work together) then why not just
-drop me an email - [hello@davecross.co.uk](mailto:hello@davecross.co.uk).
+[get in touch](/contact/).
