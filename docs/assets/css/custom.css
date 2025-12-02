@@ -7,3 +7,33 @@
   position: relative;
   top: 5px
 }
+
+.contact-form {
+  max-width: 40rem;
+  margin: 2rem auto;
+  display: grid;
+  gap: 0.75rem;
+}
+
+.contact-form label {
+  font-weight: 600;
+}
+
+.contact-form input[type="text"],
+.contact-form input[type="email"],
+.contact-form textarea {
+  width: 100%;
+  padding: 0.5rem;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  font: inherit;
+}
+
+.contact-form button {
+  margin-top: 0.5rem;
+  padding: 0.6rem 1.2rem;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
