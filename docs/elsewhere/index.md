@@ -9,18 +9,18 @@ side projects.
 ## Speaking and conferences
 
 - **[Talks](https://talks.davecross.co.uk/)**  
-  Slides, code and notes from conference talks, user group sessions, and  
-  workshops. If you’ve seen me speak and want to revisit a talk (or share it  
+  Slides, code and notes from conference talks, user group sessions, and 
+  workshops. If you’ve seen me speak and want to revisit a talk (or share it 
   with a colleague), this is the place to start.
 
 ## Guides and long-form resources
 
-- **[What to Ask Your Website Company](https://websiteguide.davecross.co.uk/)**  
-  The full web version of my book *What to Ask Your Website Company*. It’s  
-  aimed at small business owners who need a website but don’t want to be  
-  bamboozled by jargon or upsold into something they don’t need. It walks   
-  through the questions you should ask, the red flags to look out for, and   
-  the basics you need to understand so you don’t get ripped off by cowboy    
+- **[What to Ask Your Website Company](https://websiteguide.davecross.co.uk/)**
+  The full web version of my book *What to Ask Your Website Company*. It’s 
+  aimed at small business owners who need a website but don’t want to be
+  bamboozled by jargon or upsold into something they don’t need. It walks
+  through the questions you should ask, the red flags to look out for, and
+  the basics you need to understand so you don’t get ripped off by cowboy
   web developers.
 
 ## Curated Book & Music Hubs
