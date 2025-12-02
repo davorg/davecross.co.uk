@@ -23,6 +23,12 @@ footer:
     - label: "Feed"
       url: "https://davorg.theplanetarium.org/atom.xml"
       icon: "fa-solid fa-rss"
+    - label: "Contact"
+      url: "/contact/"
+      icon: "fa-solid fa-pen"
+    - label: "Links"
+      url: "https://links.davecross.co.uk/"
+      icon: "fa-solid fa-link"
 
 defaults:
   - scope:

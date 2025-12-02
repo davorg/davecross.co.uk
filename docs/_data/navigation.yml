@@ -7,11 +7,7 @@ main:
     url: /projects/
   - title: Services
     url: /services/
-  - title: Talks
-    url: https://talks.davecross.co.uk/
-  - title: Website Guide
-    url: https://websiteguide.davecross.co.uk/
-  - title: Modern CSS Daily
-    url: https://modern-css.davecross.co.uk/
-  - title: Links
-    url: https://links.davecross.co.uk/
+  - title: Contact
+    url: /contact/
+  - title: Elsewhere
+    url: /elsewhere/
