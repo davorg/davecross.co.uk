@@ -15,7 +15,7 @@ side projects.
 
 ## Guides and long-form resources
 
-- **[What to Ask Your Website Company](https://websiteguide.davecross.co.uk/)**
+- **[What to Ask Your Website Company](https://websiteguide.davecross.co.uk/)** 
   The full web version of my book *What to Ask Your Website Company*. It’s 
   aimed at small business owners who need a website but don’t want to be
   bamboozled by jargon or upsold into something they don’t need. It walks
