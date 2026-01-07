@@ -13,9 +13,9 @@ Genealogist.
 
 ... which probably about covers it.
 
-Mostly, I make things from software. I've been a freelancer developer since
-1995. These days, I mostly work on my own projects, but I'll still take on
-the occasional bit of freelance work.
+Mostly, I make things from software. I've been a freelancer developer
+since 1995. These days, I mostly work on my own projects, but I'll still take
+on the occasional bit of freelance work.
 
 I've made things like
 [Apollo 11 at 50](https://twitter.com/apollo11at50)
