@@ -6,6 +6,7 @@ plugins:
   - jekyll-include-cache
   - jekyll-remote-theme
   - jekyll-seo-tag
+  - jekyll-redirect-from
 
 logo: img/dc-cartoon-sq.png
 og_image: /img/dc-cartoon.png

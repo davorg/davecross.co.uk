@@ -1,5 +1,7 @@
 ---
 title: "Dave Cross"
+redirect_from:
+  - /cdn-cgi/l/email-protection
 ---
 
 ![Dave Cross](/img/dc-cartoon.png)
