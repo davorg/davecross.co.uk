@@ -24,7 +24,7 @@ out to be completely unhelpful to their business.
 In this book, I've written down everything a small business owner needs to
 know in order to avoid making those mistakes.
 
-Buy: <a class="btn btn--primary" data-amazon-asin="B0F84G4X6X" data-amazon-text="Buy on Amazon"> </a>
+{% include buy_book.html asin="B0F84G4X6X" %}
 
 <img src="https://cdn.davecross.co.uk/imgs/abc.jpg" class="cover" alt="Digital Woodland ABCs">
 
@@ -35,7 +35,7 @@ Buy: <a class="btn btn--primary" data-amazon-asin="B0F84G4X6X" data-amazon-text=
 My second children's book. A children's rhyming ABC where forest animals
 take your child through some digital terminology.
 
-Buy: <a class="btn btn--primary" data-amazon-asin="B0D8G6NPN5" data-amazon-text="Buy on Amazon"> </a>
+{% include buy_book.html asin="B0D8G6NPN5" %}
 
 <img src="https://cdn.davecross.co.uk/imgs/gae.jpg" class="cover" alt="GitHub Actions Essentials">
 
@@ -47,7 +47,7 @@ Moving away from Perl, I've become fascinated by what you can do with
 GitHub Actions. And this book is a brain-dump of everything I've learned
 in this area over the last few years.
 
-Buy: <a class="btn btn--primary" data-amazon-asin="B0C2D875YG" data-amazon-text="Buy on Amazon"> </a> <a class="btn btn--warning" href="https://leanpub.com/githubactionsessentials/">Buy on LeanPub</a>
+{% include buy_book.html asin="B0C2D875YG" leanpub="githubactionsessentials" %}
 
 <img src="https://cdn.davecross.co.uk/imgs/gsh.jpg" class="cover" alt="George and the Smart Home">
 
@@ -60,7 +60,7 @@ George lives in a smart home, but nothing works for him. The book traces
 his adventures as he works out how to control the smart speakers in his
 home.
 
-Buy: <a class="btn btn--primary" data-amazon-asin="B09WHFGGTV" data-amazon-text="Buy on Amazon"> </a>
+{% include buy_book.html asin="B09WHFGGTV" %}
 
 <img src="https://cdn.davecross.co.uk/imgs/bph.jpg" class="cover" alt="The Best of Perl Hacks">
 
@@ -72,7 +72,7 @@ I've been writing a blog about Perl programming over at
 [Perl Hacks](https://perlhacks.com/) for years. During the Covid lockdown,
 I collected my favourite posts into an eBook.
 
-Buy: <a class="btn btn--primary" data-amazon-asin="B086VK6TDH" data-amazon-text="Buy on Amazon"> </a> <a class="btn btn--warning" href="https://leanpub.com/thebestofperlhacks/">Buy on LeanPub</a>
+{% include buy_book.html asin="B086VK6TDH" leanpub="thebestofperlhacks" %}
 
 <img src="https://cdn.davecross.co.uk/imgs/pt.jpg" class="cover" alt="Perl Taster">
 
@@ -83,7 +83,7 @@ Buy: <a class="btn btn--primary" data-amazon-asin="B086VK6TDH" data-amazon-text=
 A very basic introduction to programming in Perl. The subtitle is "Your
 First Two Hours With Perl" - and that pretty much sums it up.
 
-Buy: <a class="btn btn--primary" data-amazon-asin="B077MB1LH1" data-amazon-text="Buy on Amazon"> </a> <a class="btn btn--warning" href="https://leanpub.com/perl-taster/">Buy on LeanPub</a>
+{% include buy_book.html asin="B077MB1LH1" leanpub="perl-taster" %}
 
 <img src="https://cdn.davecross.co.uk/imgs/eca.jpg" class="cover" alt="Eighteen Classic Albums">
 
@@ -96,7 +96,7 @@ reading group - but listening to music). We listened to a number of
 "classic" albums and shared our opinions with each other. I collected my
 thoughts and shared them in an eBook.
 
-Buy: <a class="btn btn--primary" data-amazon-asin="B017KUM88Y" data-amazon-text="Buy on Amazon"> </a>
+{% include buy_book.html asin="B017KUM88Y" %}
 
 <img src="https://cdn.davecross.co.uk/imgs/ptt.jpg" class="cover" alt="Perl Template Toolkit">
 
@@ -108,7 +108,7 @@ I was one of three authors on the only book about Perl's defacto standard
 templating engine. It's over twenty years old, but still holds up pretty
 well.
 
-Buy: <a class="btn btn--primary" data-amazon-asin="0596004761" data-amazon-text="Buy on Amazon"> </a>
+{% include buy_book.html asin="0596004761" %}
 
 <img src="https://cdn.davecross.co.uk/imgs/dmp.jpg" class="cover" alt="Data Munging with Perl">
 
@@ -131,7 +131,4 @@ I'm in the process of extending that idea to
 [Clapham Technical Press](https://claphamtechpress.com/) which will
 do the same thing for the wider technical community.
 
-<script src="https://cdn.davecross.co.uk/js/amazon-store/v1/amazon-store.min.js"></script>
-<script>
-  AmazonStore.enhanceAll({ tag: 'davblog-21' });
-</script>
+{% include amazon-store.html %}
