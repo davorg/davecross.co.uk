@@ -1,3 +1,14 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+search: false
+---
+
+@charset "utf-8";
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
+
+
 .service-icon {
   float: left; /* Makes text wrap around the icon */
   margin-right: 15px; /* Adds space between the icon and text */
