@@ -1,0 +1,15 @@
+#!/bin/bash
+
+SCRIPT_DIR=$(dirname "$0")
+cd "$SCRIPT_DIR/../logos"
+
+for size in 200 400 800 1400; do
+  for scale in 1 2; do
+    out=$((size * scale))
+    suffix=""
+    [ $scale -eq 2 ] && suffix="@2x"
+
+    rsvg-convert davecross-consult.svg -w $out -o logo-${size}${suffix}-trans.png
+    rsvg-convert davecross-consult.svg --background-color white -w $out -o logo-${size}${suffix}-white.png
+  done
+done

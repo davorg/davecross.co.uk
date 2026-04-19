@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     viewBox="0 0 1100 260"
+     width="1100"
+     height="260"
+     role="img"
+     aria-labelledby="title desc">
+
+  <style>
+    .logo {
+      font-family: "Liberation Serif", Georgia, "Times New Roman", serif;
+    }
+    .brace {
+      font-size: 220px;
+      fill: #1f1f1f;
+    }
+    .title {
+      font-size: 128px;
+      font-weight: 700;
+      letter-spacing: 2px;
+      fill: #1f6673;
+    }
+    .subtitle {
+      font-size: 76px;
+      letter-spacing: 16px;
+      fill: #1f1f1f;
+    }
+  </style>
+
+  <!-- Move origin to centre of SVG -->
+  <g transform="translate(550, 130)"
+     class="logo"
+     text-anchor="middle"
+     dominant-baseline="middle">
+
+    <!-- Braces placed symmetrically -->
+    <text class="brace" x="-450" y="4" text-anchor="middle">{</text>
+    <text class="brace" x="450" y="4" text-anchor="middle">}</text>
+
+    <!-- Text always centred -->
+    <text class="title" x="0" y="-35">DAVE CROSS</text>
+    <text class="subtitle" x="0" y="60">CONSULTANCY</text>
+
+  </g>
+</svg>
