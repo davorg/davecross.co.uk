@@ -38,5 +38,3 @@ defaults:
       layout: single
       image: /img/dc-cartoon-sq.png
 
-include:
-  - assets/css/custom.css
