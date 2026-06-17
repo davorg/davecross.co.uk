@@ -9,6 +9,8 @@ title: Books
 }
 </style>
 
+![Books in a bookshop](/img/books.png "Some of Dave's books")
+
 I've written a few books over the last few <del>years</del><ins>decades</ins>.
 
 <img src="https://cdn.davecross.co.uk/imgs/wsg.jpg" class="cover" alt="What to Ask Your Website Company">
