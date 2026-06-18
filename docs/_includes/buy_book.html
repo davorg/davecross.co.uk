@@ -1,11 +1,11 @@
 <p class="buy-buttons">
 {%- if include.asin %}
-  <a class="btn btn--primary" data-amazon-asin="{{ include.asin }}" data-amazon-text="Buy on Amazon">Buy on Amazon</a>
+  <a class="btn btn--success" data-amazon-asin="{{ include.asin }}" data-amazon-text="Buy on Amazon">Buy on Amazon</a>
 {%- endif %}
 {%- if include.leanpub %}
   <a class="btn btn--warning" href="https://leanpub.com/{{ include.leanpub }}/">Buy on LeanPub</a>
 {%- endif %}
 {%- if include.gumroad %}
-  <a class="btn btn--warning" href="https://davorg.gumroad.com/l/{{ include.gumroad }}">Buy on Gumroad</a>
+  <a class="btn btn--info" href="https://davorg.gumroad.com/l/{{ include.gumroad }}">Buy on Gumroad</a>
 {%- endif %}
 </p>
