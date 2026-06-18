@@ -26,7 +26,7 @@ out to be completely unhelpful to their business.
 In this book, I've written down everything a small business owner needs to
 know in order to avoid making those mistakes.
 
-{% include buy_book.html asin="B0F84G4X6X" %}
+{% include buy_book.html asin="B0F84G4X6X" gumroad="whattoask" %}
 
 <img src="https://cdn.davecross.co.uk/imgs/abc.jpg" class="cover" alt="Digital Woodland ABCs">
 
