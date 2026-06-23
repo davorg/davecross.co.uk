@@ -11,3 +11,5 @@ main:
     url: /contact/
   - title: Elsewhere
     url: /elsewhere/
+  - title: Newsletter
+    url: https://davecross.substack.com/?utm_source=davecross.co.uk&utm_medium=website&utm_campaign=sitewide_nav

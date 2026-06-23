@@ -1,4 +1,6 @@
 {% assign locale = include.locale | default: site.locale %}
+{% include newsletter-signup.html %}
+
 {% unless site.atom_feed.hide %}
   {% assign show_atom = true %}
 {% endunless %}

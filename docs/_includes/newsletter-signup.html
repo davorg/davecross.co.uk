@@ -1,0 +1,10 @@
+{% assign newsletter_location = include.location | default: "sitewide_footer" %}
+<aside class="newsletter-signup{% if include.prominent %} newsletter-signup--prominent{% endif %}" aria-labelledby="newsletter-signup-title">
+  <div class="newsletter-signup__copy">
+    <h2 id="newsletter-signup-title">More from Dave, occasionally</h2>
+    <p>Subscribe for writing about technology, the web, publishing, and whatever I'm currently building.</p>
+  </div>
+  <a class="btn btn--primary newsletter-signup__button" href="https://davecross.substack.com/?utm_source=davecross.co.uk&amp;utm_medium=website&amp;utm_campaign={{ newsletter_location }}">
+    Subscribe on Substack <span aria-hidden="true">&rarr;</span>
+  </a>
+</aside>

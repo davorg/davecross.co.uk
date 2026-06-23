@@ -53,3 +53,52 @@ search: false
   color: #666;
   margin-top: 1em;
 }
+
+.newsletter-signup {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1.5rem;
+  max-width: 64rem;
+  margin: 0 auto 2rem;
+  padding: 1.25rem 1.5rem;
+  border-left: 0.3rem solid #2f7d95;
+  border-radius: 4px;
+  background: #f3f7f8;
+  color: #252a34;
+}
+
+.newsletter-signup--prominent {
+  margin: 2rem 0;
+  padding: 1.5rem;
+}
+
+.newsletter-signup__copy h2 {
+  margin: 0 0 0.35rem;
+  font-size: 1.25em;
+}
+
+.newsletter-signup__copy p {
+  margin: 0;
+  font-size: 0.9em;
+}
+
+.newsletter-signup__button {
+  flex: 0 0 auto;
+  margin: 0;
+  white-space: nowrap;
+}
+
+.newsletter-prominent-page .page__footer .newsletter-signup { display: none; }
+
+@media (max-width: 600px) {
+  .newsletter-signup {
+    display: block;
+  }
+
+  .newsletter-signup__button {
+    display: inline-block;
+    margin-top: 1rem;
+    white-space: normal;
+  }
+}

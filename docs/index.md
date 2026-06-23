@@ -1,5 +1,6 @@
 ---
 title: "Dave Cross"
+classes: newsletter-prominent-page
 redirect_from:
   - /cdn-cgi/l/email-protection
 ---
@@ -14,6 +15,8 @@ Secularist. Humanist. Republican (UK Meaning!). Londoner. Music lover. Writer.
 Genealogist.
 
 ... which probably about covers it.
+
+{% include newsletter-signup.html prominent=true location="homepage" %}
 
 Mostly, I make things from software. I've been a freelancer developer
 since 1995. These days, I mostly work on my own projects, but I'll still take
