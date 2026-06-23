@@ -89,6 +89,11 @@ search: false
   white-space: nowrap;
 }
 
+.page__footer a.newsletter-signup__button {
+  color: #fff;
+  text-decoration: none;
+}
+
 .newsletter-prominent-page .page__footer .newsletter-signup { display: none; }
 
 @media (max-width: 600px) {
