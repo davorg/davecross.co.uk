@@ -1,0 +1,100 @@
+- name: Dave Cross
+  description: |
+    *This is me.*
+
+    Open source software consultant, Perl programmer, author and conference
+    speaker. Writes about Perl, GitHub, databases, genealogy and the British
+    line of succession.
+  keywords:
+    - Perl
+    - CPAN
+    - GitHub
+    - DBIx::Class
+    - Dancer2
+    - Genealogy
+    - Line of Succession
+    - Data Munging with Perl
+    - Perl Template Toolkit
+  url: https://davecross.co.uk/
+
+- name: David Cross
+  description: >
+    American comedian, actor, writer and producer, best known for *Mr. Show*
+    and *Arrested Development*.
+  keywords:
+    - Comedy
+    - Stand-up
+    - "*Arrested Development*"
+    - Tobias Fünke
+    - "*Mr. Show*"
+  url: https://en.wikipedia.org/wiki/David_Cross_(comedian)
+
+- name: David Cross
+  description: >
+    Former professional footballer who played for West Ham United, Norwich
+    City and Manchester City before working in scouting and opposition analysis.
+  keywords:
+    - West Ham
+    - Norwich City
+    - Manchester City
+    - Blackburn Rovers
+    - Football
+    - Scouting
+  url: https://en.wikipedia.org/wiki/David_Cross_(footballer)
+
+- name: David Cross
+  description: >
+    Football performance analyst and author of *Football Performance Analysis:
+    The Complete Strategy Guide for Coaches & Analysts*.
+  keywords:
+    - Football
+    - Match Analysis
+    - Coaching
+    - Football Performance Analysis
+    - UEFA
+  url: https://www.amazon.co.uk/dp/B0GSW93CVN
+
+
+- name: Dave Cross
+  description: >
+    Photoshop educator, author and Adobe Certified Expert.
+  keywords:
+    - Photoshop
+    - Adobe
+    - Lightroom
+    - Photography
+  url: https://www.dcross.com/
+
+- name: David Cross
+  description: >
+    English violinist and keyboard player, best known for his work with
+    King Crimson.
+  keywords:
+    - King Crimson
+    - Mellotron
+    - Violin
+    - Progressive rock
+  url: https://en.wikipedia.org/wiki/David_Cross_(musician)
+
+- name: David Cross
+  description: >
+    Christian author and speaker.
+  keywords:
+    - Christian
+    - Soul Ties
+    - Ministry
+    - Faith
+  url: https://www.goodreads.com/author/list/224832.David_Cross
+
+- name: David Cross
+  description: |
+    Author of the western novel *A New Star for Texas*.
+
+    I was once invited to promote this book at an online book club,
+    despite having had absolutely nothing to do with writing it.
+  keywords:
+    - A New Star for Texas
+    - Western novels
+    - Texas
+    - Buck Rainey
+  url: https://www.amazon.co.uk/dp/B00FK8LOVG

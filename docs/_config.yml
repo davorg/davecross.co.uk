@@ -30,6 +30,9 @@ footer:
     - label: "Links"
       url: "https://links.davecross.co.uk/"
       icon: "fa-solid fa-link"
+    - label: "The Wrong Dave"
+      url: "/wrong-dave/"
+      icon: "fa-solid fa-signs-post"
 
 defaults:
   - scope:

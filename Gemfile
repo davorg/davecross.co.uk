@@ -5,4 +5,4 @@ gem "jekyll-remote-theme"
 gem "jekyll-include-cache"
 gem "jekyll-seo-tag"
 gem "jekyll-redirect-from"
-
+gem "logger"
