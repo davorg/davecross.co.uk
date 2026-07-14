@@ -107,3 +107,48 @@ search: false
     white-space: normal;
   }
 }
+
+.qr-modal {
+  display: none;
+  position: fixed;
+  inset: 0;
+  z-index: 1000;
+}
+
+.qr-modal:target {
+  display: grid;
+  place-items: center;
+}
+
+.qr-backdrop {
+  position: absolute;
+  inset: 0;
+  background: rgb(0 0 0 / 0.85);
+}
+
+.qr-panel {
+  position: relative;
+  z-index: 1;
+  width: min(92vw, 42rem);
+  padding: 2rem;
+  border-radius: 1rem;
+  background: white;
+  color: black;
+  text-align: center;
+}
+
+.qr-panel img {
+  display: block;
+  width: min(75vw, 32rem);
+  height: auto;
+  margin: 1rem auto;
+}
+
+.qr-close {
+  position: absolute;
+  top: 0.5rem;
+  right: 0.8rem;
+  font-size: 2rem;
+  line-height: 1;
+  text-decoration: none;
+}

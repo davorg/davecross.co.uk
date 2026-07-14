@@ -15,6 +15,26 @@ The easiest way to keep my details up to date is to add me using my vCard.
 If my contact details ever change, simply return to this page and download the
 latest version.
 
+<a class="qr-trigger" href="#qr">
+  Show QR code
+</a>
+
+<div id="qr" class="qr-modal" role="dialog" aria-modal="true" aria-labelledby="qr-title">
+  <a class="qr-backdrop" href="#"></a>
+
+  <div class="qr-panel">
+    <a class="qr-close" href="#" aria-label="Close QR code">×</a>
+
+    <h2 id="qr-title">Dave Cross</h2>
+
+    <img
+      src="/img/me-qr.svg"
+      alt="QR code linking to Dave Cross’s contact page">
+
+    <p>Scan to view my contact details</p>
+  </div>
+</div>
+
 ## 🌐 Find me online
 
 * Website: <https://davecross.co.uk/>
