@@ -45,7 +45,7 @@ latest version.
     <h2 id="qr-title">Dave Cross</h2>
 
     <img
-      src="/assets/images/me-qr.svg"
+      src="/img/me-qr.svg"
       alt="QR code linking to Dave Cross’s contact page">
 
     <p>Scan to view my contact details</p>
