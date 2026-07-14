@@ -57,7 +57,6 @@ latest version.
 * Website: <https://davecross.co.uk/>
 * GitHub: <https://github.com/davorg>
 * LinkedIn: <https://www.linkedin.com/in/davecross/>
-* Mastodon: *(or Bluesky, whichever you prefer)*
 * Perl Hacks: <https://perlhacks.com/>
 
 ## 💼 What I do
