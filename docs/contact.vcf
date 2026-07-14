@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Dave Cross
+N:Cross;Dave;;;
+ORG:Dave Cross Consultancy
+TITLE:Digital Consultant, Author & Trainer
+EMAIL;TYPE=WORK:dave@davecross.co.uk
+TEL;TYPE=MOBILE:+447973553385
+URL:https://davecross.co.uk/
+URL;TYPE=UPDATE:https://davecross.co.uk/contact.vcf
+END:VCARD
