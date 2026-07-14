@@ -88,6 +88,11 @@ Current interests include:
 document.addEventListener('DOMContentLoaded', function () {
   const modal = document.getElementById('qr');
   const trigger = document.getElementById('show-qr');
+
+  // Minimal Mistakes creates stacking contexts around parts of the layout.
+  // Moving the modal directly beneath <body> allows its z-index to work.
+  document.body.appendChild(modal);
+
   const closeButton = modal.querySelector('.qr-close');
   const backdrop = modal.querySelector('.qr-backdrop');
 
