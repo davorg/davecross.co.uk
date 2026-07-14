@@ -96,6 +96,12 @@ document.addEventListener('DOMContentLoaded', function () {
   const closeButton = modal.querySelector('.qr-close');
   const backdrop = modal.querySelector('.qr-backdrop');
 
+  function isQrMode() {
+    const params = new URLSearchParams(window.location.search);
+
+    return window.location.hash === '#qr' || params.has('qr');
+  }
+
   function openQrModal() {
     modal.classList.add('is-open');
     modal.setAttribute('aria-hidden', 'false');
@@ -108,26 +114,31 @@ document.addEventListener('DOMContentLoaded', function () {
     modal.setAttribute('aria-hidden', 'true');
     document.body.classList.remove('qr-is-open');
 
-    if (window.location.hash === '#qr') {
-      history.replaceState(
-        null,
-        '',
-        window.location.pathname + window.location.search
-      );
-    }
+    // Remove both #qr and ?qr while preserving any other query parameters.
+    const url = new URL(window.location.href);
+
+    url.hash = '';
+    url.searchParams.delete('qr');
+
+    history.replaceState(null, '', url);
   }
 
-  function respondToHash() {
-    if (window.location.hash === '#qr') {
+  function respondToLocation() {
+    if (isQrMode()) {
       openQrModal();
     } else {
-      closeQrModal();
+      modal.classList.remove('is-open');
+      modal.setAttribute('aria-hidden', 'true');
+      document.body.classList.remove('qr-is-open');
     }
   }
 
   trigger.addEventListener('click', function (event) {
     event.preventDefault();
-    history.pushState(null, '', '#qr');
+
+    // Use the URL supplied by the link, allowing either href="#qr"
+    // or href="?qr" to be used in the HTML.
+    history.pushState(null, '', trigger.href);
     openQrModal();
   });
 
@@ -140,8 +151,9 @@ document.addEventListener('DOMContentLoaded', function () {
     }
   });
 
-  window.addEventListener('hashchange', respondToHash);
+  window.addEventListener('hashchange', respondToLocation);
+  window.addEventListener('popstate', respondToLocation);
 
-  respondToHash();
+  respondToLocation();
 });
 </script>
