@@ -4,8 +4,6 @@ permalink: /me/
 layout: single
 ---
 
-# Dave Cross
-
 Perl consultant, author, trainer and open source developer based in London.
 
 ## 📇 Add me to your contacts
