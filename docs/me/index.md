@@ -16,7 +16,7 @@ If my contact details ever change, simply return to this page and download the
 latest version.
 
 <p>
-  <a href="#qr" class="qr-trigger" id="show-qr">
+  <a href="/me?qr" class="qr-trigger" id="show-qr">
     Show QR code
   </a>
 </p>
