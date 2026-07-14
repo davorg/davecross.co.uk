@@ -15,20 +15,37 @@ The easiest way to keep my details up to date is to add me using my vCard.
 If my contact details ever change, simply return to this page and download the
 latest version.
 
-<a class="qr-trigger" href="#qr">
-  Show QR code
-</a>
+<p>
+  <a href="#qr" class="qr-trigger" id="show-qr">
+    Show QR code
+  </a>
+</p>
 
-<div id="qr" class="qr-modal" role="dialog" aria-modal="true" aria-labelledby="qr-title">
-  <a class="qr-backdrop" href="#"></a>
+<div
+  id="qr"
+  class="qr-modal"
+  role="dialog"
+  aria-modal="true"
+  aria-labelledby="qr-title"
+  aria-hidden="true">
+
+  <button
+    type="button"
+    class="qr-backdrop"
+    aria-label="Close QR code"></button>
 
   <div class="qr-panel">
-    <a class="qr-close" href="#" aria-label="Close QR code">×</a>
+    <button
+      type="button"
+      class="qr-close"
+      aria-label="Close QR code">
+      &times;
+    </button>
 
     <h2 id="qr-title">Dave Cross</h2>
 
     <img
-      src="/img/me-qr.svg"
+      src="/assets/images/me-qr.svg"
       alt="QR code linking to Dave Cross’s contact page">
 
     <p>Scan to view my contact details</p>
@@ -67,3 +84,59 @@ Current interests include:
 
 *Met me at a conference? Feel free to get in touch.*
 
+<script>
+document.addEventListener('DOMContentLoaded', function () {
+  const modal = document.getElementById('qr');
+  const trigger = document.getElementById('show-qr');
+  const closeButton = modal.querySelector('.qr-close');
+  const backdrop = modal.querySelector('.qr-backdrop');
+
+  function openQrModal() {
+    modal.classList.add('is-open');
+    modal.setAttribute('aria-hidden', 'false');
+    document.body.classList.add('qr-is-open');
+    closeButton.focus();
+  }
+
+  function closeQrModal() {
+    modal.classList.remove('is-open');
+    modal.setAttribute('aria-hidden', 'true');
+    document.body.classList.remove('qr-is-open');
+
+    if (window.location.hash === '#qr') {
+      history.replaceState(
+        null,
+        '',
+        window.location.pathname + window.location.search
+      );
+    }
+  }
+
+  function respondToHash() {
+    if (window.location.hash === '#qr') {
+      openQrModal();
+    } else {
+      closeQrModal();
+    }
+  }
+
+  trigger.addEventListener('click', function (event) {
+    event.preventDefault();
+    history.pushState(null, '', '#qr');
+    openQrModal();
+  });
+
+  closeButton.addEventListener('click', closeQrModal);
+  backdrop.addEventListener('click', closeQrModal);
+
+  document.addEventListener('keydown', function (event) {
+    if (event.key === 'Escape' && modal.classList.contains('is-open')) {
+      closeQrModal();
+    }
+  });
+
+  window.addEventListener('hashchange', respondToHash);
+
+  respondToHash();
+});
+</script>
