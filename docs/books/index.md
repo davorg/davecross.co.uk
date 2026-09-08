@@ -13,6 +13,20 @@ title: Books
 
 I've written a few books over the last few <del>years</del><ins>decades</ins>.
 
+<img src="https://cdn.davecross.co.uk/imgs/dmp2.png" class="cover" alt="Data Munging with Perl [2ed]">
+
+### Data Munging with Perl [2ed]
+
+[[Perl School](https://perlschool.com/books/data-munging/), Nov 2026]
+
+Twenty-five years after the first edition, I'm updating *Data Munging with Perl*
+to cover modern Perl and newer CPAN modules.
+
+The book will be released in time for the London Perl Workshop 2026 but, until
+then, you can buy a "work in progress" version from LeanPub.
+
+{% include buy_book.html leanpub="datamungingwithperl" %}
+
 <img src="https://cdn.davecross.co.uk/imgs/wsg.jpg" class="cover" alt="What to Ask Your Website Company">
 
 ### What to Ask Your Website Company {#wsg}
