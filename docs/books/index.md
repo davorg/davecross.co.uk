@@ -120,9 +120,9 @@ thoughts and shared them in an eBook.
 
 [[O'Reilly](https://www.oreilly.com/library/view/perl-template-toolkit/0596004761/), Dec 2003]
 
-I was one of three authors on the only book about Perl's defacto standard
-templating engine. It's over twenty years old, but still holds up pretty
-well.
+I was one of three authors, along with Darren Chamberlain and Andy Wardley, on
+the only book about Perl's defacto standard templating engine. It's over twenty
+years old, but still holds up pretty well.
 
 {% include buy_book.html asin="0596004761" %}
 
