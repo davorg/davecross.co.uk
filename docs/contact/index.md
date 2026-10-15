@@ -20,9 +20,10 @@ If you’d like to get in touch about consulting, training, or
 
   <label for="message">Message</label>
   <textarea id="message" name="message" rows="6" required></textarea>
+i  <input type="hidden" name="source" value="DaveCross">  
 
   <!-- Optional: subject line in the email you receive -->
-  <input type="hidden" name="_subject" value="New message from your website">
+  <input type="hidden" name="_subject" value="New message from DaveCross.co.uk">
 
   <!-- Spam honeypot: humans leave this blank -->
   <input type="text" name="_gotcha" style="display:none">
