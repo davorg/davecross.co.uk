@@ -19,13 +19,11 @@ I've written a few books over the last few <del>years</del><ins>decades</ins>.
 
 [[Perl School](https://perlschool.com/books/data-munging/), Nov 2026]
 
-Twenty-five years after the first edition, I'm updating *Data Munging with Perl*
-to cover modern Perl and newer CPAN modules.
+Twenty-five years after the first edition, I have updated *Data Munging with Perl*
+to cover modern Perl, newer CPAN modules and new data formats (can you believe
+we had never heard of JSON in 2001).
 
-The book will be released in time for the London Perl Workshop 2026 but, until
-then, you can buy a "work in progress" version from LeanPub.
-
-{% include buy_book.html leanpub="datamungingwithperl" %}
+{% include buy_book.html asin="1065495714" leanpub="datamungingwithperl" %}
 
 <img src="https://cdn.davecross.co.uk/imgs/wsg.jpg" class="cover" alt="What to Ask Your Website Company">
 
