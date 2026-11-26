@@ -35,7 +35,7 @@ footer:
       icon: "fa-solid fa-signs-post"
     - label: "Buy me a coffee"
       url: "https://ko-fi.com/davorg"
-      icon: "fa-solid fa-ko-fi"
+      icon: "fa-solid fa-brands fa-ko-fi"
 
 defaults:
   - scope:
