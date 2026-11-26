@@ -33,6 +33,9 @@ footer:
     - label: "The Wrong Dave"
       url: "/wrong-dave/"
       icon: "fa-solid fa-signs-post"
+    - label: "Buy me a coffee"
+      url: "https://ko-fi.com/davorg"
+      icon: "fa-solid fa-ko-fi"
 
 defaults:
   - scope:
